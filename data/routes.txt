@@ -1,0 +1,4049 @@
+route_id,route_short_name,route_long_name,route_type,agency_id
+17628,3,Guindy B.S TO  Thiruvanmiyur B.S,3,69
+17629,3,Thiruvanmiyur B.S To  Guindy B.S,3,69
+18750,12G CT,Sathya Nagar TO Lady Willingdon College Of Education,3,69
+17475,S55W,Tambaram West TO Tambaram West,3,69
+10977,120G,Menambedu TO Broadway,3,69
+10236,242,Redhills TO Broadway,3,69
+11115,2A,K.Kannadasan Nagar TO Anna Square,3,69
+17627,29C,Perambur B.T TO Sterling Road,3,69
+18751,29A,Anna Square TO Perambur B.T,3,69
+17631,170C,Vyasarpadi to  Guindy TVK Estate,3,69
+18752,40A,Anna Square TO Pattabiram,3,69
+18753,22 CT,Anna Square TO Ayanavaram,3,69
+8479,221,Thiruporur Bus Stand TO M.G.R.Koyambedu,3,69
+18754,23C CT,Saidapet TO Ayanavaram B.T,3,69
+15721,41D,Ambattur O.T TO Mandaveli,3,69
+18755,29A CT,Secretariat TO Perambur B.T,3,69
+18756,29D,Vivekananda House TO Mathur M.M.D.A.,3,69
+11872,553K,Katrambakkam TO M.G.R.Koyambedu,3,69
+11874,553K,M.G.R.Koyambedu TO Katrambakkam,3,69
+18757,29Et,Mandaveli TO Vinayagapuram,3,69
+18758,40A CT,Anna Square TO Avadi B.T,3,69
+10709,19BEt,Thaiyur Koman Nagar TO Thyagaraya Nagar,3,69
+18759,23C CT1,Besant Nagar TO Ayanavaram B.T,3,69
+18760,23C CT2,Perumpakkam S.C.B TO Ayanavaram B.T,3,69
+18761,T23C CT,Saidapet TO Ayanavaram,3,69
+4946,579K,Walajabad TO Tambaram,3,69
+16015,55K,Keerapakkam TO Guduvancheri B.S,3,69
+16014,55K,Guduvancheri B.S TO Keerapakkam,3,69
+11919,55K,Tambaram West TO Guduvanchery,3,69
+18762,T23C,Thiruvanmiyur TO Ayanavaram,3,69
+10684,104T,T.V.K.Nagar TO Otteri,3,69
+17674,579A,Tambaram Sanatorium TO Walajabad,3,69
+11875,553K,M.G.R.Koyambedu TO Sunguvarchathiram,3,69
+18763,T23C CT1,Thiruvanmiyur TO Egmore,3,69
+307,5B,Mylapore TO Thiyagarayanagar,3,69
+15885,570Et,Anna Nagar West TO M.G.R.Koyambedu,3,69
+13402,S43,Pudur TO Villivakkam,3,69
+10532,18A,Broadway TO Keelkattalai,3,69
+16290,S43,Pudur TO Ayanavaram B.S,3,69
+10533,18A,Broadway TO Kilambakkam B.T,3,69
+11879,553K,Sunguvarchathiram TO M.G.R.Koyambedu,3,69
+17675,579K,Kilambakkam B.T TO Walajabad,3,69
+18764,12X,Foreshore Estate TO M.G.R.Koyambedu,3,69
+12950,C56C,Thiruvotriyur B.T TO Broadway,3,69
+10588,27B,Egmore R.S TO M.G.R.Koyambedu,3,69
+18765,129C,Perambur B.T TO Nanganallur,3,69
+14638,C56C,Tondiarpet TO Thiruvotiyur B.T,3,69
+14639,C56C,Tondiarpet TO Broadway,3,69
+18766,17D,Broadway TO K.K.Nagar,3,69
+17954,53P,Broadway TO Poonamallee B.T,3,69
+18767,88C CT,Broadway TO Kundrathur B.T,3,69
+12581,70H,Hasthinapuram TO M.G.R.Koyambedu,3,69
+13796,54T,Saidapet TO Thyagaraya Nagar,3,69
+13797,54T,Thyagaraya Nagar TO Saidapet,3,69
+11791,549,Thiruvanmiyur TO Sriperumbudur,3,69
+17676,170Tx,Kaviarasu Kannadasan Nagar TO M.G.R.Koyambedu,3,69
+16303,170Tx,Moolakadai TO Kilambakkam B.S,3,69
+15127,19C,Okk.Thoraipakm Sec.Colony TO Adyar B.T,3,69
+17957,95X,Kilambakkam B.S TO Shozhanganallur,3,69
+13298,S25,Vadapalani TO Valasaravakkam,3,69
+18768,88C,Broadway TO Thandalam Village,3,69
+13301,S25,Valasaravakkam TO Vadapalani,3,69
+3516,95X,Tambaram East Bus Stop TO Shozhanganallur,3,69
+13304,S25,Valasaravakkam TO Maduravoyal Market,3,69
+18769,88CEt,Thyagaraya Nagar TO Iyyappanthangal,3,69
+18770,88CEt,Thyagaraya Nagar TO Nandambakkam Village,3,69
+11788,549,Poonamallee B.T TO Thiruvanmiyur,3,69
+11789,549,Sriperumbudur TO Thiruvanmiyur,3,69
+11790,549,Thiruvanmiyur TO Poonamallee B.T,3,69
+18771,27B,M.G.R.Koyambedu TO Anna Square,3,69
+17956,99X,Kilambakkam B.S TO Semmenchery,3,69
+15921,MAA1,Chennai Airport TO Kilambakkam B.T,3,69
+14091,MAA1,Cement Road TO Alandur Depot,3,69
+18772,51A,Thyagaraya Nagar TO Tambaram East,3,69
+17958,99X,Semmancheri B.S TO Adyar,3,69
+14093,MAA1,Airport TO Tambaram,3,69
+17678,549,Poonamallee B.T TO Sriperumbudur,3,69
+17679,579C,Tambaram Sanatorium TO Walajabad,3,69
+14094,MAA1,Cement Road TO Airport,3,69
+14095,MAA1,Airport TO Cement Road,3,69
+17684,113A,Teachers Colony TO Guindy B.S,3,69
+18773,5C CT,Thiruvanmiyur TO Broadway,3,69
+18774,102 CT1,Siruseri I.T Park TO Broadway,3,69
+18775,V51CT,Velachery to Medavakkam Bus Terminus,3,69
+18776,V51CT,Medavakkam Bus Terminus to Velachery,3,69
+18777,V51CT,Saidapet to Medavakkam Bus Terminus,3,69
+18778,V51CT,Medavakkam Bus Terminus to Saidapet,3,69
+11749,53A,Thirumazhisai TO Broadway,3,69
+16689,53A,Broadway TO Thirumazhisai,3,69
+17393,102K,Broadway TO Perumpakkam S.C.B,3,69
+18779,27D,Icf  TO Foreshore Estate,3,69
+18780,27D,Icf  TO Ayanavaram B.T,3,69
+18782,27D,Foreshore Estate TO Icf,3,69
+18783,129C,Perambur B.T TO Besant Nagar,3,69
+18784,24A,Anna Nagar West TO Vivekananda House,3,69
+18785,102K R,Ezhil Nagar TO Broadway,3,69
+18786,102K,Kannagi Nagar S.C.B TO Broadway,3,69
+18787,29B CT,Madhavaram Milk Colony TO L.F.C,3,69
+18788,29B CT,Madhavaram Milk Colony Main Gate TO Gemini,3,69
+18789,29C CT,Perambur B.T TO Mandaveli,3,69
+18790,29CEt CT1,Perambur B.T TO Besant Nagar,3,69
+18791,29CEt,Periyar Nagar TO Besant Nagar,3,69
+18792,29CEX,Srinivasa Nagar TO Besant Nagar,3,69
+18793,29C,Perambur B.T TO Besant Nagar,3,69
+18794,T29C CT,Perambur Bus Terminus TO Mandaveli,3,69
+10472,26K,Broadway TO Kundrathur Depot,3,69
+14475,51C,Vandalur TO Velachery,3,69
+18795,T29C,Perambur Bus Terminus TO Thiruvanmiyur,3,69
+14476,51C,Vandalur TO Saidapet West Bus Stand,3,69
+14477,51C,Saidapet West Bus Stand TO Vandalur,3,69
+18797,19 CT4,Kelambakkam TO Adyar,3,69
+18798,S35,Ashok Pillar TO Defence Colony,3,69
+11724,523,Perunthandalam TO Sholinganallur,3,69
+18800,10A,Saidapet West TO Broadway,3,69
+18801,10E CT,Saidapet West TO Broadway,3,69
+11725,523,Sholinganallur TO Mullipakkam,3,69
+18802,10E,Saidapet West TO M.G.R.Central,3,69
+18803,500W,Saidapet West TO Chengalpet,3,69
+18804,500W,Saidapet West TO Tambaram West,3,69
+18805,88D,Saidapet West TO Kundrathur B.T,3,69
+11735,523A,Karumbakkam TO Thiruporur,3,69
+11736,523A,Karumbakkam TO Thiruvanmiyur,3,69
+11739,523A,Thiruporur TO Karumbakkam,3,69
+11741,523A,Thiruvanmiyur TO Devi Karumariamman Temple,3,69
+11745,523A,Thiruvanmiyur TO Karumbakkam,3,69
+11339,44Ct,I.O.C TO Broadway,3,69
+11337,44Ct,Broadway TO I.O.C,3,69
+18806,102P,Perumpakkam S.C.B TO Broadway,3,69
+18807,102S EX,Kannagi Nagar S.C.B TO Broadway,3,69
+12738,70F,Madhavaram TO Madhavaram B.T,3,69
+12820,77V,Ambattur I.E TO M.G.R.Koyambedu,3,69
+12824,77V,Veppampattu E.Waran Nagar TO Ambattur I.E,3,69
+18808,27D CT,Ayanavaram Depot TO  Icf,3,69
+10579,104G,Ambattur I.E TO Kilambakkam B.T,3,69
+18813,515CT,Tambaram TO  Kelambakkam Bus Terminal,3,69
+18815,515CT,Kelambakkam Bus Terminal  TO Tambaram,3,69
+18816,45BEt,Mugalivakkam TO Anna Square,3,69
+18817,45B CT,Mugalivakkam Mm Temple TO Vivekananda House,3,69
+17931,51,Velachery Hospital TO Broadway,3,69
+17501,3,Thiyagaraya Nagar TO Saidapet Depot,3,69
+16552,3,Kannagi Nagar Bus Stand TO Thiruvanmiyur Bus Stand,3,69
+16558,3,Chinnamalai Or Saidapet Court TO Thiruvanmiyur Bus Stand,3,69
+16556,3,Todd Hunter Nagar TO Chinnamalai Or Saidapet Court,3,69
+16554,3,Secretariat TO Todd Hunter Nagar,3,69
+16557,3,Chinnamalai Or Saidapet Court TO Todd Hunter Nagar,3,69
+18818,45B CT1,Guindy Tvk Estate TO Anna Square,3,69
+18819,A45B,Nandambakkam TO Anna Square,3,69
+16615,26,Gemini TO Iyyappanthangal,3,69
+16616,26,Iyyappanthangal TO Gemini,3,69
+18820,A45B CT,Guindy Tvk Estate TO Vivekananda House,3,69
+18821,45B CT2,Guindy Tvk Estate TO Vivekananda House,3,69
+16541,3,Thiruvanmiyur Bus Stand TO Kannagi Nagar Bus Stand,3,69
+18822,45BEt CT,Cement Road TO Anna Square,3,69
+18823,45BEt CT1,Guindy Tvk Estate TO Anna Square,3,69
+16859,51,Velachery B.T TO Saidapet,3,69
+18824,A45B CT1,Cement Road TO Anna Square,3,69
+18825,N45B,Keelkattalai TO Broadway,3,69
+16891,51,Thyagaraya Nagar TO Sunnambu Kolathur,3,69
+18826,12B CT1,Vadapalani TO Luz,3,69
+16895,51,Ngo Colony TO Tambaram West Bus Stand,3,69
+16904,51,Velachery B.T TO Sunnambu Kolathur,3,69
+16935,51,Cement Road TO Tambaram West,3,69
+12292,5E,Broadway TO M.G.R.Koyambedu,3,69
+18827,41D CT,Avadi B.T TO Mandaveli,3,69
+12296,5E,Vadapalani TO Besant Nagar,3,69
+18829,6,Broadway TO Srinivasapuram,3,69
+18830,95XCt CT,Kilambakkam  to  Semmancheri,3,69
+16893,51,Sunnambu Kolathur TO Thyagaraya Nagar,3,69
+18831,95XCt CT2,Semmancheri TO  Kilambakkam Bus Terminus,3,69
+16906,51,Thyagaraya Nagar TO Tambaram West,3,69
+18832,95XCt R,Sholinganallur TO Kilambakkam B.T,3,69
+10633,18K,Saidapet West TO Broadway,3,69
+16938,51,Broadway TO Velachery B.T,3,69
+16902,51,Velachery B.T TO Tambaram West,3,69
+16911,51,Tambaram West TO Velachery B.T,3,69
+16915,51,Tambaram West TO Thyagaraya Nagar,3,69
+18833,95XCt R1,Shozhinganallur TO  Kilambakkam,3,69
+16922,51,Tambaram West TO Saidapet,3,69
+16931,51,Sunnambu Kolathur TO Velachery B.T,3,69
+16933,51,Saidapet TO Tambaram West,3,69
+16925,51,Tambaram West TO N.G.O.Colony,3,69
+16927,51,Tambaram West TO Cement Road,3,69
+18834,102E CT1,Thiruvanmiyur  TO  Perumbakkam Bus Terminus,3,69
+13387,S41,Ambattur I.E TO Avadi B.T,3,69
+13388,S41,Ambedkar Statue TO Avadi B.T,3,69
+13389,S41,Avadi B.T TO Ambattur I.E,3,69
+16941,51,Kilambakkam Bus Terminus TO Velachery,3,69
+18835,102E CT2,Perumbakkam Bus Terminus TO  Thiruvanmiyur,3,69
+18837,2B CT,Vyasarpadi Depot TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+17697,S58,Thirumullaivoyal Colony TO Ambattur I.E,3,69
+17340,565,Avadi TO Sriperumbudur,3,69
+7971,20A,J.J.Nagar East TO Broadway,3,69
+18839,57 CT,Vallalar Nagar TO Vyasarpadi,3,69
+18840,57,Redhills TO Vallalar Nagar,3,69
+18841,2B CT1,Kaviarasu Kannadasan Nagar Bus Stand TO Vyasarpadi Depot,3,69
+18843,101,Thiruvotriyur TO Poonamallee,3,69
+18844,10A,Thangal Tollgate TO Saidapet West,3,69
+10229,242,Broadway TO Redhills,3,69
+17338,565,Sriperumbudur TO Avadi,3,69
+18845,15BEt CT,Thangal Tollgate TO M.G.R.Koyambedu,3,69
+18846,1C CT1,Ennore TO Broadway,3,69
+18847,1C,Ennore Bus Depot TO Thiruvanmiyur Bus,3,69
+18848,1D,Ennore TO Thiruvanmiyur,3,69
+17688,570,Siruseri To  Guindy B.S,3,69
+17024,54,Broadway TO Iyyappanthangal,3,69
+18849,4,Ennore TO Broadway,3,69
+18850,4M,Ennore TO Broadway,3,69
+17689,570,Guindy B.S To  Siruseri,3,69
+9953,547,Redhills TO Siruvapuri,3,69
+18851,4M,Minjur TO Broadway,3,69
+9596,S22,Iyyappanthangal TO Kovur,3,69
+18852,56C CT,Tondiarpet TO Broadway,3,69
+17705,79V,Tambaram Sanatorium TO Walajabad,3,69
+18853,56D CT,Azeezee Nagar TO Broadway,3,69
+18854,56D,Manali TO Broadway,3,69
+18855,56T,Athipettu R.S TO Broadway,3,69
+12477,66K,Kilambakkam B.T TO Tambaram West,3,69
+17704,297,Thiruvallur TO Kilambakkam B.T,3,69
+12555,64K,Broadway TO K.Kannadasan Nagar,3,69
+18856,8ACt,Thangal Tollgate TO Vallalar Nagar,3,69
+10964,120K,Avadi B.T TO Kadhavoor,3,69
+18857,109T,Thiruvotriyur B.T TO Kovalam,3,69
+18858,101 CT1,M.G.R.Central TO Thiruvotriyur,3,69
+18859,101 CT3,Poonamallee TO Thangal Tollgate,3,69
+18860,101,Poonamallee TO Thiruvottriyur,3,69
+17693,570,Perumbakkam To  Siruseri,3,69
+17694,570,Siruseri  To  Perumbakkam,3,69
+12855,79V,Walajabad TO Tambaram Sanatorium,3,69
+12857,79V,Tambaram West TO Venbakkam,3,69
+12858,79V,Venbakkam TO Tambaram West,3,69
+18861,1C CT2,Broadway TO Ennore,3,69
+18862,1C R,Thiruvanmiyur TO Ennore,3,69
+17687,578Et,Poonamallee B.T TO Sunguvarchathiram,3,69
+17703,578Et,Iyyappanthangal TO Kunnam,3,69
+9986,580,Avadi Bus Terminus TO Siruvapuri Temple,3,69
+9992,580,Siruvapuri Temple TO Avadi Bus Terminus,3,69
+18863,1D,Thiruvanmiyur TO Ennore,3,69
+18864,4,Broadway TO Ennore,3,69
+17947,570,Siruseri I.T Park TO M.G.R.Koyambedu,3,69
+18865,4M,Broadway TO Ennore,3,69
+18866,4M,Broadway TO Minjur,3,69
+18867,56D,Broadway TO Manali,3,69
+9955,547,Siruvapuri TO Red Hills,3,69
+12143,578Et,Kunnam TO Poonamallee B.T,3,69
+12145,578Et,Sunguvarchathiram TO Iyyappanthangal,3,69
+12146,578Et,Sunguvarchathiram TO Poonamallee B.T,3,69
+13104,D70X,Ambattur I.E TO Guindy Tvk Estate,3,69
+13106,D70X,Ambattur I.E TO Velachery Mrts,3,69
+13110,D70X,Velachery Mrts TO Ambattur I.E,3,69
+11778,547,Padiyanallur TO Redhills,3,69
+17966,570,Kelambakkam TO Adyar Depot,3,69
+17967,570,Siruseri I.T Park TO Adyar Depot,3,69
+17330,566,Kundrathur TO Kilambakkam,3,69
+11780,547,Redhills TO Periyapalayam,3,69
+12489,66K,Tambaram West TO Kilambakkam B.T,3,69
+10415,166K,Kilambakkam B.T TO Kovur,3,69
+17329,566,Kundrathur TO Thiruporur,3,69
+17331,566,Kilambakkam TO Kundrathur,3,69
+9783,166K,Kilambakkam B.S TO Iyyappanthangal,3,69
+18869,8ACt ct1,Vallalar Nagar TO Thangal Tollgate,3,69
+18870,4 CT,M.G.R.Central TO Ennore,3,69
+17707,64C,Manali TO Madhavaram,3,69
+18871,109T,Kovalam TO Thiruvotriyur B.T,3,69
+18872,46 CT,Ayanavaram B.T TO M.G.R.Koyambedu,3,69
+18873,46,T.V.K.Nagar TO M.G.R.Koyambedu,3,69
+11772,53P,Broadway TO Pattur,3,69
+11774,53P,Pattur TO Broadway,3,69
+18874,46Et,Periyar Nagar TO M.G.R.Koyambedu,3,69
+18876,46G CT,M.K.B.Nagar TO Koyambedu Market,3,69
+15773,147C,Kilambakkam B.T TO Ambattur I.E.,3,69
+15881,147C,Thiyagarayanagar Terminus TO Senthil Nagar,3,69
+18877,70E CT,Ayanavaram B.T TO Kilambakkam B.T,3,69
+18878,70E,M.K.B.Nagar TO Kilambakkam B.T,3,69
+18879,47,Villivakkam TO Besant Nagar,3,69
+10617,18D,N.G.O.Colony TO Broadway,3,69
+17712,45A,Vivekananda House TO N.G.O.Colony,3,69
+15909,64K,Perambur TO K.Kannadasan Nagar,3,69
+18880,21G CT,Cement Road TO Broadway,3,69
+17713,M88 ct1,Amarambedu East TO Vadapalani,3,69
+17304,570,Velachery TO M.G.R.Koyambedu,3,69
+8082,170CE,Guindy Bus Terminus TO Manali Bus Terminus,3,69
+18881,21G CT,Kilambakkam B.T TO Broadway,3,69
+18882,21G CT1,Tambaram West to Broadway BT,3,69
+18883,19D CT,Perumpakkam S.C.B TO Adyar Gate,3,69
+17311,570,M.G.R.Koyambedu TO Velachery,3,69
+13368,S35,Defence Colony TO Ashok Nagar Metro R.S,3,69
+13369,S35,K.K.Nagar B.T TO Defence Colony,3,69
+6965,72Ct,Todd Hunter Nagar TO Saidapet Depot,3,69
+15096,29E,Perambur B.T TO Otteri,3,69
+18884,S17,Adyar B.T TO Mandaveli,3,69
+10508,26M,Mugalivakkam TO Broadway,3,69
+18885,49K CT,Iyyappanthangal TO Mandaveli,3,69
+17715,515A,Tambaram West TO Mamallapuram,3,69
+11610,515A,Kovalam TO Tambaram West,3,69
+6963,72Ct,Saidapet  Depot TO Todd Hunter Nagar,3,69
+18886,46G CT1,M.K.B.Nagar TO  Vyasarpadi Depot,3,69
+10523,104A,Kilambakkam B.T TO Avadi B.T,3,69
+18887,46G CT3,Vyasarpadi (Depot) TO M.K.B.Nagar,3,69
+18888,46G,M.K.B.Nagar TO M.G.R.Koyambedu,3,69
+18889,57X CT1,Vyasarpadi TO Vallalar Nagar,3,69
+18890,57X,Vallalar Nagar TO Periyapalayam,3,69
+18891,57X CT2,Periyapalayam TO Redhills Bus Terminus,3,69
+10517,188K,Katrambakkam TO Iyyappanthangal,3,69
+18893,57X CT3,Redhills TO Periyapalayam,3,69
+15108,29A,Secretariat TO Anna Square,3,69
+16057,142,Perambur B.S TO Redhills B.S,3,69
+18895,57X CT4,Vallalar Nagar TO Vyasarpadi,3,69
+16061,142,Redhillsb.S TO Perambur B.S,3,69
+11619,515A,Thiruporur TO Tambaram West,3,69
+499,104C,Koyambedu TO Guduvanchery,3,69
+11264,42B,Poompuhar TO Broadway,3,69
+15912,70M,Vyasarpadi (Depot) TO Moolakadai,3,69
+18896,57X,Periyapalayam TO Vallalar Nagar,3,69
+15913,70M,Moolakadai TO Vyasarpadi (Depot),3,69
+17719,579A,Nehru Nagar TO Walajabad,3,69
+10526,104A,M.G.R.Koyambedu TO Avadi B.T,3,69
+15890,120A,Ambattur Industrial Estate TO Avadi Bus Terminus,3,69
+15893,202X,Avadi Bus Terminus TO Tambaram West Bus Stand,3,69
+18897,48B CT,Vyasarpadi Depot TO  Vallalar Nagar,3,69
+18898,48B CT1,Vallalar Nagar TO  Vyasarpadi Depot,3,69
+18899,102P CT,Broadway TO  M.K.B.Nagar,3,69
+18900,102P CT2,M.K.B.Nagar TO  Broadway,3,69
+17290,142,Vinayagapuram TO Broadway,3,69
+11690,51X,Kilambakkam B.T TO Tambaram West,3,69
+17284,142,Broadway TO Vinayagapuram,3,69
+17287,142,Perambur TO Vinayagapuram,3,69
+17289,142,Padiyanallur TO Perambur,3,69
+12154,579A,Oragadam TO Tambaram Sanatorium,3,69
+10515,188K,Iyyappanthangal TO Thyagaraya Nagar,3,69
+17885,56J,Tollgate TO Broadway,3,69
+15895,57M,Alamathi TO Redhills,3,69
+17288,142,Perambur TO Padiyanallur,3,69
+12023,56J,Broadway TO Manali New Town,3,69
+14375,170T,Tambaram West TO M.G.R.Koyambedu,3,69
+12156,579A,Tambaram Sanatorium TO Oragadam,3,69
+13072,J51,Venkadamangalam TO N.G.O.Colony,3,69
+13073,J51,Venkadamangalam TO Velachery B.T,3,69
+17959,56J,Broadway TO Thangal Tollgate,3,69
+11083,31A,Tambaram West TO Agaramthen,3,69
+18901,3 CT,Perumbakkam TO  Thiyagarayanagar,3,69
+17513,104,Redhills B.S TO  Moolakadai,3,69
+12165,579A,Walajabad TO Nehru Nagar,3,69
+10516,104A,Avadi B.T TO Kilambakkam B.T,3,69
+18902,3 CT1,Perumbakkam TO  Thiruvanmiyur,3,69
+13074,G18,Cement Road TO Kilambakkam B.T,3,69
+18903,3 CT2,Thiruvanmiyur TO  Perumbakkam,3,69
+8128,56P,Broadway TO Minjur Bus Terminus,3,69
+18904,3 CT3,Thiyagarayanagar TO  Perumbakkam,3,69
+12050,56P,Minjur N.T TO Tondiarpet,3,69
+17720,583A,Poonamallee B.T TO Sriperumbudur,3,69
+10718,19C,Okk.Thoraipakm Sec.Colony TO Thyagaraya Nagar,3,69
+13077,G18,Guduvanchery TO Thyagaraya Nagar,3,69
+13080,G18,Thyagaraya Nagar TO Cement Road,3,69
+13081,G18,Thyagaraya Nagar TO Guduvanchery,3,69
+18905,70G,Guduvanchery TO Vadapalani B.T,3,69
+18906,570V,Kelambakkam TO Vadapalani,3,69
+15902,33C,K.Kannadasan Nagar TO Vyasarpadi (Depot),3,69
+17960,56P,Broadway TO Tondiarpet,3,69
+17961,56P,Secretariat TO Minjur,3,69
+17277,121,Minjur TO M.G.R.Koyambedu,3,69
+17276,121,Tondiarpet TO Minjur,3,69
+17278,121,M.G.R.Koyambedu TO Minjur,3,69
+18907,102K CT,Alwarpet TO Broadway,3,69
+10522,104A,Avadi B.T TO Tambaram West,3,69
+15903,33C,Vyasarpadi (Depot) TO K.Kannadasan Nagar,3,69
+10719,19C,Thyagaraya Nagar TO Okk.Thoraipakm Sec.Colony,3,69
+10520,188K,Katrambakkam TO Thyagaraya Nagar,3,69
+17962,56P,Tondiarpet TO Minjur,3,69
+18908,99 CT,Perumbakkam Bus Terminus  to  Tambaram West Bus Stand,3,69
+15908,64K,K.Kannadasan Nagar TO Vyasarpadi (Depot),3,69
+15910,64K,Vyasarpadi (Depot) TO K.Kannadasan Nagar,3,69
+12317,583A,Sriperumbudur TO Poonamallee B.T,3,69
+17724,170Tx,Kilambakkam B.S TO Moolakadai,3,69
+17725,77T,Thirumullaivoyal Colony TO Ambattur I.E,3,69
+10525,188K,Thyagaraya Nagar TO Katrambakkam,3,69
+10251,102C,Broadway TO Semmancheri S.C.B,3,69
+10253,102C,Semmancheri S.C.B TO Broadway,3,69
+15911,64K,Vyasarpadi TO K.Kannadasan Nagar,3,69
+17463,102CT,Broadway TO Perumpakkam S.C.B,3,69
+2981,51A,Thiyagarayanagar TO Kilambakkam Bus Terminus,3,69
+16295,102C,Santhome Church TO Semmancheri,3,69
+17963,102C,Semmancheri to Tidel Park,3,69
+17965,102C,Tidel Park to Semmancheri,3,69
+16294,102C,Santhome School TO Broadway,3,69
+18911,147A,J.J.Nagar East TO Thyagaraya Nagar,3,69
+17428,102CT,Tidel Park TO Siruseri I.T Park,3,69
+18912,99 CT,Tambaram West Bus Stand to Perumbakkam Bus Terminus,3,69
+18913,99,Adyar TO Tambaram West,3,69
+18914,99 CT1,Adyar to  Perumbakkam,3,69
+11698,51X,Velachery B.T TO Kilambakkam B.T,3,69
+11700,51X,Velachery B.T TO N.G.O.Colony,3,69
+18915,99 CT2,Perumbakkam TO  Adyar,3,69
+15109,29A,Perambur B.T TO Secretariat,3,69
+10529,104A,Tambaram West TO Avadi B.T,3,69
+17279,S56,Manali B.S TO Tondiarpet,3,69
+18916,29E,Thiruverkadu TO Perambur B.T,3,69
+17274,S56,Tondiarpet TO Manali B.S,3,69
+11802,54G,Broadway TO Kuthambakkam,3,69
+11804,54G,Kuthambakkam TO Broadway,3,69
+17730,B70Ct,Devik Eswari Nagar TO Guindy Tvk Estate,3,69
+18919,71D,Broadway TO Pudur,3,69
+18920,71E,Broadway TO Thirunindravoor,3,69
+18917,578PCt,Poonamallee TO  Elambakkam,3,69
+13315,S26,Valasaravakkam TO Ashok Nagar Metro R.S,3,69
+13317,S26,Valasaravakkam TO Ashok Pillar,3,69
+13318,S26,Valasaravakkam TO K.K.Nagar,3,69
+18921,71E CT,Broadway TO Ambattur I.E,3,69
+18922,71E CT1,Broadway TO Avadi B.T,3,69
+18923,71H CT,Broadway TO Ambattur I.E,3,69
+11923,55V,Tambaram West TO Kilambakkam B.T,3,69
+13371,S36,D.M.S. Metro TO Nungambakkam R.S,3,69
+13372,S36,Nungambakkam R.S TO Thyagaraya Nagar,3,69
+18924,71H,Broadway TO Kamaraj Nagar,3,69
+12616,70V,M.G.R.Koyambedu TO K.K.Nagar,3,69
+18925,71V,Broadway TO Veppampattu E.Waran Nagar,3,69
+13373,S36,Nungambakkam R.S TO D.M.S. Metro,3,69
+17263,66,Poonamallee Terminus TO Kilambakkam Bus Terminus,3,69
+13320,S20,Ashok Nagar Metro R.S TO D.L.F.,3,69
+16268,70V,M.G.R.Koyambedu TO Vadapalani,3,69
+13321,S20,D.L.F. TO Ashok Nagar Metro R.S,3,69
+18918,578PCt,Elambakkam TO Poonamallee,3,69
+17739,570,K.K.Nagar TO M.M.B.T,3,69
+2054,C56C,Broadway TO Secretariat,3,69
+18928,147C,Ambattur O.T TO Thyagaraya Nagar,3,69
+17261,66,Poonamallee B.T TO Tambaram West,3,69
+13310,S19,Keelkattalai TO Kumaran Kundram,3,69
+13313,S19,Kumaran Kundram TO Keelkattalai,3,69
+17431,102CT,Thiruvanmiyur TO Kelambakkam,3,69
+17444,102CT,Kelambakkam TO Thiruvanmiyur,3,69
+13254,S166,Manimedu(Akashnagar) TO Iyyappanthangal,3,69
+17454,102CT,Broadway TO Thiruvanmiyur,3,69
+18929,26 CT,Iyyappanthangal TO Broadway,3,69
+17742,570,M.M.B.T TO Siruseri I.T Park,3,69
+11945,557M,Madurapakkam TO Redhills,3,69
+11952,557M,Redhills TO Madurapakkam,3,69
+11953,557M,Redhills TO Padiyanallur,3,69
+11955,557M,Redhills TO Uthukottai,3,69
+11957,557M,Uthukottai TO Redhills,3,69
+11656,51J,Mambakkam Kootroad TO Broadway,3,69
+10536,18A,Broadway TO Tambaram West,3,69
+13341,S45,Avadi B.T TO Poonamallee B.T,3,69
+13344,S45,Poonamallee B.T TO Avadi B.T,3,69
+18930,99A CT1,Perumpakkam S.C.B TO Tambaram West,3,69
+18931,99A,Tambaram West TO Sholinganallur,3,69
+18932,99A,Sholinganallur TO Tambaram West,3,69
+18933,99A CT3,Tambaram West TO Perumpakkam S.C.B,3,69
+18935,10A,Saidapet West TO Thangal Tollgate,3,69
+18936,10E,Ekkattuthangal TO Broadway,3,69
+18937,129C,Nanganallur TO Perambur B.T,3,69
+13272,S145,M.G.R.Koyambedu TO Ayanavaram B.T,3,69
+13157,M19B,Kannagi Nagar S.C.B TO Thyagaraya Nagar,3,69
+13162,M19B,Thyagaraya Nagar TO Kannagi Nagar S.C.B,3,69
+18938,147A CT,Thyagaraya Nagar TO Anna Nagar West,3,69
+15058,M19B,Thyagaraya Nagar TO Adyar B.T,3,69
+643,M1,Keelkattalai TO Thiruvamiyur Bus Stand,3,69
+18939,147A CT,Thiyagarayanagar TO J.J.Nagar East,3,69
+18940,147B CT,Thyagaraya Nagar TO Anna Nagar West,3,69
+12117,572K,Avadi B.T TO Kizhanoor,3,69
+644,M1,Thiruvanmiyur Bus Stand TO Keelkattalai,3,69
+18941,147B,Thyagaraya Nagar TO J.J.Nagar West,3,69
+13098,M1,Cement Road TO Keelkattalai,3,69
+18942,147C CT,Thiyagarayanagar Terminus TO Ambattur I.E,3,69
+18943,147C,Thyagaraya Nagar TO Ambattur O.T,3,69
+18944,147CCt,Thyagaraya Nagar TO Ambattur I.E,3,69
+18945,147V,Thyagaraya Nagar TO Venkatachalam Nagar,3,69
+18946,47CX,Thyagaraya Nagar TO Ayappakkam,3,69
+13100,M1,Keelkattalai TO Cement Road,3,69
+13102,M1,Keelkattalai TO Thiruvanmiyur,3,69
+13103,M1,Nanganallur TO Cement Road,3,69
+18947,47DCt,Thyagaraya Nagar TO Korattur,3,69
+18948,47,Besant Nagar TO Villivakkam,3,69
+18949,47A CT,Thiruvanmiyur TO I.C.F,3,69
+18950,47A,Thiruvanmiyur TO Villivakkam,3,69
+17455,102CT,Perumpakkam S.C.B TO Lady Wellington Sch,3,69
+12602,70N,Cement Road TO Nanganallur,3,69
+13105,M1,Nanganallur TO Thiruvanmiyur,3,69
+13108,M1,Thiruvanmiyur TO Keelkattalai,3,69
+13236,S1,Pallavaram R.S TO Thirisulam Sakhi Nagar,3,69
+10538,18A,Keelkattalai TO Broadway,3,69
+13241,S1,Thirisulam Sakhi Nagar TO Pallavaram R.S,3,69
+17970,63,Ambattur Industrial Estate TO Icf,3,69
+17971,63,Icf TO Thiruverkadu,3,69
+18951,A47,Thiruvanmiyur TO Avadi B.T,3,69
+13235,S1,Chromepet-I TO Thirisulam Sakhi Nagar,3,69
+10489,188A,Kundrathur B.T TO Thyagaraya Nagar,3,69
+17238,63,Thiruverkadu TO Villivakkam,3,69
+17244,63,Ambattur I.E TO Thiruverkadu,3,69
+17234,63,Villivakkam TO Thiruverkadu,3,69
+13275,S169,Moolakadai TO Thangal Tollgate,3,69
+13278,S169,Thangal Tollgate TO Moolakadai,3,69
+15803,170Tx,Kilambakkam B.S TO Kaviarasu Kannadasan Nagar,3,69
+10492,188A,Thyagaraya Nagar TO Kundrathur B.T,3,69
+13349,S48,Avadi B.T TO Siranjivi Nagar,3,69
+13350,S48,Siranjivi Nagar TO Avadi B.T,3,69
+11344,44Ct,Secretariat TO I.O.C,3,69
+18952,47D CT,Thiruvanmiyur TO Ambattur I.E,3,69
+3159,66K,Kundrathur TO Kilambakkam,3,69
+3147,D70Ct,Elango Nagar Officers Colony TO Velachery,3,69
+10991,120Ct,Broadway TO Avadi B.T,3,69
+12017,56F,Broadway TO Ernavoor,3,69
+12020,56F,Ennore TO Broadway,3,69
+12021,56F,Ernavoor TO Broadway,3,69
+10992,120Ct,Broadway TO Venkatachalam Nagar,3,69
+11965,558A,Redhills TO Ponneri,3,69
+18953,47D,Thiruvanmiyur TO Avadi B.T,3,69
+11960,558A,Minjur TO Redhills,3,69
+12018,56F,Broadway TO Ennore,3,69
+15927,A45B,Alandur (Depot) TO Guindy Tvk Estate,3,69
+16365,70ACt,Senthil Nagar TO Koyambedu Market,3,69
+12645,70ACt,Ambattur I.E TO M.G.R.Koyambedu,3,69
+17239,70,M.G.R.Koyambedu TO Tambaram West,3,69
+17231,70,Vadapalani TO Avadi B.T,3,69
+12648,70ACt,Avadi B.T TO M.G.R.Koyambedu,3,69
+12650,70ACt,Koyambedu Market TO Senthil Nagar,3,69
+12651,70ACt,M.G.R.Koyambedu TO Ambattur I.E,3,69
+12653,70ACt,M.G.R.Koyambedu TO Avadi B.T,3,69
+13007,A45B,Guindy Tvk Estate TO Anna Square,3,69
+12655,70ACt,M.G.R.Koyambedu TO Senthil Nagar,3,69
+12657,70ACt,Senthil Nagar TO M.G.R.Koyambedu,3,69
+11310,3Ct,Guindy R.S TO Tidel Park,3,69
+11312,3Ct,Thyagaraya Nagar TO Tidel Park,3,69
+16312,18ACt,Tambaram West B.S TO Cemetery Road,3,69
+16362,18ACt,Todd Hunter Nagar TO Broadway,3,69
+11954,568B,Adyar Depot TO Thiruporur,3,69
+10552,18ACt,Kilambakkam B.T TO Guindy Tvk Estate,3,69
+12799,77FCt,Vadathur TO Avadi B.T,3,69
+10556,18ACt,Broadway TO Todd Hunter Nagar,3,69
+17233,70,Tambaram West TO Vadapalani,3,69
+17241,70,Avadi B.T TO Tambaram West,3,69
+17235,70,Tambaram West TO M.G.R.Koyambedu,3,69
+16308,18ACt,Keelkattalai TO Broadway,3,69
+15813,45ACt,Keelkattalai TO Thyagaraya Nagar,3,69
+12380,593Ct,Redhills TO Chennang Karanai,3,69
+12220,57F,Karanodai TO Moolakadai,3,69
+17237,70,Tambaram West TO Avadi B.T,3,69
+13791,M51DCt,Velachery TO Pudupakkam,3,69
+9771,95XCt,Shozhanganallur TO Tambaram West,3,69
+11943,566B,Kovalam TO Pattur,3,69
+11949,566B,Tambaram West TO Iyyappanthangal,3,69
+11951,566B,Tambaram West TO Kovalam,3,69
+12993,95XCt,Sholinganallur TO Nehru Nagar,3,69
+9774,95XCt,Tambaram West TO Shozhanganallur,3,69
+12800,77Ct,Venkatachalam Nagar TO Ambattur I.E,3,69
+13325,S27,Porur TO Guindy R.S,3,69
+12052,56P,Tondiarpet TO Broadway,3,69
+12217,57F,Broadway TO Padiyanallur,3,69
+12221,57F,Karanodai TO M.K.B.Nagar,3,69
+12222,57F,M.K.B.Nagar TO Broadway,3,69
+12429,597CEt,Thirunindravoor B.T TO Periya Colony,3,69
+12952,B70Ct,Ambattur I.E TO Devik Eswari Nagar,3,69
+12954,B70Ct,Devik Eswari Nagar TO Ambattur I.E,3,69
+12756,76B,Ottiyampakkam TO M.G.R.Koyambedu,3,69
+14952,76B,M.G.R.Koyambedu TO Medavakkam Rd.Jn,3,69
+3283,91V,Tambaram West Bus Stand TO Kilambakkam Bus Terminus,3,69
+7317,70J,Ambattur Industrial Estate Depot TO J J Nagar West Terminus,3,69
+12256,55X,Tambaram West TO Mannivakkam W.Tank,3,69
+12257,55X,Mannivakkam W.Tank TO Tambaram West,3,69
+3290,202,Avadi Bus Terminus TO Tambaram West Bus Stand,3,69
+15804,170T,Kaviarasu Kannadasan Nagar TO Tambaram West,3,69
+16328,SM1Ct,Velachery TO Keelkattalai,3,69
+16379,SM1Ct,Keelkattalai TO Thiruvanmiyur,3,69
+12885,89TCt,Somangalam TO Kundrathur Depot,3,69
+14979,5C,Broadway TO Adyar B.T,3,69
+14980,5C,Taramani TO Adyar B.T,3,69
+12036,56K,Broadway TO Kargil Nagar,3,69
+3460,515M,Mamallapuram TO Kilambakkam Bus Terminus,3,69
+12037,56K,Broadway TO Tondiarpet,3,69
+12038,56K,Kargil Nagar TO Broadway,3,69
+12420,597CEt,Avadi B.T TO Poonamallee B.T,3,69
+14996,57F,Mel Surapattu TO Broadway,3,69
+12533,65E,Poonamallee B.T TO Avadi B.T,3,69
+12227,57F,Moolakadai TO Broadway,3,69
+12228,57F,Moolakadai TO Karanodai,3,69
+12233,57F,Redhills TO Vallalar Nagar,3,69
+12235,57F,Vallalar Nagar TO Karanodai,3,69
+12236,57F,Vallalar Nagar TO Mel Surapattu,3,69
+3177,70G,Vadapalani Bus Stand TO Tambaram West Bus Stand,3,69
+13345,S47,Avadi B.T TO Mittanamallee G.H.S.S,3,69
+13346,S47,Mittanamallee G.H.S.S TO Avadi B.T,3,69
+15928,D70,Alandur (Depot) TO Guindy Tvk Estate,3,69
+15067,D70,N.G.O.Colony TO Velachery B.T,3,69
+3503,95X,Thiruvanmiyur Bus Stand TO Tambaram East Bus Stop,3,69
+12568,64C,Broadway TO Manali,3,69
+11912,55G,Tambaram West TO Venkampakkam Village,3,69
+11913,55G,Venkampakkam Village TO Tambaram West,3,69
+12039,56K,Tondiarpet TO Broadway,3,69
+11899,55DEt,Kandigai TO Tambaram West,3,69
+11901,55DEt,Kumizhi TO Tambaram West,3,69
+9021,M51VC,Chithalapakkam Tnhb TO Saidapet,3,69
+3506,95X,Tambaram East Bus Stop TO Kilambakkam Bus Terminus,3,69
+15951,7M,Broadway TO Golden Flats,3,69
+11678,51B,Saidapet TO Karanai,3,69
+11903,55DEt,Tambaram West TO Kumizhi,3,69
+11905,55DEt,Tambaram West TO Kandigai,3,69
+12435,61R,Padiyanallur TO Redhills,3,69
+12413,61E,Avadi B.T TO Kilkondaiyur,3,69
+3536,51D,Tambaram West Bus Stand TO Broadway (Towards Exit),3,69
+17744,15F,Vadapalani TO Broadway,3,69
+12424,597CEt,Poonamallee B.T TO Avadi B.T,3,69
+3513,95X,Tambaram East Bus Stop TO Thiruvanmiyur Bus Stand,3,69
+17745,242,Vyasarpadi To  Kaviarasu Kannadasan,3,69
+12028,55B,Pazhanthandalam TO Tambaram West,3,69
+12436,61R,Redhills TO Avadi B.T,3,69
+12040,55B,Tambaram West TO Pazhanthandalam,3,69
+12422,61E,Kilkondaiyur TO Avadi B.T,3,69
+12425,61E,Kilkondaiyur TO Koyambedu Market,3,69
+12426,61E,Koyambedu Market TO Kilkondaiyur,3,69
+12019,55A,Nehru Nagar TO Pallavaram,3,69
+11984,558C,Padiyanallur TO Redhills,3,69
+11988,558C,Pudhucherymedu TO Redhills,3,69
+11989,558C,Redhills TO Padiyanallur,3,69
+11991,558C,Redhills TO Ponneri,3,69
+12022,55A,Pallavaram TO Nehru Nagar,3,69
+12024,55A,Pallavaram TO Pazhanthandalam,3,69
+17491,102,Kannagi Nagar Scb TO Broadway,3,69
+12839,88L,Periya Colony TO Vadapalani,3,69
+12025,55A,Pallavaram TO Poonthandalam,3,69
+12026,55A,Pazhanthandalam TO Pallavaram,3,69
+12027,55A,Poonthandalam TO Pallavaram,3,69
+12411,61C,Ellaiamman Nagar TO Avadi B.T,3,69
+12407,61C,Avadi B.T TO Ellaiamman Nagar,3,69
+12400,61A,Melappedu TO Avadi B.T,3,69
+12398,61A,Avadi B.T TO Melappedu,3,69
+12428,61K,Avadi B.T TO Kanniamman Nagar,3,69
+12438,61R,Redhills TO Padiyanallur,3,69
+12005,558P,Padiyanallur TO Redhills,3,69
+12007,558P,Perumbedukuppam TO Ponneri,3,69
+12370,60E,Kundrathur B.T TO Broadway,3,69
+2743,579C,Tambaram Sanatorium Bus Stand TO Oragadam,3,69
+12008,558P,Perumbedukuppam TO Redhills,3,69
+12009,558P,Ponneri TO Perumbedukuppam,3,69
+12012,558P,Ponneri TO Redhills,3,69
+17939,57,Moolakadai TO Vallalar Nagar,3,69
+12013,558P,Redhills TO Padiyanallur,3,69
+12014,558P,Redhills TO Perumbedukuppam,3,69
+12015,558P,Redhills TO Ponneri,3,69
+12431,597CEt,Thirunindravoor B.T TO Poonamallee B.T,3,69
+9060,552K,Kelambakkam Bus Terminal TO Keelkattalai,3,69
+15862,56P,Broadway TO Tondairpet-1 Depot,3,69
+17942,57,Redhills B.S TO Moolakadai,3,69
+8917,104C,Thyagaraya Nagar TO Kilambakkam B.S,3,69
+12432,61K,Kanniamman Nagar TO Avadi B.T,3,69
+15949,24A,Anna Nagar West TO M.G.R.Koyambedu,3,69
+12396,60H,Sankara Health Centre TO Hasthinapuram,3,69
+11974,558B,Ponneri TO Redhills,3,69
+12433,61K,Veerapuram Govt School TO Avadi B.T,3,69
+11980,558B,Redhills TO Ponneri,3,69
+11970,558B,Avurivakkam TO Redhills,3,69
+11976,558B,Redhills TO Avurivakkam,3,69
+11979,558B,Redhills TO Pazhaverkadu,3,69
+15948,7M,J J Nagar West Terminus TO Nolambur Sakthinagar Bus Stop,3,69
+9042,52K,Saidapet TO Broadway,3,69
+11720,52K,Broadway TO Nanganallur,3,69
+12388,60H,Guduvanchery TO Sankara Health Centre,3,69
+12392,60H,Sankara Health Centre TO Broadway,3,69
+16900,102,Kannagi Nagar S.C.B TO Broadway,3,69
+12383,60H,Broadway TO Sankara Health Centre,3,69
+12394,60H,Sankara Health Centre TO Guduvanchery,3,69
+16861,102,M.G.R.Central TO Kelambakkam,3,69
+12417,597C,Poonamallee B.T TO Thirunindravoor,3,69
+16863,102,Adyar Depot TO Kelambakkam,3,69
+16876,102,Kelambakkam TO Kannagi Nagar S.C.B,3,69
+15958,47A,Icf Junction TO Ayanavaram Signal,3,69
+16877,102,Kelambakkam TO Adyar Depot,3,69
+12418,597C,Thirunindravoor TO Poonamallee B.T,3,69
+17569,102,Perumpakkam S.C.B TO Kelambakkam,3,69
+16023,72,Todd Hunter Nagar TO Thiruverkadu Bus Terminus,3,69
+17752,66,Tambaram TO Poonamallee,3,69
+17746,242,Kaviarasu Kannadasan  To  Vyasarpadi,3,69
+17750,104,Madhavaram B.S To  Redhills B.S,3,69
+17747,242,Redhills B.s To  Vyasarpadi,3,69
+17758,66,Tambaram West Bus Stand TO Kundrathur,3,69
+17759,15G,Broadway TO M.M.D.A.Colony Rd.Jn,3,69
+17760,15G,M.M.D.A.Colony Rd.Jn TO Broadway,3,69
+17762,570,Kelambakkam TO M.G.R.Koyambedu,3,69
+11704,52G,Broadway TO Cowl Bazaar,3,69
+11705,52G,Cowl Bazaar TO Broadway,3,69
+3604,91V,Guduvancheri Bus Terminus TO Thiruvanmiyur  Bus Stand,3,69
+17763,J51,Velachery B.T TO Tambaram West,3,69
+17764,28A,Thangal Tollgate TO Manali New Town,3,69
+11709,52G,Cowl Bazaar TO Nehru Nagar,3,69
+11710,52G,Koyambedu Market TO Cowl Bazaar,3,69
+11711,52G,Nehru Nagar TO Cowl Bazaar,3,69
+17776,35,Broadway TO Icf Junction,3,69
+17765,154,Thiyagarayanagar Terminus TO Todd Hunter Nagar,3,69
+17770,M88 CT,Porur TO Vadapalani,3,69
+17772,65G,Avadi B.T TO Meyyur,3,69
+17774,45ACt,Saidapet Depot TO Thyagaraya Nagar Bus Depot,3,69
+17775,45ACt,Thyagaraya Nagar Bus Depot TO Saidapet Depot,3,69
+17771,26,Iyyappanthangal TO Pazhanthandalam,3,69
+17766,159,M.G.R.Koyambedu TO Thiruvottiyur Bus Stand,3,69
+17780,M88 CT,Vadapalani TO Porur,3,69
+17777,35,Broadway TO Secretariat,3,69
+17070,57,Vallalar Nagar TO Moolakadai,3,69
+17074,57,Vallalar Nagar TO Redhills Bus Terminus,3,69
+17782,65D,Avadi B.T TO Melkondaiyur,3,69
+17769,159,Thiruverkadu TO Tondiarpet,3,69
+17781,159,Tondiarpet TO Thiruverkadu,3,69
+17073,57,Moolakadai TO Redhills,3,69
+16672,37,Vallalar Nagar TO Shastri Bhavan,3,69
+17214,72,Thiruverkadu TO Poonamallee,3,69
+17215,72,Poonamallee TO Thiruverkadu,3,69
+17217,72,M.G.R.Koyambedu TO Thiyagaraya Nagar,3,69
+17229,72,Thiruverkadu TO Thiyagarayanagar Terminus,3,69
+11695,52B,Broadway TO Hasthinapuram,3,69
+11696,52B,Hasthinapuram TO Broadway,3,69
+11697,52B,Hasthinapuram TO Pozhichalur,3,69
+11699,52B,Pozhichalur TO Hasthinapuram,3,69
+17201,73,M.G.R.Koyambedu TO Avadi B.T,3,69
+17202,73,Avadi B.T TO M.G.R.Koyambedu,3,69
+10559,18AEt,Broadway TO Kilambakkam B.T,3,69
+17783,49,Thiruvanmiyur Bus Stand TO Mugalivakkam,3,69
+17784,159,Tondiarpet TO M.G.R.Koyambedu,3,69
+15956,109A,Adyar  B.S TO Thiruvidhanthai,3,69
+17785,65D,Melkondaiyur TO Avadi B.T,3,69
+11471,48B,Ambattur I.E TO Pudur,3,69
+11473,48B,Ayanavaram B.T TO Vallalar Nagar,3,69
+11476,48B,Vallalar Nagar TO Ambattur I.E,3,69
+16661,37,Poonamallee B.T TO Shastri Bhavan,3,69
+16657,37,Poonamallee B.T TO Tondiarpet,3,69
+16663,37,Shastri Bhavan TO Poonamallee B.T,3,69
+11684,525,Poonamallee B.T TO Sunguvarchathiram,3,69
+15960,19A,Adyar B.S TO Semmancheri B.S,3,69
+10562,18AEt,Kilambakkam B.T TO Broadway,3,69
+11686,525,Sunguvarchathiram TO Vadapalani,3,69
+11688,525,Vadapalani TO Iyyappanthangal,3,69
+11689,525,Vadapalani TO Sunguvarchathiram,3,69
+17787,159,Annanagar East TO M.G.R.Koyambedu,3,69
+15961,19A,Adyar B.S TO Thiyagarayanagar,3,69
+17790,159,Thiruverkadu TO Annanagar East,3,69
+11477,48B,Vallalar Nagar TO Ayanavaram B.T,3,69
+17788,22,Anna Square TO Korattur Bus Terminus,3,69
+17786,159,Thiruvottiyur Bus Stand TO Tondiarpet,3,69
+17789,22,Korattur Bus Terminus TO Anna Square,3,69
+14480,51C,Velachery TO Vandalur,3,69
+11490,47D,Ambattur I.E TO Kilambakkam B.T,3,69
+11930,557C,Gummidipoondi TO Kallur,3,69
+11939,557C,Redhills TO Padiyanallur,3,69
+11940,557C,Redhills TO Vallalar Nagar,3,69
+11941,557C,Vallalar Nagar TO Redhills,3,69
+15572,Dummy/Tes1,Dummy123,3,69
+3488,91V,Kilambakkam Bus Terminus TO Thiruvanmiyur Bus Stand,3,69
+11248,37Ct,Vallalar Nagar TO Dasarathapuram,3,69
+4266,102X,Kilambakkam TO Thiruporur,3,69
+11243,37Ct,Dasarathapuram TO Vadapalani,3,69
+11246,37Ct,Vadapalani TO Dasarathapuram,3,69
+12137,57X,M.K.B.Nagar TO Vallalar Nagar,3,69
+12138,57X,Periyapalayam TO Redhills,3,69
+10572,104F,Kilambakkam B.T TO Madhavaram B.T,3,69
+15972,17D,M.G.R.Koyambedu TO Broadway,3,69
+17409,159,Thiruverkadu Terminus TO Vadapalani Bus Stand,3,69
+18085,109,Kovalam TO Mgr Central,3,69
+15982,s24,Thiruverkadu TO Iyyappanthangal,3,69
+12463,66P,Kundrathur B.T TO Kilambakkam B.T,3,69
+8580,19T,Adyar B.S TO Kovalam,3,69
+12592,70LCt,Ambattur I.E TO Korattur,3,69
+17791,159,M.G.R.Koyambedu TO Annanagar East,3,69
+17792,221,M.G.R Central TO Kilambakkam B S,3,69
+12593,70LCt,Guindy Tvk Estate TO Korattur,3,69
+10580,104G,Kilambakkam B.T TO Ambattur I.E,3,69
+17795,15,Broadway TO Sevasadan School,3,69
+17793,22,Korattur Bus Terminus TO Ayanavaram,3,69
+17800,114,M.G.R.Koyambedu TO Poochi Athipet,3,69
+11721,52K,Broadway TO Saidapet,3,69
+17799,18ACT,Broadway TO Saidapet,3,69
+10755,19T,Kovalam TO Thyagaraya Nagar,3,69
+17607,102E,Perumbakkam To Thiruvanmiyur,3,69
+17608,102E,Perumbakkam To Siruseri,3,69
+17614,102E,Thiruvanmiyur To  Perumbakkam,3,69
+17798,15,M.G.R.Koyambedu TO Shanthi Colony,3,69
+17801,38G,Koyambedu Market TO Vazhuthigaimedu,3,69
+17803,19D,Perumpakkam S.C.B TO Tambaram West,3,69
+17804,15,Shanthi Colony TO Broadway,3,69
+16112,15,M.G.R.Koyambedu TO Broadway,3,69
+16114,15,Broadway TO M.G.R.Koyambedu,3,69
+16117,15,Anna Nagar West TO M.G.R.Koyambedu,3,69
+16113,15,M.G.R.Koyambedu TO Anna Nagar West,3,69
+16118,15,Secretariat TO M.G.R.Koyambedu,3,69
+10940,121C,M.G.R.Koyambedu TO Ennore,3,69
+12469,66P,Tambaram West TO Kilambakkam B.T,3,69
+14608,121C,M.G.R.Koyambedu TO Annanagar East,3,69
+14609,121C,Annanagar East TO M.G.R.Koyambedu,3,69
+11464,48C,M.G.R.Koyambedu TO Vallalar Nagar,3,69
+10742,109Ct,Kovalam TO Adyar B.T,3,69
+11465,48C,Vallalar Nagar TO Ayanavaram B.T,3,69
+11466,48C,Vallalar Nagar TO M.G.R.Koyambedu,3,69
+12129,57M,Alamathi TO Broadway,3,69
+10736,109C,Kovalam TO Thiruvanmiyur,3,69
+10738,109C,Thiruvanmiyur TO Kovalam,3,69
+12667,71H,Avadi B.T TO Kamaraj Nagar,3,69
+15967,570V,Adyar B.T TO Kelambakkam,3,69
+16016,11G,K.K.Nagar TO Broadway,3,69
+10590,27B,M.G.R.Koyambedu TO Avadi B.T,3,69
+5366,51A,Tambaram East TO Tnagar,3,69
+10568,104F,Kilambakkam B.T TO Ambattur I.E,3,69
+15968,S11,Cement Road TO Keelkattalai,3,69
+17179,76,Cement Road TO Kilambakkam B.S,3,69
+14451,48C,Ayanavaram B.T TO Vallalar Nagar,3,69
+14453,48C,Ayanavaram TO M.G.R.Koyambedu,3,69
+10900,121M,M.G.R.Koyambedu TO Vazhuthigaimedu,3,69
+17172,76,Medavakkam Rd.Jn TO Cement Road,3,69
+12679,70C,Kilambakkam B.T TO M.G.R.Koyambedu,3,69
+10142,142P,Perambur B.T TO Puthagaram,3,69
+10143,142P,Puthagaram TO Perambur B.T,3,69
+17805,20A,J.J.Nagar West TO Broadway,3,69
+11174,36M,Vallalar Nagar TO Vichoor,3,69
+10272,153P,M.G.R.Koyambedu TO Perambakkam,3,69
+10274,153P,Perambakkam TO M.G.R.Koyambedu,3,69
+17312,153,M.G.R.Koyambedu TO Poonamallee B.T,3,69
+17162,76,M.G.R.Koyambedu TO Medavakkam Rd.Jn,3,69
+17168,76,N.G.O.Colony TO Medavakkam Rd.Jn,3,69
+17169,76,Medavakkam Rd.Jn TO N.G.O.Colony,3,69
+14599,36M,Vichoor TO Tondiarpet,3,69
+10306,154P,Pattur TO Thyagaraya Nagar,3,69
+10307,154P,Thyagaraya Nagar TO Pattur,3,69
+3601,70C,Kilambakkam Bus Terminus TO Vadapalani Bus Stand,3,69
+12783,77K,Avadi B.T TO Ambattur I.E,3,69
+10979,120F,Ambattur I.E TO Oragadam,3,69
+12706,70C,Tambaram West TO Vadapalani B.T,3,69
+11611,515A,Mamallapuram TO Thiruporur,3,69
+11612,515A,Sulerikadu TO Tambaram West,3,69
+11613,515A,Tambaram West TO Kovalam,3,69
+17136,77,Ambattur I.E TO M.G.R.Koyambedu,3,69
+17468,164,Perambur B.T TO Minjur N.T,3,69
+17806,29D,Mathur M.M.D.A. TO Moolakadai,3,69
+17469,164,Minjur N.T TO Perambur B.T,3,69
+18089,36M,Vichoor TO Vallalar Nagar,3,69
+17138,77,Ambattur I.E TO Avadi B.T,3,69
+10524,26R,Mugalivakkam TO Broadway,3,69
+10527,26R,Broadway TO Mugalivakkam,3,69
+17368,157,Thiruvotriyur B.T TO Tondiarpet,3,69
+17369,157,Thiruvotriyur B.T TO Redhills,3,69
+17617,242,Kaviarasu Kannadasan Nagar  To  Broadway,3,69
+17809,29NEt CT,Peravallur Kumaran Nagar TO Perambur B.T,3,69
+17479,102C,Semmancheri TO M.G.R.Central,3,69
+17480,102C,M.G.R.Central TO Semmancheri,3,69
+17808,38A,Madhavaram TO Manali,3,69
+17125,77,M.G.R.Koyambedu TO Broadway,3,69
+10303,154E,Ekkattuthangal TO Vellavedu,3,69
+10304,154E,Vellavedu TO Ekkattuthangal,3,69
+10305,154E,Saidapet TO Vellavedu,3,69
+17811,70A,M.G.R.Koyambedu TO Anna Nagar West,3,69
+10419,16J,Iyyappanthangal TO M.G.R.Koyambedu,3,69
+17815,102K,Kannagi Nagar S.C.B TO Adyar,3,69
+17126,77,M.G.R.Koyambedu TO Ambattur I.E,3,69
+17128,77,Broadway TO M.G.R.Koyambedu,3,69
+17610,19AX,Thiyagarayanagar Terminus to Perumbakkam Scb,3,69
+17611,19AX,Perumbakkam Scb to Thiyagarayanagar Terminus,3,69
+17134,77,Avadi B.T TO Ambattur I.E,3,69
+12841,88L,Vadapalani TO Periya Colony,3,69
+17816,102K,Adyar TO Kannagi Nagar S.C.B,3,69
+12374,592V,Vengal TO Redhills,3,69
+17818,57,Vyasarpadi TO Vallalar Nagar,3,69
+10578,104F,Madhavaram B.T TO Madhavaram,3,69
+12540,65B,Poonamallee B.T TO Ambattur I.E,3,69
+12538,65B,Ambattur I.E TO Poonamallee B.T,3,69
+17822,38A,Manali TO Madhavaram,3,69
+4465,202,Tambaram West Bus Stand TO Avadi Bus Terminus,3,69
+17824,114S,Moolakadai TO Seemavaram,3,69
+17825,120A,Ambattur I.E TO Arakkambakkam,3,69
+10485,17K,Dasarathapuram TO Broadway,3,69
+10486,17K,Dasarathapuram TO Vadapalani,3,69
+10487,17K,Vadapalani TO Dasarathapuram,3,69
+17823,57,Redhills TO Vyasarpadi,3,69
+15985,60E,Broadway TO Kundrathur B.T,3,69
+12372,592V,Redhills TO Vengal,3,69
+10806,20D,Sidco Nagar TO Villivakkam,3,69
+17826,114S,Redhills TO Seemavaram,3,69
+17834,114S,Seemavaram TO Redhills,3,69
+10600,27B,Anna Square TO Vadapalani,3,69
+4942,95X,Shozhanganallur TO Tambaram East,3,69
+10396,26B,Broadway TO Mangadu,3,69
+18093,592V,Padiyanallur TO Redhills,3,69
+10398,26B,Mangadu TO Broadway,3,69
+10400,26B,Mangadu TO Iyappanthangal,3,69
+12784,77A,Ambattur I.E TO Ayappakkam Tnhb,3,69
+17297,150,Broadway TO Avadi B.T,3,69
+17298,150,Avadi B.T TO Broadway,3,69
+18091,592V,Vengal TO Vallalar Nagar,3,69
+18092,592V,Redhills TO Padiyanallur,3,69
+17837,120A,Koyambedu Market TO Arakkambakkam,3,69
+10176,147V,Venkatachalam Nagar TO Ambattur I.E,3,69
+17839,T29C,Perambur TO Vyasarpadi depot,3,69
+8631,29C,Adyar B.S TO Kilambakkam B.S,3,69
+12877,7H,Anna Nagar West TO J.J.Nagar East,3,69
+12895,7H,J.J.Nagar East TO Anna Nagar West,3,69
+18098,592V,Vallalar Nagar TO Vengal,3,69
+17840,T29C,M.K.B.Nagar TO Perambur Bus Terminus,3,69
+17841,21L,Broadway TO Madipakkam Bus Stand,3,69
+10604,27B,Vadapalani TO Anna Square,3,69
+12674,71H,Kamaraj Nagar TO Avadi B.T,3,69
+17847,29CEt CT,Otteri TO Perambur B.T,3,69
+17844,1C,Thiruvanmiyur TO Thiruvotriyur,3,69
+12301,5S,Kannagi Nagar S.C.B TO Saidapet,3,69
+17489,566,Thiruporur Bs TO Kundrathur,3,69
+11278,38C,Vivekananda House TO T.V.K.Nagar,3,69
+17854,42,G.K.M.Colony TO Broadway,3,69
+17490,26,Broadway TO Vadapalani Bs,3,69
+17853,21L,Madipakkam Bus Stand TO Broadway,3,69
+17851,26G,Ramapuram TO Vadapalani B.S,3,69
+10934,121Ct,M.M.B.T TO M.G.R.Koyambedu,3,69
+12302,5S,Kannagi Nagar S.C.B TO Velachery B.T,3,69
+12303,5S,Saidapet TO Kannagi Nagar S.C.B,3,69
+12304,5S,Velachery B.T TO Kannagi Nagar S.C.B,3,69
+10980,120F,Avadi B.T TO Oragadam,3,69
+12675,71H,Kamaraj Nagar TO Broadway,3,69
+10765,1C,Ennore TO Thiruvanmiyur,3,69
+12785,77A,Ayappakkam Tnhb TO Ambattur I.E,3,69
+17864,19D,Perumbakkam Scb TO Semmancheri Bus Stand,3,69
+17865,19D,Adyar Old Depot TO Besant Nagar Terminus,3,69
+17867,1C,Thiruvottiyur TO Thiruvanmiyur,3,69
+12488,66K,Nehru Nagar TO Kundrathur B.T,3,69
+12665,71H,Ambattur I.E TO Kamaraj Nagar,3,69
+12831,78,ANNA NAGAR WEST TO RAJBHAVAN,3,69
+17870,170Tx,M.G.R.Koyambedu TO Kilambakkam Bus Terminus,3,69
+12111,572A,Avadi B.T TO M.G.R.Koyambedu,3,69
+11130,29AEX,Anna Square TO Peravallur Kumaran Nagar,3,69
+11137,29AEX,Peravallur Kumaran Nagar TO Perambur B.T,3,69
+17873,170Tx,Kilambakkam Bus Terminus TO M.G.R.Koyambedu,3,69
+12112,572A,Avadi B.T TO Thiruvallur Collector Office,3,69
+17878,32B,Korukkupet R.S TO Tondiarpet,3,69
+11723,52K,Nanganallur TO Saidapet,3,69
+8640,29C,Kilambakkam B.S TO Adyar B.S,3,69
+17877,18A,M.K.B.Nagar to Broadway,3,69
+17876,18RX,Broadway TO Keelkattalai,3,69
+12113,572A,M.G.R.Koyambedu TO Avadi B.T,3,69
+12115,572A,Thiruvallur Collector Office TO Avadi B.T,3,69
+17874,170Tx,Kilambakkam Bus Terminus TO M.K.B.Nagar,3,69
+17880,157,V.Nagar TO Redhills Bus Terminus,3,69
+10766,109T,Kovalam TO Broadway,3,69
+12787,77A,Ayappakkam Tnhb TO M.G.R.Koyambedu,3,69
+12490,66K,Tambaram West TO Kundrathur B.T,3,69
+17886,557AE,Redhills Bus Terminus TO Annamalaichery,3,69
+8642,D70,Velachery Mrts TO Cement Road,3,69
+10933,121Ct,M.G.R.Koyambedu TO M.M.B.T,3,69
+12680,71V,Veppampattu E.Waran Nagar TO Avadi B.T,3,69
+12681,71V,Veppampattu E.Waran Nagar TO Broadway,3,69
+17892,54S,Saidapet TO Poonamallee,3,69
+12782,77K,Ambattur I.E TO M.G.R.Koyambedu,3,69
+17893,64C,Madhavaram TO Broadway,3,69
+17894,54S,Vadakku Malaiambakkam TO Saidapet,3,69
+17900,142B,Perambur B.T TO Periyar Nagar,3,69
+11713,523,Mullipakkam TO Sholinganallur,3,69
+11719,523,Mullipakkam TO Thiruvanmiyur,3,69
+16003,55K,Keerapakkam TO Airport Metro,3,69
+18103,37Ct,Dasarathapuram TO Vallalar Nagar,3,69
+11729,523,Thiruvanmiyur TO Mullipakkam,3,69
+17087,78,Velachery TO Thiruvanmiyur,3,69
+17093,78,M.G.R.Koyambedu TO Vadapalani,3,69
+6625,99A,Shozhanganallur TO Perumbakkam Scb,3,69
+11087,31B,Tambaram West TO Kandigai Junction,3,69
+18108,24AX CT,Monahan School To  Teachers Colony,3,69
+18110,24AX CT,Vivekananda To  Monahan School,3,69
+10595,27B,Ambattur I.E TO M.G.R.Koyambedu,3,69
+12152,57X,Vallalar Nagar TO M.K.B.Nagar,3,69
+12494,66A,Kundrathur B.T TO Hasthinapuram,3,69
+16226,T29C,Sterling Road TO Perambur Bus Terminus,3,69
+16229,T29C,Thiruvanmiyur TO Perambur Bus Terminus,3,69
+17100,78,Besant Nagar TO Thirumangalam,3,69
+17104,78,Thiruvanmiyur TO Kilambakkam,3,69
+17089,78,Thiruvanmiyur TO Velachery,3,69
+10596,27B,Anna Nagar West TO M.G.R.Koyambedu,3,69
+18113,11,Broadway TO Thiyagaraya Nagar,3,69
+17427,102CT,Wellington School-V.House TO Perumpakkam S.C.B,3,69
+17090,78,Thiruvanmiyur TO M.G.R.Koyambedu,3,69
+17094,78,M.G.R.Koyambedu TO Thiruvanmiyur,3,69
+17096,78,M.G.R.Koyambedu TO K.K.Nagar,3,69
+17105,78,Kilambakkam TO Thiruvanmiyur,3,69
+15089,29Et,Queen Marys College TO Vinayagapuram,3,69
+10597,27B,Avadi B.T TO M.G.R.Koyambedu,3,69
+18114,A51 CT,Tambaram West TO Broadway,3,69
+16002,55K,Airport Metro TO Kilambakkam B.S,3,69
+17435,102CT,Siruseri I.T Park TO Wellington School-V.House,3,69
+12724,70E,Kilambakkam B.T TO Ayanavaram B.T,3,69
+12725,70E,Kilambakkam B.T TO M.G.R.Koyambedu,3,69
+18117,101,M.G.R.Koyambedu TO Annanagar East,3,69
+10615,18D,Broadway TO N.G.O.Colony,3,69
+18116,104,Ambattur Industrial TO Redhills Bus Terminus,3,69
+12726,70E,Kilambakkam B.T TO M.K.B.Nagar,3,69
+11166,29C,Besant Nagar TO Perambur B.T,3,69
+11172,29C,S.M.C TO Perambur B.T,3,69
+18115,109,Thiruporur TO Broadway,3,69
+18122,102K,Broadway TO Secretariat,3,69
+18120,164 CT,M.K.B.Nagar TO Minjur B.S,3,69
+18118,109,Thiruvanmiyur TO Broadway,3,69
+18125,102K,Broadway TO Okk.Thoraipakm Sec.Colony,3,69
+18119,109,Broadway TO Thiruvanmiyur,3,69
+18128,26,Pazhanthandalam TO Iyyappanthangal,3,69
+18129,57A,Budur Hospital TO Redhills Market,3,69
+18130,51X CT,Kilambakkam B.S TO Saidapet,3,69
+12788,77A,M.G.R.Koyambedu TO Ayappakkam Tnhb,3,69
+18126,153A,M.G.R.Koyambedu TO Annanagar East,3,69
+11093,31M,Madurapakkam TO Tambaram West,3,69
+18127,153A,Annanagar East TO M.G.R.Koyambedu,3,69
+6810,51A,Saidapet Depot TO Saidapet Metro,3,69
+17051,89,Somangalam TO Porur,3,69
+17060,89,Iyyappanthangal TO Somangalam,3,69
+17056,89,Kundrathur TO Somangalam,3,69
+12537,65CCt,Pakkam Village TO Ambattur I.E,3,69
+12796,77Ct,Ambattur I.E TO Venkatachalam Nagar,3,69
+12798,77Ct,M.G.R.Koyambedu TO Venkatachalam Nagar,3,69
+16007,55K,Kilambakkam B.S TO Guduvancheri,3,69
+10602,27B,M.G.R.Koyambedu TO Ambattur I.E,3,69
+16680,114,M.G.R Koyambedu TO Moolakadai,3,69
+17052,89,Porur TO Somangalam,3,69
+17053,89,Somangalam TO Kundrathur,3,69
+17058,89,Somangalam TO Iyyappanthangal,3,69
+10223,23V,VELACHERY B.T TO AYANAVARAM B.T,3,69
+12155,580,Arani TO Avadi B.T,3,69
+11228,36V,Thiruvotriyur B.T TO Redhills,3,69
+14625,36V,Thangal Tollgate TO Redhills B.S,3,69
+16694,114,Anna Nagar West TO M.G.R.Koyambedu,3,69
+18141,101,Poonamallee TO M.G.R.Koyambedu,3,69
+16430,114,M.G.R.Koyambedu B.T TO M.K.B.Nagar,3,69
+16678,114,Redhills Bus Terminus TO Anna Nagar West,3,69
+11467,48BX,Oragadam TO Vallalar Nagar,3,69
+11468,48BX,Pudur TO Vallalar Nagar,3,69
+16686,114,Poochiathipedu TO Redhills,3,69
+12159,580,Avadi B.T TO Kallur,3,69
+16688,114,Moolakadai TO Redhills,3,69
+16681,114,M.G.R. Koyambedu TO Redhills,3,69
+16684,114,Padiyanallur TO Redhills,3,69
+16012,55K,Airport Metro TO Keerapakkam,3,69
+18147,153,Poonamallee B.T TO M.G.R.Koyambedu,3,69
+18153,154B,Poonamallee B.T TO Nanganallur,3,69
+18157,20P,Poonamallee B.T TO Ambattur I.E,3,69
+18158,20P,Ambattur I.E TO Poonamallee B.T,3,69
+18150,153T,M.G.R.Koyambedu TO Poonamallee B.T,3,69
+18151,154,Poonamallee Terminus TO Broadway,3,69
+18152,154,Broadway TO Poonamallee Terminus,3,69
+11469,48BX,Vallalar Nagar TO Oragadam,3,69
+10777,109X,Broadway TO Thiruporur,3,69
+10605,27D,Ayanavaram B.T TO Villivakkam,3,69
+10779,109X,Thiruporur TO Broadway,3,69
+11298,38H,Broadway TO Madhavaram Village,3,69
+11300,38H,Madhavaram Village TO Broadway,3,69
+11303,38H,Madhavaram Village TO Madhavaram,3,69
+11305,38H,Madhavaram Village TO Vallalar Nagar,3,69
+11843,555S,Sholinganallur TO Kilambakkam B.T,3,69
+17389,102K,Perumpakkam S.C.B TO Broadway,3,69
+9320,40N,J.J.Nagar East TO Anna Nagar West,3,69
+12508,62Ct,Avadi B.T TO Redhills,3,69
+12507,65K,Poonamallee B.T TO Avadi B.T,3,69
+11293,38G,Vazhuthigaimedu TO Koyambedu Market,3,69
+17438,159,Thiruvottiyur TO M.G.R.Koyambedu,3,69
+9295,15C,M.G.R.Koyambedu TO Avadi,3,69
+10938,121C,Ennore TO M.G.R.Koyambedu,3,69
+9187,99A,Perumpakkam (Depot) TO Perumpakkam S.C.B,3,69
+11356,40L,J.J.Nagar West TO Ambattur I.E,3,69
+17399,102K,Ezhil Nagar TO Adyar B.T,3,69
+11350,40L,Anna Nagar West TO J.J.Nagar West,3,69
+18164,25,Poonamallee B.S TO Vadapalani,3,69
+14336,40L,Mgr Central B.S TO Anna Square,3,69
+18165,26,Broadway TO Iyyappanthangal,3,69
+11358,40L,J.J.Nagar West TO Anna Nagar West,3,69
+17395,102K,Broadway TO Ezhil Nagar,3,69
+17396,102K,Thiruvanmiyur TO Kannagi Nagar S.C.B,3,69
+17901,142B,Perambur B.T TO Thanikachalam Nagar,3,69
+12677,71V,Avadi B.T TO Veppampattu E.Waran Nagar,3,69
+16020,72,M.G.R.Koyambedu TO Todd Hunter Nagar,3,69
+16021,72,Thiruverkadu Bus Terminus TO Todd Hunter Nagar,3,69
+18168,266,Poonamallee TO Avadi Bus Terminus,3,69
+18169,266,Avadi Bus Terminus TO Poonamallee,3,69
+17690,570,Kelambakkam To  Perumbakkam,3,69
+16022,72,Todd Hunter Nagar TO M.G.R.Koyambedu Bus Terminus,3,69
+12786,77K,Avadi B.T TO M.G.R.Koyambedu,3,69
+17046,91,Tambaram West TO Raj Bhavan Quarters,3,69
+10868,12G,Secretariat TO K.K.Nagar,3,69
+15996,S25,Maduravoyal Market TO Valasaravakkam,3,69
+17048,91,Raj Bhavan TO Tambaram West,3,69
+17027,91,Adyar TO Thiruvanmiyur,3,69
+17025,91,Thiruvanmiyur TO Adyar,3,69
+18173,37,Vallalar Nagar TO Poonamallee B.T,3,69
+18174,37,Poonamallee B.T TO Vallalar Nagar,3,69
+17875,170Tx,M.K.B.Nagar TO Kilambakkam Bus Terminus,3,69
+16286,170Tx,Moolakadai TO Kaviarasu Kannadasan Nagar,3,69
+15802,170Tx,Kaviarasu Kannadasan  Nagar TO Kilambakkam B.S,3,69
+18177,49A,Poonamallee B.T TO Thyagaraya Nagar,3,69
+12793,77B,Oragadam TO Ambattur I.E,3,69
+18176,37,Iyyappanthangal TO Poonamallee B.T,3,69
+12377,593Ct,Chennang Karanai TO Redhills,3,69
+8032,48B,Sayani Theatre Aynavaram TO Pudur,3,69
+18179,49F,Poonamallee B.T TO Mandaveli,3,69
+17033,91,Thiruvanmiyur TO Tambaram West,3,69
+18180,49F,Mandaveli TO Poonamallee B.T,3,69
+17254,66,Kundrathur TO Tambaram West,3,69
+17035,91,Thiruvanmiyur TO Kilambakkam,3,69
+12381,593Ct,Redhills TO Padiyanallur,3,69
+17259,66,Tambaram West TO Poonamallee B.T,3,69
+17269,66,Poonamallee TO Tambaram West,3,69
+18188,53A,Broadway TO Poonamallee Terminus,3,69
+18183,525,Sunguvarchathiram TO Poonamallee B.T,3,69
+17038,91,Tambaram West TO Thiruvanmiyur,3,69
+18184,53,Broadway TO Poonamallee B.T,3,69
+17040,91,Rajbhavan TO Chromepet,3,69
+18185,53,Poonamallee B.T TO Broadway,3,69
+18186,53,Poonamallee B.T TO M.G.R.Koyambedu,3,69
+18187,53,M.G.R.Koyambedu TO Poonamallee B.T,3,69
+18181,50M,Thiruverkadu TO Poonamallee B.T,3,69
+18182,50M,Poonamallee B.T TO Thiruverkadu,3,69
+18189,53E,Poonamallee B.T TO Kundrathur B.T,3,69
+12384,593Ct,Uthukottai TO Redhills,3,69
+12492,66A,Hasthinapuram TO Kundrathur B.T,3,69
+9254,102S,Okk.Thoraipakm Sec.Colony TO Broadway,3,69
+9074,552K,Saidapet TO Kelambakkam Bus Terminal,3,69
+10941,121C,Moolakadai TO M.G.R.Koyambedu,3,69
+18192,53G,Poonamallee B.T TO Palanjur,3,69
+18190,53E,Broadway TO Poonamallee B.T,3,69
+12382,593Ct,Redhills TO Uthukottai,3,69
+18193,53G,Palanjur TO Poonamallee,3,69
+18194,53G,Poonamallee B.T TO Padurmedu,3,69
+18195,53G,Padurmedu TO Poonamallee B.T,3,69
+18196,53P,Poonamallee B.T TO Pattur,3,69
+11915,55K,Guduvanchery TO Kumizhi,3,69
+12163,580,Kallur TO Avadi B.T,3,69
+18197,53P,Poonamallee B.T TO Broadway,3,69
+18198,53P,Pattur TO Poonamallee B.T,3,69
+18201,54,Iyyappanthangal TO Poonamallee B.T,3,69
+18199,54,Broadway TO Poonamallee B.T,3,69
+18200,54,Poonamallee B.T TO Broadway,3,69
+18202,54,M.G.R.Central TO Poonamallee B.T,3,69
+12797,77FCt,Avadi B.T TO Vadathur,3,69
+18203,54,Poonamallee B.T TO Iyyappanthangal,3,69
+12848,88R,Amarambedu TO Saidapet,3,69
+9052,154E,Vellavedu TO Saidapet Metro,3,69
+18204,54C,Poonamallee TO Annambedu,3,69
+18205,54C,Annambedu TO Poonamallee,3,69
+10642,104K,Kilambakkam B.T TO Redhills,3,69
+12532,65E,Avadi B.T TO Poonamallee B.T,3,69
+10614,18D,Saidapet TO Broadway,3,69
+18206,54C,Pattabiram TO Poonamallee B.T,3,69
+18207,54C,Poonamallee B.T TO Pattabiram,3,69
+18208,54E,Poonamallee B.T TO Meppur,3,69
+18210,54G,Poonamallee B.T TO Broadway,3,69
+18211,54G,Broadway TO Poonamallee B.T,3,69
+18212,54K,Poonamallee B.T TO Nemam,3,69
+10790,206,Avadi B.T TO Kilambakkam B.T,3,69
+18213,54K,Nemam TO Poonamallee B.T,3,69
+18214,54L,Poonamallee B.T TO Broadway,3,69
+18209,54E,Meppur TO Poonamallee B.T,3,69
+17510,21G,Broadway TO Kilambakkam B.T,3,69
+10981,120F,Broadway TO Oragadam,3,69
+16792,49,Iyyappanthangal TO Thiruvanmiyur,3,69
+16794,49,Thiruvanmiyur Bus Stand TO Iyyapanthangal Depot,3,69
+10476,17D,K.K.Nagar TO M.G.R.Koyambedu,3,69
+10937,114E,Koyambedu Market TO New Erumaivetti Palayam,3,69
+18215,54L,Broadway TO Poonamallee B.T,3,69
+16793,49,Broadway TO Iyyappanthangal,3,69
+12850,88R,Iyyappanthangal TO Saidapet,3,69
+18216,54P,Poonamallee B.T TO Thyagaraya Nagar,3,69
+11284,38D,Thiruvotriyur B.T TO Egmore North R.S,3,69
+11285,38D,Thiruvotriyur B.T TO Kodungaiyur Parvathi Nagar,3,69
+10478,17D,Maternity Hospital TO Ethiraj College,3,69
+14627,38D,Egmore North Rs TO Tondiarpet,3,69
+14630,38D,Tondiarpet TO Thiruvotiyur B.T,3,69
+18217,54P,Thyagaraya Nagar TO Poonamallee B.T,3,69
+11283,38D,Kodungaiyur Parvathi Nagar TO Thiruvotriyur B.T,3,69
+18220,54T,Poonamallee  B.S TO Chembarambakkam,3,69
+18222,54V,Veppampattu R.S TO Poonamallee B.T,3,69
+8457,21G,Mgr Central Station TO Kilambakkam Bus Terminus,3,69
+18218,54S,Poonamallee B.T TO Vadakku Malaiambakkam,3,69
+18219,54S,Poonamallee TO Saidapet,3,69
+18221,54T,Chembarambakkam TO Poonamallee  B.S,3,69
+18224,54VCt,Veppampattu R.S TO Poonamallee B.T,3,69
+18225,54VCt,Poonamallee B.T TO Veppampattu R.S,3,69
+10786,10A,Broadway TO Saidapet West,3,69
+12803,77P,Avadi B.T TO Poochiathipedu,3,69
+10632,18K,M.G.R.Central TO Saidapet West,3,69
+10634,18K,Saidapet West TO M.G.R.Central,3,69
+18223,54V,Poonamallee B.T TO Veppampattu R.S,3,69
+12711,72Ct,M.G.R.Koyambedu TO Todd Hunter Nagar,3,69
+18230,578,Poonamallee B.T TO Sriperumbudur,3,69
+12543,65A,Poonamallee B.T TO Thyagaraya Nagar,3,69
+18231,578,Sriperumbudur TO Poonamallee B.T,3,69
+17488,95,Thiruvanmiyur Bs TO Tambaram East,3,69
+8313,A1,Mgr Central TO Chindadripet,3,69
+8317,A1,Chinthathripet TO Mgr Central,3,69
+10795,10E,Broadway TO Ekkattuthangal,3,69
+18232,578,Sunguvarchathiram TO Poonamallee B.T,3,69
+12789,77K,Karukku TO M.G.R.Koyambedu,3,69
+12502,62B,J.J.Nagar West TO Ambattur I.E,3,69
+16562,22,Ayanavaram TO Anna Square,3,69
+8341,6D,Kilambakkam B.S TO Thiruvanmiyur,3,69
+8342,6D,Thiruvanmiyur TO Kilambakkam B.S,3,69
+11114,2A,Anna Square TO K.Kannadasan Nagar,3,69
+18234,1C ct1,Thiruvanmiyur Bus TO Broadway,3,69
+18235,164,Minjur B.S TO M.K.B.Nagar,3,69
+11299,42D,Srinivasa Nagar TO Broadway,3,69
+11836,555S,Kilambakkam B.T TO Perumpakkam S.C.B,3,69
+18233,578,Poonamallee B.T TO Sunguvarchathiram,3,69
+16250,297,Kilambakkam B.T TO Thiruvallur,3,69
+12712,72Ct,Todd Hunter Nagar TO M.G.R.Koyambedu,3,69
+8395,5C,Mgr Central TO Thiruvanmiyur,3,69
+10202,221,Saidapet TO Kelambakkam,3,69
+8437,88K,Kundrathur B.S TO Thyagaraya Nagar,3,69
+12505,62B,Redhills TO J.J.Nagar West,3,69
+10203,221,M.G.R.Central TO Thiruporur,3,69
+10204,221,Thiruporur TO M.G.R.Central,3,69
+10942,121A,Koyambedu Market TO Manali,3,69
+17796,70,Tambaram Sanatorium Bus Stand TO Avadi Bus Terminus,3,69
+8476,221,Kilambakkam Bus Terminus TO Mgr Central Station,3,69
+12506,65K,Avadi B.T TO Poonamallee B.T,3,69
+8478,221,M.G.R.Koyambedu TO Kelambakkam Bus Terminal,3,69
+8458,21G,Kilambakkam Bus Terminus TO Mgr Central Station,3,69
+12790,77B,Ambattur I.E TO Oragadam,3,69
+17518,70,Avadi Bus Terminus TO Tambaram West Bus Stand,3,69
+10743,19D,Semmancheri S.C.B TO Adyar B.T,3,69
+10780,202,Avadi B.T TO Tambaram West,3,69
+8489,S11,Velachery TO Guindy Race Course,3,69
+8486,S11,Guindy Race Course TO Velachery,3,69
+11286,38G,Broadway TO Padiyanallur,3,69
+11287,38G,Broadway TO Vazhuthigaimedu,3,69
+16059,142,Redhills B.S TO Padiyanallur B.S,3,69
+12791,77K,M.G.R.Koyambedu TO Avadi B.T,3,69
+9064,552K,Kelambakkam Bus Terminal TO Saidapet,3,69
+10730,19D,Adyar B.T TO Perumpakkam S.C.B,3,69
+10745,19D,Semmancheri S.C.B TO Mandaveli,3,69
+10939,121C,Ennore TO Moolakadai,3,69
+16714,44,Tondiarpet TO Broadway,3,69
+16318,21G,Broadway TO Mandaveli Bus Terminus,3,69
+12510,62Ct,Moolakadai TO Redhills,3,69
+16715,44,Manali TO Tondiarpet,3,69
+16717,44,Tondiarpet TO Manali,3,69
+516,45B,Guindy Bus Terminus TO Broadway,3,69
+9750,19D,Semmancheri S.C.B TO Tambaram West,3,69
+9753,19D,Tambaram West TO Semmancheri S.C.B,3,69
+2935,S19,Chromepet TO Keelkattalai,3,69
+15052,42C,Teachers Colony TO Perambur B.T,3,69
+15050,42C,Perambur B.T TO Teachers Colony,3,69
+11347,45A,Madipakkam B.T TO N.G.O.Colony,3,69
+9293,15C,Avadi TO M.G.R.Koyambedu,3,69
+10781,202,Tambaram West TO Avadi B.T,3,69
+12792,77B,M.G.R.Koyambedu TO Oragadam,3,69
+11348,45A,Madipakkam B.T TO Vivekananda House,3,69
+12794,77K,M.G.R.Koyambedu TO Karukku,3,69
+10867,12G,K.K.Nagar TO Anna Square,3,69
+16360,19D,Besant Nagar TO Semmancheri S.C.B,3,69
+10737,19D,Mandaveli TO Semmancheri S.C.B,3,69
+16783,109,Thiruvidanthai TO Broadway,3,69
+16784,109,Thiruvanmiyur TO Kovalam,3,69
+16797,109,Mgr Central Station TO Thiruporur Bus Stand,3,69
+16789,109,Besant Nagar TO Kovalam,3,69
+16800,109,Thiruvanmiyur B.S TO Kilambakkam B.S,3,69
+16802,109,Kilambakkam Bus Terminus TO Kovalam Bus Stand,3,69
+10943,121A,M.G.R.Koyambedu TO Manali,3,69
+3532,18A,Tambaram TO Broadway,3,69
+10879,129C,Besant Nagar TO Perambur B.T,3,69
+11373,45B,Broadway TO Guindy Tvk Estate,3,69
+11375,45B,Cement Road TO Broadway,3,69
+11378,45B,Guindy Tvk Estate TO Mugalivakkam Mm Temple,3,69
+10986,120E,Broadway TO Kilkondaiyur,3,69
+10987,120E,Kilkondaiyur TO Ambattur I.E,3,69
+11173,36M,Thiruvotriyur B.T TO Vichoor,3,69
+11380,45B,Mugalivakkam Mm Temple TO Anna Square,3,69
+11142,29E,Thiruverkadu TO Poonamallee B.T,3,69
+11382,45B,Mugalivakkam Mm Temple TO Guindy Tvk Estate,3,69
+9756,19D,Tambaram West TO Perumpakkam S.C.B,3,69
+10731,19D,Adyar B.T TO Semmancheri S.C.B,3,69
+11265,38A,Broadway TO Madhavaram,3,69
+11198,35C,Korattur TO Ayanavaram B.T,3,69
+11073,28A,Manali New Town TO Vallalar Nagar,3,69
+11076,28A,Vallalar Nagar TO Manali New Town,3,69
+17432,159,Thiruvotriyur B.T TO Thiruverkadu,3,69
+12547,64M,M.G.R.Central TO M.M.B.T,3,69
+11359,40L,J.J.Nagar West TO Anna Square,3,69
+11437,47CX,Ayappakkam TO Ambattur I.E,3,69
+17401,102K,Alwarpet TO Perumpakkam S.C.B,3,69
+10799,20A,J.J.Nagar West TO Ayanavaram B.T,3,69
+16060,142,Padiyanallur Depot TO Redhills Bus Terminus,3,69
+12805,77P,Koyambedu Market TO Poochiathipedu,3,69
+12713,72M,Poonamallee B.T TO Thiruverkadu,3,69
+10984,120E,Ambattur I.E TO Kilkondaiyur,3,69
+10631,18K,Broadway TO Saidapet West,3,69
+10784,202X,Avadi B.T TO Kilambakkam B.T,3,69
+11807,555G,Kilambakkam B.T TO Guduvanchery,3,69
+10944,121A,Manali TO Koyambedu Market,3,69
+10945,121A,Manali TO M.G.R.Koyambedu,3,69
+10988,120E,Kilkondaiyur TO Avadi B.T,3,69
+11199,35C,Korattur TO Broadway,3,69
+8672,91V,Thiruvanmiyur TO Kilambakkam B.S,3,69
+15924,170C,Alandur (Depot) TO Guindy Tvk Estate,3,69
+11809,555G,Sholinganallur TO Guduvanchery,3,69
+17355,102K,Secretariat TO Okk.Thoraipakm Sec.Colony,3,69
+15752,170C,Madhavaram TO T.V.K.Nagar,3,69
+11289,38G,Moolakadai TO Vazhuthigaimedu,3,69
+10785,202X,Kilambakkam B.T TO Avadi B.T,3,69
+9191,99A,Perumpakkam S.C.B TO Perumpakkam (Depot),3,69
+9312,27B,Anna Square TO M.M.D.A.Colony,3,69
+15753,170C,T.V.K.Nagar TO Madhavaram,3,69
+11483,48A,Ambattur I.E TO Madhavaram B.T,3,69
+11486,48A,Madhavaram B.T TO Ambattur I.E,3,69
+11487,48A,Madhavaram B.T TO Koyambedu Market,3,69
+12617,70V,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+16267,70V,Airport TO Kilambakkam,3,69
+16273,70V,Kilambakkam TO M.G.R.Koyambedu,3,69
+15757,170C,Vyasarpadi TO Guindy Bus Terminus,3,69
+12795,77B,Oragadam TO M.G.R.Koyambedu,3,69
+10946,121A,Manali TO Moolakadai,3,69
+10989,120E,Kilkondaiyur TO Broadway,3,69
+11307,38H,Vallalar Nagar TO Madhavaram Village,3,69
+16272,70V,Tambaram West TO Kilambakkam,3,69
+11088,28B,Rajashanmugam Nagar TO Egmore North R.S,3,69
+11245,37Ct,M.G.R.Koyambedu TO Vallalar Nagar,3,69
+14488,170C,Otteri TO T.V.K.Nagar,3,69
+11175,31P,Ponmar TO Tambaram West,3,69
+14490,170C,T.V.K.Nagar TO Otteri,3,69
+16990,95,Sholinganallur TO Tambaram East,3,69
+11290,38G,Padiyanallur TO Moolakadai,3,69
+16271,70V,M.G.R.Koyambedu TO Tambaram West,3,69
+11360,40N,Anna Nagar West TO J.J.Nagar East,3,69
+11351,45A,N.G.O.Colony TO Madipakkam B.T,3,69
+11367,45B,Anna Square TO Cement Road,3,69
+12548,64M,M.M.B.T TO M.G.R.Central,3,69
+13590,56D,Manali TO Tondiarpet,3,69
+15861,56D,Tondairpet-1 Depot TO Manali Bus Terminus,3,69
+12527,65H,Avadi B.T TO Redhills,3,69
+12643,70A,Redhills TO M.G.R.Koyambedu,3,69
+12641,70A,M.G.R.Koyambedu TO Ambattur I.E,3,69
+10947,121A,Manali TO Tondiarpet,3,69
+10802,20D,Ayanavaram B.T TO Sidco Nagar,3,69
+11084,28B,Ennore TO Egmore North R.S,3,69
+11086,28B,Ennore TO Vallalar Nagar,3,69
+16994,95,Thiruvanmiyur TO Tambaram West,3,69
+15925,170C,Guindy Tvk Estate TO Alandur (Depot),3,69
+10948,121A,Moolakadai TO Manali,3,69
+10803,20D,Broadway TO Sidco Nagar,3,69
+11176,31P,Tambaram West TO Ponmar,3,69
+17722,20A,Broadway TO Villivakkam,3,69
+10885,121MEt,M.G.R.Koyambedu TO Manali,3,69
+11089,28B,Vallalar Nagar TO Ennore,3,69
+11081,28B,Egmore North R.S TO Rajashanmugam Nagar,3,69
+17904,12B,Foreshore Estate TO Saligramam Bus Stand,3,69
+11178,36M,Vichoor TO Thiruvotriyur B.T,3,69
+11999,56D,Tondiarpet TO Broadway,3,69
+12530,65G,Meyyur TO Thamaraipakkam Rd.Jn,3,69
+10801,20A,Villivakkam TO Broadway,3,69
+11147,29D,Mathur M.M.D.A. TO Vivekananda House,3,69
+16996,95,Thiruvanmiyur TO Tambaram East,3,69
+16997,95,Tambaram East TO Thiruvanmiyur,3,69
+11090,31G,Medavakkam Rd.Jn TO Tambaram West,3,69
+17634,170C,Guindy TVK Estate to Vyasarpadi Depot,3,69
+12714,72M,Thiruverkadu TO Poonamallee B.T,3,69
+11291,42C,Teachers Colony TO Broadway,3,69
+11247,37Ct,Vadapalani TO M.G.R.Koyambedu,3,69
+10804,20D,Sidco Nagar TO Ayanavaram B.T,3,69
+11227,36V,Redhills TO Thiruvotriyur B.T,3,69
+16998,95,Tambaram East TO Sholinganallur,3,69
+11341,40H,Avadi B.T TO Pattabiram,3,69
+12549,64KEt,Broadway TO K.Kannadasan Nagar,3,69
+18239,D70 CT,Guindy Tvk Estate TO Ambattur I.E,3,69
+18241,D70 CT1,Velachery B.T TO Guindy Tvk Estate,3,69
+18242,D70,Ambattur I.E TO Velachery B.T,3,69
+7307,48K,Kallikuppam Tea Kadai Bus Stop TO Vallalar Nagar,3,69
+10949,121A,Tondiarpet TO Manali,3,69
+11091,31G,Tambaram West TO Medavakkam Rd.Jn,3,69
+10886,121MEt,Manali TO M.G.R.Koyambedu,3,69
+10643,104K,Redhills TO Kilambakkam B.T,3,69
+10226,242,Broadway TO Moolakadai,3,69
+18249,29E CT,M.G.R.Koyambedu TO Thiruverkadu Terminus,3,69
+11453,48P,Vallalar Nagar TO Ayanavaram B.T,3,69
+11092,28B,Egmore North R.S TO Ennore,3,69
+12517,62M,Poonamallee B.T TO M.M.B.T,3,69
+12513,62M,M.M.B.T TO Madhavaram,3,69
+12514,62M,M.M.B.T TO Poonamallee B.T,3,69
+11150,29D,Moolakadai TO Vivekananda House,3,69
+18251,29E CT,Thiruverkadu TO M.G.R.Koyambedu,3,69
+11027,114S,Koyambedu Market TO Seemavaram,3,69
+11454,48P,Vallalar Nagar TO Puthagaram,3,69
+16603,120,Ayanavaram B.T TO Avadi B.T,3,69
+18250,29E R,Perambur B.T TO Thiruverkadu,3,69
+18252,99X,Adyar B.T TO Kilambakkam B.T,3,69
+10951,114E,New Erumaivetti Palayam TO Koyambedu Market,3,69
+18259,104G,M.K.B.Nagar TO Kilambakkam B.T,3,69
+12536,65CCt,Ambattur I.E TO Pakkam Village,3,69
+11181,36K,Redhills TO Thangal Tollgate,3,69
+16599,26,Vadapalani TO Broadway,3,69
+11294,42D,Broadway TO Srinivasa Nagar,3,69
+11275,38C,Otteri TO T.V.K.Nagar,3,69
+18269,588,Mamallapuram TO Thiruvanmiyur,3,69
+11342,44Ct,I.O.C TO Tondiarpet,3,69
+18268,S3X,Jothi Nagar Madambakkam TO Chromepet Esi,3,69
+11327,44C,Broadway TO Manali,3,69
+11353,45A,Vivekananda House TO Madipakkam B.T,3,69
+18270,104G,Kilambakkam B.T TO M.K.B.Nagar,3,69
+10890,114C,M.G.R.Koyambedu TO Redhills,3,69
+10808,20D,Villivakkam TO Sidco Nagar,3,69
+11094,31M,Tambaram West TO Madurapakkam,3,69
+11442,49A,Iyyappanthangal TO Thyagaraya Nagar,3,69
+10889,121MEt,Moolakadai TO M.G.R.Koyambedu,3,69
+11482,48AEt,Madhavaram B.T TO J.J.Nagar West,3,69
+18274,51AX ct1,Thyagaraya Nagar Bus Depot TO Kilambakkam Bus Terminus,3,69
+18275,51AX ct2,Kilambakkam Bus Terminus TO Thyagaraya Nagar Bus Depot,3,69
+18278,583A,Sriperumbudur TO Thiruvallur,3,69
+11152,29CEX,Besant Nagar TO Srinivasa Nagar,3,69
+11121,29AEt,Otteri TO Periyar Nagar,3,69
+15106,29B,L.F.C TO Saidapet,3,69
+10668,104M,Kilambakkam B.T TO M.M.B.T,3,69
+10996,120A,Arakkambakkam TO Avadi B.T,3,69
+12801,77Ct,Venkatachalam Nagar TO M.G.R.Koyambedu,3,69
+10231,242,Moolakadai TO Broadway,3,69
+10237,242,Redhills TO Perambur B.T,3,69
+11030,114S,Seemavaram TO Koyambedu Market,3,69
+13171,M27,M.G.R.Koyambedu TO Thyagaraya Nagar,3,69
+13172,M27,M.G.R.Koyambedu TO Vadapalani,3,69
+11031,114S,Seemavaram TO Moolakadai,3,69
+11182,36K,Redhills TO Thiruvotriyur B.T,3,69
+11123,29NEt,Peravallur Kumaran Nagar TO Velachery B.T,3,69
+10670,104M,M.G.R.Koyambedu TO M.M.B.T,3,69
+12802,77E,Ambattur I.E TO Kanniamman Nagar,3,69
+10892,114C,M.G.R.Koyambedu TO Thamaraipakkam Rd.Jn,3,69
+11276,38C,T.V.K.Nagar TO Otteri,3,69
+12551,64KEt,K.Kannadasan Nagar TO Broadway,3,69
+18286,95X R1,Thiruvanmiyur TO Kilambakkam B.T,3,69
+1375,70C,Tambaram West Bus Stand TO Koyambedu Market,3,69
+16257,77T,Thirumullaivoyal Colony TO M.G.R.Koyambedu,3,69
+10794,206,Kilambakkam B.T TO Avadi B.T,3,69
+8221,51A,Saidapet TO Thiyagarayanagar Terminus,3,69
+8223,51A,Thiyagarayanagar Terminus TO Saidapet,3,69
+16018,46G,Annanagar East TO M.G.R.Koyambedu,3,69
+11406,46G,Koyambedu Market TO M.K.B.Nagar,3,69
+11252,37ECt,M.K.B.Nagar TO Vadapalani,3,69
+10672,104M,M.M.B.T TO Kilambakkam B.T,3,69
+11154,29CEX,Perambur B.T TO Srinivasa Nagar,3,69
+11155,29CEX,Srinivasa Nagar TO Perambur B.T,3,69
+12664,70C,Kilambakkam B.T TO Koyambedu Market,3,69
+12668,70C,Tambaram West TO M.G.R.Koyambedu,3,69
+11184,36K,Thangal Tollgate TO Redhills,3,69
+16046,46G,M.G.R.Koyambedu TO M.K.B.Nagar,3,69
+12670,70C,M.G.R.Koyambedu TO Cement Road,3,69
+12673,70C,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+11277,38C,T.V.K.Nagar TO Vivekananda House,3,69
+8326,A1,Kilambakkam B.S TO Thiruvanmiyur,3,69
+8327,A1,Thiruvanmiyur TO Kilambakkam B.S,3,69
+11295,38G,Vazhuthigaimedu TO Broadway,3,69
+10796,20A,Ayanavaram B.T TO J.J.Nagar West,3,69
+12804,77E,Avadi B.T TO Kanniamman Nagar,3,69
+12852,88R,Saidapet TO Amarambedu,3,69
+17743,570,Siruseri I.T Park TO K.K.Nagar,3,69
+12552,64KEt,K.Kannadasan Nagar TO Perambur B.T,3,69
+12354,58V,Redhills TO M.G.R.Koyambedu,3,69
+15112,21L,Broadway TO Adyar B.T,3,69
+12683,70C,K.K.Nagar B.T TO Kilambakkam B.T,3,69
+11185,36K,Thiruvotriyur B.T TO Redhills,3,69
+11530,500W,Chengalpet TO Saidapet West,3,69
+11533,500W,Tambaram West TO Saidapet West,3,69
+16315,21L,Thiruvanmiyur TO Madipakkam Bus Stand,3,69
+17852,26G,Vadapalani B.S TO Broadway,3,69
+10674,104M,M.M.B.T TO M.G.R.Koyambedu,3,69
+11211,33L,Broadway TO Kodungaiyur Parvathi Nagar,3,69
+12546,65A,Thyagaraya Nagar TO Poonamallee B.T,3,69
+12553,64KEt,Kodungaiyur Parvathi Nagar TO Broadway,3,69
+10797,20A,Broadway TO J.J.Nagar West,3,69
+10676,104P,Kilambakkam B.T TO Perambur B.T,3,69
+12687,70C,Tambaram West TO Nattarasanpattu,3,69
+11212,33L,Kodungaiyur Parvathi Nagar TO Broadway,3,69
+11355,40L,Anna Square TO J.J.Nagar West,3,69
+11345,40H,Pattabiram TO Avadi B.T,3,69
+11330,44C,Manali TO Broadway,3,69
+11157,29CEt,Besant Nagar TO Perambur B.T,3,69
+11143,29B,L.F.C TO Madhavaram Milk Colony,3,69
+12691,70C,M.G.R.Koyambedu TO Tambaram West,3,69
+11151,29B,Perambur B.T TO Gemini,3,69
+17836,29B,Perambur B.T TO Madhavaram Milk Colony,3,69
+10899,114C,Thamaraipakkam Rd.Jn TO M.G.R.Koyambedu,3,69
+10985,120E,Avadi B.T TO Kilkondaiyur,3,69
+17856,29B,Saidapet TO L.F.C,3,69
+10960,120KEt,Broadway TO Kilkondaiyur,3,69
+10961,120KEt,Kilkondaiyur TO Avadi B.T,3,69
+10963,120KEt,Kilkondaiyur TO Broadway,3,69
+10962,114E,Redhills TO New Erumaivetti Palayam,3,69
+10678,104P,Perambur B.T TO Kilambakkam B.T,3,69
+11346,44Ct,Tondiarpet TO I.O.C,3,69
+11068,28A,Egmore North R.S TO Manali New Town,3,69
+11158,29B,Perambur B.T TO Saidapet,3,69
+17493,95,Tambaram East TO Thiruvanmiyur Bs,3,69
+11085,31B,Kandigai Junction TO Tambaram West,3,69
+11129,29AEt,Periyar Nagar TO Otteri,3,69
+11159,29CEt,Besant Nagar TO Periyar Nagar,3,69
+12694,70C,Tambaram West TO Koyambedu Market,3,69
+12663,70C,Vadapalani B.T TO Kilambakkam B.T,3,69
+16637,119,K.K.Nagar TO Semmancheri S.C.B,3,69
+16639,119,Guindy Tvk Estate TO Semmancheri S.C.B,3,69
+10902,114CCt,Gnayaru TO Koyambedu Market,3,69
+11102,29A,Perambur B.T TO Anna Square,3,69
+11215,33C,Broadway TO K.Kannadasan Nagar,3,69
+12556,64K,K.Kannadasan Nagar TO Broadway,3,69
+9560,19T,Kovalam TO Adyar B.S,3,69
+12702,70C,Nattarasanpattu TO Tambaram West,3,69
+12703,70C,Vadapalani TO Koyambedu Market,3,69
+12324,583A,Thiruvallur TO Sriperumbudur,3,69
+10680,104T,Kilambakkam B.T TO T.V.K.Nagar,3,69
+18291,583A,Poonamallee B.T TO Thiruvallur,3,69
+11189,32A,Thangal Tollgate TO Foreshore Estate,3,69
+11191,32A,Vivekananda House TO Thangal Tollgate,3,69
+10903,121M,Madhavaram B.T TO M.G.R.Koyambedu,3,69
+17858,32A,Thangal Tollgate TO Vivekananda House,3,69
+17495,70V,Anna Nagar West TO M.G.R.Koyambedu,3,69
+17496,70V,M.G.R.Koyambedu TO Anna Nagar West,3,69
+9634,104K,Redhills B.S TO Tambaram West,3,69
+12704,70C,Tambaram West TO K.K.Nagar B.T,3,69
+10681,104T,Otteri TO T.V.K.Nagar,3,69
+9631,12G,Broadway TO K K Nagar,3,69
+9632,12G,Secretariat TO Anna Square,3,69
+11676,51B,Pudupakkam Law College TO Saidapet,3,69
+10966,120K,Broadway TO Kadhavoor,3,69
+10967,120K,Kadhavoor TO Avadi B.T,3,69
+10904,121M,Moolakadai TO M.G.R.Koyambedu,3,69
+11133,29AEX,Perambur B.T TO Peravallur Kumaran Nagar,3,69
+11679,51B,Saidapet TO Pudupakkam Law College,3,69
+10907,114CCt,Gnayaru TO M.G.R.Koyambedu,3,69
+12878,7H,Broadway TO Anna Nagar West,3,69
+18292,51B,Pudupakkam Law College TO Velachery B.T,3,69
+17498,70V,K.K.Nagar TO M.G.R.Koyambedu,3,69
+10905,121M,Vazhuthigaimedu TO M.G.R.Koyambedu,3,69
+10820,21C,Broadway TO Kannagi Nagar S.C.B,3,69
+17833,120A,Arakkambakkam TO Koyambedu Market,3,69
+10822,21C,Kannagi Nagar S.C.B TO Broadway,3,69
+11135,29AEX,Peravallur Kumaran Nagar TO Anna Square,3,69
+11011,114G,Gnayaru TO M.G.R.Koyambedu,3,69
+11366,41D,Ambattur O.T TO Ambattur I.E,3,69
+9666,S27,Guindy TO Iyyappanthangal,3,69
+17500,164,M.K.B.Nagar TO Perambur Bus Terminus,3,69
+10824,21C,Mylapore Tank TO Broadway,3,69
+16629,119,Semmancheri S.C.B TO Velachery B.T,3,69
+18293,120A,Arakkambakkam TO Ambattur I.E,3,69
+12722,73C,Ambattur I.E TO Ayappakkam,3,69
+16628,119,Velachery B.T TO Semmancheri S.C.B,3,69
+16632,119,Semmancheri S.C.B TO Cement Road,3,69
+17835,119,Adyar Depot TO Semmancheri S.C.B,3,69
+12808,77P,Poochiathipedu TO Avadi B.T,3,69
+17863,119,Semmancheri S.C.B TO Adyar Depot,3,69
+10805,20D,Sidco Nagar TO Broadway,3,69
+12565,64C,Azeezee Nagar TO Broadway,3,69
+16662,118,Tambaram West TO Keerapakkam,3,69
+12550,64KEt,Broadway TO Kodungaiyur Parvathi Nagar,3,69
+16630,119,Semmancheri S.C.B TO K.K.Nagar,3,69
+16640,119,Cement Road TO Semmancheri S.C.B,3,69
+12567,64C,Broadway TO Madhavaram,3,69
+11196,35C,Ayanavaram B.T TO Korattur,3,69
+12723,73C,Ayappakkam TO Ambattur I.E,3,69
+10694,105A,Karanai TO Tambaram West,3,69
+10693,19A,Semmancheri S.C.B TO Thyagaraya Nagar,3,69
+17150,62,Avadi B.T TO Poonamallee B.T,3,69
+10973,120G,Broadway TO Menambedu,3,69
+11013,114G,M.G.R.Koyambedu TO Gnayaru,3,69
+9455,77E,Avadi Bus Terminus TO M.G.R.Koyambedu,3,69
+9456,77E,M.G.R.Koyambedu TO Avadi Bus Terminus,3,69
+16660,118,Tambaram West TO Mahendra City,3,69
+11014,114G,M.G.R.Koyambedu TO Moolakadai,3,69
+10915,114CCt,Koyambedu Market TO Gnayaru,3,69
+10891,121M,K.Kannadasan Nagar TO M.K.B.Nagar,3,69
+11534,505,Avadi B.T TO Redhills,3,69
+11535,505,Avadi B.T TO Thiruvallur,3,69
+11537,505,Perathur TO Thiruvallur,3,69
+16622,119,Guindy B.S TO Adyar B.S,3,69
+12727,73Ct,Ambattur I.E TO Ayappakkam Tnhb,3,69
+12570,64C,Madhavaram TO Manali,3,69
+10696,19B,Kelambakkam TO Saidapet,3,69
+12811,77P,Poochiathipedu TO M.G.R.Koyambedu,3,69
+9921,120F,Ambatture Oragadam TO Broadway,3,69
+11015,114G,Moolakadai TO Gnayaru,3,69
+9981,40H,Avadi Bus Terminus TO Kilambakkam Bus Terminus,3,69
+9982,40H,Kilambakkam Bus Terminus TO Avadi Bus Terminus,3,69
+11538,505,Redhills TO Avadi B.T,3,69
+10697,19B,Saidapet TO Kelambakkam,3,69
+11540,505,Redhills TO Thamaraipakkam,3,69
+11543,505,Thamaraipakkam TO Thiruvallur,3,69
+17879,157,Redhills Bus Terminus TO V.Nagar,3,69
+17366,157,Tondiarpet TO Thiruvotriyur B.T,3,69
+10131,21G,Kilambakkam B.T TO Tambaram West,3,69
+10084,12X,Koyambedu Market TO Foreshore Estate,3,69
+10086,12X,M.G.R.Koyambedu TO Foreshore Estate,3,69
+10090,12X,Vadapalani TO M.G.R.Koyambedu,3,69
+10076,12M,Iyyappanthangal TO Mandaveli,3,69
+12729,70E,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+10033,120F,Ambatture Oragadam TO Avadi Bus Terminus,3,69
+10138,142B,Periyar Nagar TO Perambur B.T,3,69
+12812,77E,M.G.R.Koyambedu TO Ambattur I.E,3,69
+10140,142B,Thanikachalam Nagar TO Perambur B.T,3,69
+17129,62,Redhills TO Poonamallee B.T,3,69
+17131,62,Redhills TO Moolakadai,3,69
+10956,114E,New Erumaivetti Palayam TO Redhills,3,69
+10700,19BEt,Kelambakkam TO Saidapet,3,69
+17133,62,Redhills TO M.K.B.Nagar,3,69
+18294,62,Tambaram West Bus Stand TO Redhills Bus Terminus,3,69
+10152,147B,Anna Nagar West TO J.J.Nagar West,3,69
+12696,70C,Tambaram West TO Navalur S.C.B,3,69
+10160,147C,Ambattur I.E TO Kilambakkam B.T,3,69
+10701,105A,Siruseri I.T Park TO Tambaram West,3,69
+10894,114C,Redhills TO M.G.R.Koyambedu,3,69
+10895,121M,M.G.R.Koyambedu TO K.Kannadasan Nagar,3,69
+17379,157,Vyasarpadi TO Redhills,3,69
+10859,114,M.M.B.T TO M.G.R.Koyambedu,3,69
+10958,120KEt,Avadi B.T TO Kilkondaiyur,3,69
+10897,121M,M.G.R.Koyambedu TO Madhavaram B.T,3,69
+10898,121M,M.G.R.Koyambedu TO Moolakadai,3,69
+11254,37ECt,Vadapalani TO M.K.B.Nagar,3,69
+10917,114CCt,M.G.R.Koyambedu TO Moolakadai,3,69
+18298,515M,Kilambakkam Bus Terminus TO Mamallapuram,3,69
+18299,580M,Malanthur TO Avadi B.T,3,69
+18301,54E,Meppur TO Dms,3,69
+18302,102X,Adyar TO Thiruporur,3,69
+10248,102A,Thiruvanmiyur TO Pudupakkam Rd.Jn,3,69
+12554,64KEt,Perambur B.T TO K.Kannadasan Nagar,3,69
+8472,102X,Mgr Central Station TO Kilambakkam Bus Terminus,3,69
+10377,102P,Broadway TO Perumpakkam S.C.B,3,69
+10308,155A,Broadway TO Pazhanthandalam,3,69
+10375,102M,Manamathi TO Adyar B.T,3,69
+10368,15C,Anna Nagar West TO M.G.R.Koyambedu,3,69
+10369,15C,Broadway TO Anna Nagar West,3,69
+10371,15C,Broadway TO M.G.R.Koyambedu,3,69
+14803,102X,Kannagi Nagar B.S TO Thiruvanmiyur B.S,3,69
+10457,102X,Thiruporur TO Perumpakkam S.C.B,3,69
+10378,102P,Greams Road TO Broadway,3,69
+10386,102P,Greams Road TO Perumpakkam S.C.B,3,69
+10395,15F,Broadway TO Vadapalani,3,69
+10919,114CCt,Moolakadai TO Gnayaru,3,69
+11070,28A,Manali New Town TO Egmore North R.S,3,69
+10416,166K,Kovur TO Kilambakkam B.T,3,69
+12031,56J,Manali New Town TO Broadway,3,69
+12034,56J,Thangal Tollgate TO Manali New Town,3,69
+10420,102S,Broadway TO Kelambakkam,3,69
+10423,102S,Broadway TO Okk.Thoraipakm Sec.Colony,3,69
+12032,56J,Manali New Town TO Thangal Tollgate,3,69
+18303,65G,Meyyur TO Avadi B.T,3,69
+10440,26K,Kovur TO Broadway,3,69
+17890,54E,Dms TO Meppur,3,69
+10443,102X,Kilambakkam B.T TO Thiruporur,3,69
+10428,102S,Kelambakkam TO Broadway,3,69
+8084,557AE,Broadway TO Moolakadai,3,69
+8088,557AE,Moolakadai TO Redhills Bus Terminus,3,69
+10429,102S,Kelambakkam TO Kannagi Nagar S.C.B,3,69
+10469,170K,Peravallur Kumaran Nagar TO Perambur B.T,3,69
+9719,557AE,Gummidipoondi Terminal TO Annamalaichery,3,69
+13925,51AX,Kilambakkam B.T TO Thyagaraya Nagar,3,69
+17895,54S,Saidapet TO Vadakku Malaiambakkam,3,69
+12718,72M,Thyagaraya Nagar TO Thiruverkadu,3,69
+10464,170K,Guindy Tvk Estate TO Peravallur Kumaran Nagar,3,69
+10467,170K,Perambur B.T TO Peravallur Kumaran Nagar,3,69
+11544,505,Thiruvallur TO Avadi B.T,3,69
+11545,505,Thiruvallur TO Perathur,3,69
+12629,70A,Ambattur I.E TO Koyambedu Market,3,69
+12630,70A,Ambattur I.E TO M.G.R.Koyambedu,3,69
+12659,70C,Cement Road TO Tambaram West,3,69
+12676,70C,Kilambakkam B.T TO K.K.Nagar,3,69
+12689,70C,Koyambedu Market TO Tambaram West,3,69
+12637,70A,Avadi B.T TO M.G.R.Koyambedu,3,69
+16732,46,T.V.K.Nagar TO Vyasarpadi,3,69
+16733,46,Vyasarpadi TO T.V.K.Nagar,3,69
+16734,46,T.V.K.Nagar TO Otteri,3,69
+10474,17D,Ethiraj College TO K.K.Nagar,3,69
+16736,46,M.G.R.Koyambedu TO Anna Nagar West,3,69
+16737,46,Anna Nagar West TO M.G.R.Koyambedu,3,69
+10683,104T,T.V.K.Nagar TO Kilambakkam B.T,3,69
+10501,26M,Broadway TO Iyyappanthangal,3,69
+10502,188Et,Broadway TO Kundrathur B.T,3,69
+10503,188Et,Kundrathur B.T TO Broadway,3,69
+11197,35C,Broadway TO Korattur,3,69
+11082,31A,Agaramthen TO Tambaram West,3,69
+11016,114G,Moolakadai TO M.G.R.Koyambedu,3,69
+17891,54S,Vadakku Malaiambakkam TO Poonamallee,3,69
+17897,54S,Saidapet TO Porur,3,69
+11973,56C,Broadway TO Jothinagar,3,69
+12854,88R,Saidapet TO Iyyappanthangal,3,69
+12730,73Ct,Ayappakkam Tnhb TO Ambattur I.E,3,69
+16739,46,T.V.K.Nagar TO Ayanavaram B.T,3,69
+12813,77E,M.G.R.Koyambedu TO Kanniamman Nagar,3,69
+10969,120K,Kadhavoor TO Broadway,3,69
+16741,46,M.G.R.Koyambedu TO T.V.K.Nagar,3,69
+16742,46,M.G.R.Koyambedu TO Ayanavaram B.T,3,69
+12731,70F,Kilambakkam B.T TO M.G.R.Koyambedu,3,69
+10823,21C,Kannagi Nagar S.C.B TO Mylapore Tank,3,69
+11547,505,Thiruvallur TO Thamaraipakkam,3,69
+12642,70A,M.G.R.Koyambedu TO Avadi B.T,3,69
+17905,23C,Greams Road TO Perumpakkam S.C.B,3,69
+17906,23C,Perumbakkam S.C.B TO Greams Road,3,69
+11194,32B,Tondiarpet TO Korukkupet R.S,3,69
+12807,77E,Kanniamman Nagar TO Avadi B.T,3,69
+15930,58V,Redhills Market TO Moolakadai,3,69
+18304,54S,Porur To Saidapet,3,69
+12928,91A,Hasthinapuram TO Thiruvanmiyur,3,69
+17910,15BEt,Odeanmani TO M.G.R.Koyambedu,3,69
+17911,26B,Iyyappanthangal TO Mangadu,3,69
+17907,24A,Anna Nagar West TO L.F.C,3,69
+17914,170CE,Manali TO Guindy Tvk Estate,3,69
+12732,70F,Kilambakkam B.T TO Madhavaram B.T,3,69
+11414,47A,Ayanavaram B.T TO Villivakkam,3,69
+17917,188Et,Broadway TO Kundrathur Depot,3,69
+17915,102X,Thiruporur TO M.G.R.Central,3,69
+12816,77T,Ambattur I.E TO Thirumullaivoyal Colony,3,69
+15825,70C,Koyambedu Market Or Police Station TO Tambaram Railway Station,3,69
+17996,M51VC,Medavakkam Rd.Jn TO Kolathur,3,69
+18305,M51VC,Kolathur TO Medavakkam Rd.Jn,3,69
+10211,23C,Besant Nagar TO Egmore R.S,3,69
+10212,23C,Egmore R.S TO Besant Nagar,3,69
+10214,23C,Greams Road TO Besant Nagar,3,69
+14855,580,Periyapalayam TO Avadi B.T,3,69
+10826,10E,Broadway TO Saidapet West,3,69
+12929,88D,Kundrathur B.T TO Saidapet West,3,69
+12930,91A,Thiruvanmiyur TO Hasthinapuram,3,69
+11430,47C,Ambattur I.E TO Ambattur O.T,3,69
+11431,47C,Ambattur O.T TO Ambattur I.E,3,69
+11012,114G,Gnayaru TO Moolakadai,3,69
+11553,50Et,Broadway TO Iyyappanmadam,3,69
+12810,77E,Kanniamman Nagar TO M.G.R.Koyambedu,3,69
+12809,77P,Poochiathipedu TO Koyambedu Market,3,69
+12566,64C,Broadway TO Azeezee Nagar,3,69
+11434,47C,Kotturpuram TO Ambattur O.T,3,69
+18308,38A,Madhavaram TO Broadway,3,69
+16743,46,Ayanavaram B.T TO T.V.K.Nagar,3,69
+11267,38A,Broadway TO Manali,3,69
+11272,38A,Manali TO Broadway,3,69
+11436,47CX,Ambattur I.E TO Ayappakkam,3,69
+10213,23C,Besant Nagar TO Greams Road,3,69
+11445,49A,Thyagaraya Nagar TO Iyyappanthangal,3,69
+10695,19A,Thyagaraya Nagar TO Semmancheri S.C.B,3,69
+11193,32B,Korukkupet R.S TO Vivekananda House,3,69
+11195,32B,Vivekananda House TO Korukkupet R.S,3,69
+17636,515,Adyar Depot To  Mamallapuram,3,69
+12042,55C,Sonallur TO Tambaram West,3,69
+17918,32B,Mgr Central TO Korukkupet,3,69
+14428,32B,Vivekananda House TO Tondiarpet B.S,3,69
+12569,64C,Manali TO Broadway,3,69
+16254,70T,Kilambakkam B.T TO T.V.K.Nagar,3,69
+11451,48P,Ayanavaram B.T TO Vallalar Nagar,3,69
+11452,48P,Puthagaram TO Vallalar Nagar,3,69
+12606,70T,Kilambakkam B.T TO M.G.R.Koyambedu,3,69
+12045,55C,Tambaram West TO Venkadamangalam,3,69
+12046,55C,Venkadamangalam TO Tambaram West,3,69
+11456,48K,Ambattur I.E TO Madanakuppam,3,69
+11457,48K,Kallikuppam TO Ambattur I.E,3,69
+11458,48K,Kallikuppam TO Vallalar Nagar,3,69
+11459,48K,Vallalar Nagar TO Kallikuppam,3,69
+11460,48K,Vallalar Nagar TO Madanakuppam,3,69
+10916,114CCt,M.G.R.Koyambedu TO Gnayaru,3,69
+12043,55C,Tambaram West TO Pungeri,3,69
+18309,580,Avadi B.T TO Periyapalayam,3,69
+12044,55C,Tambaram West TO Sonallur,3,69
+17343,154,Saidapet Depot TO Saidapet,3,69
+11470,48BX,Vallalar Nagar TO Pudur,3,69
+17912,580,Puduvoyal TO Avadi B.T,3,69
+11558,50M,Broadway TO Thiruverkadu,3,69
+11562,50M,Thiruverkadu TO Broadway,3,69
+11479,48AEt,Ambattur I.E TO Madhavaram B.T,3,69
+17909,154,Saidapet Depot TO Thyagaraya Nagar,3,69
+18310,153T,M.G.R.Koyambedu TO Thiruvallur,3,69
+10455,102X,Thiruporur TO Broadway,3,69
+10465,102X,M.G.R.Central TO Thiruporur,3,69
+10698,19B,Saidapet TO Siruseri I.T Park,3,69
+18149,153T,Poonamallee B.T TO Thiruvallur,3,69
+15185,2B,Kaviarasu Kannadasan Nagar Bus Stand TO Kannadasan Nagar,3,69
+10699,19B,Siruseri I.T Park TO Saidapet,3,69
+11502,500,Chengalpet TO Tambaram West,3,69
+11503,500,Tambaram West TO Chengalpet,3,69
+11504,500A,Chengalpet TO Hasthinapuram,3,69
+11505,500A,Hasthinapuram TO Chengalpet,3,69
+18311,S55,Ambattur I.E TO Thirumullaivoyal Sidco,3,69
+11596,514Et,Enambakkam TO M.G.R.Koyambedu,3,69
+11597,514Et,M.G.R.Koyambedu TO Enambakkam,3,69
+11598,514Et,M.G.R.Koyambedu TO Periyapalayam,3,69
+18312,557AE,Annamalaichery TO Redhills Bus Terminus,3,69
+8083,557AE,Broadway TO Gummidipoondi Terminal,3,69
+8086,557AE,Gummidipoondi Terminal TO Broadway,3,69
+9720,557AE,Annamalaichery TO Gummidipoondi Terminal,3,69
+18313,66P ct,Poonamallee Bus Terminus to  Iyyapanthangal Depot,3,69
+10083,12X,Foreshore Estate TO Koyambedu Market,3,69
+11514,500E,Echankaranai TO Tambaram West,3,69
+11515,500E,Mahendra City TO Tambaram West,3,69
+11516,500E,Tambaram West TO Echankaranai,3,69
+11423,49K,Foreshore Estate TO Porur,3,69
+11517,500E,Tambaram West TO Mahendra City,3,69
+11428,49K,Porur TO Foreshore Estate,3,69
+14868,49K,Porur TO Mandaveli,3,69
+10119,21G,Broadway TO Cement Road,3,69
+14470,102X,Thiruporur B.S TO Kannagi Nagar B.S,3,69
+14469,102X,Kannagi Nagar B.S TO Broadway,3,69
+11528,500R,Maraimalai Nagar I.E. TO Tambaram West,3,69
+11529,500R,Tambaram West TO Maraimalai Nagar I.E.,3,69
+11520,500Et,Chitlapakkam TO Chengalpet,3,69
+11521,500Et,Chitlapakkam TO Broadway,3,69
+10449,102X,Perumpakkam S.C.B TO Broadway,3,69
+10453,102X,Perumpakkam S.C.B TO Thiruvanmiyur,3,69
+18317,101,Annanagar East TO Thiruvotiyur,3,69
+18316,101,Thiruvotiyur TO Annanagar East,3,69
+16685,114,Redhills TO M.G.R.Koyambedu,3,69
+17919,28B,Egmore R.S TO Thangal Tollgate,3,69
+17920,28B,Thangal Tollgate TO Egmore R.S,3,69
+12734,70F,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+12582,70H,M.G.R.Koyambedu TO Hasthinapuram,3,69
+10460,102X,Thiruvanmiyur TO Thiruporur,3,69
+10463,102X,Thiruporur TO Thiruvanmiyur,3,69
+10145,147A,Anna Nagar West TO J.J.Nagar East,3,69
+11541,505,Redhills TO Thiruvallur,3,69
+10358,15BEt,Broadway TO M.G.R.Koyambedu,3,69
+10359,15BEt,M.G.R.Koyambedu TO Broadway,3,69
+16690,114,Moolakadai TO M.G.R.Koyambedu,3,69
+16691,114,M.G.R.Koyambedu TO Moolakadai,3,69
+11629,515K,Kovalam TO Kilambakkam B.T,3,69
+11630,515M,Kelambakkam TO Kilambakkam B.T,3,69
+11631,515M,Kilambakkam B.T TO Kelambakkam,3,69
+16687,114,Redhills TO Periyapalayam,3,69
+10201,221,M.G.R.Central TO Kelambakkam,3,69
+10206,23C,Ayanavaram B.T TO Perumpakkam S.C.B,3,69
+17921,28B,Egmore R.S TO Thiruvotiyur B.S,3,69
+17922,28B,Thiruvotiyur B.T TO Egmore R.S,3,69
+10198,221,Kelambakkam TO M.G.R.Central,3,69
+10200,221,Kelambakkam TO Saidapet,3,69
+10245,102A,Pudupakkam Rd.Jn TO Thiruvanmiyur,3,69
+10702,105A,Tambaram West TO Karanai,3,69
+11584,512,Madurapakkam TO Kavarapettai,3,69
+10241,24A,M.G.R.Koyambedu TO Vivekananda House,3,69
+10242,24A,Vivekananda House TO Anna Nagar West,3,69
+11638,517K,Kovalam TO Pallavaram,3,69
+11639,517K,Pallavaram TO Kovalam,3,69
+18322,57A,Vallalar Nagar TO Budur Hospital,3,69
+16692,114,M.G.R.Koyambedu TO M.M.B.T,3,69
+16693,114,M.G.R.Koyambedu TO Anna Nagar West,3,69
+18323,57A,Vallalar Nagar TO Budur,3,69
+11883,557,Gummidipoondi TO M.M.B.T,3,69
+10264,153A,K.K.Nagar TO M.G.R.Koyambedu,3,69
+10265,153A,M.G.R.Koyambedu TO K.K.Nagar,3,69
+15824,44Ct,Broadway TO Secretariat,3,69
+11607,515,Mamallapuram TO Tambaram West,3,69
+11680,51B,Velachery B.T TO Karanai,3,69
+10279,153T,Thiruvallur TO M.G.R.Koyambedu,3,69
+16766,111,Tambaram West TO Thiruverkadu,3,69
+16765,111,Thiruverkadu TO K.K.Nagar,3,69
+10322,157E,Ennore TO Redhills,3,69
+10323,157E,Redhills TO Ennore,3,69
+10311,155A,Pazhanthandalam TO Broadway,3,69
+17174,76,M.G.R.Koyambedu TO Cement Road,3,69
+10704,19BEt,Perumpakkam S.C.B TO Saidapet,3,69
+17176,76,Cement Road TO Medavakkam Rd.Jn,3,69
+17177,76,Kilambakkam B.S TO M.G.R.Koyambedu,3,69
+10360,15BEt,M.G.R.Koyambedu TO Odeanmani,3,69
+11615,515A,Tambaram West TO Sulerikadu,3,69
+11618,515A,Tambaram West TO Vadanemili,3,69
+18326,51X CT,Saidapet TO Kilambakkam B.S,3,69
+10349,159E,Ennore TO M.G.R.Koyambedu,3,69
+16772,111,Thiruverkadu Terminus TO Tambaraam West Bus Stand,3,69
+10374,102M,Adyar B.T TO Manamathi,3,69
+10350,159E,M.G.R.Koyambedu TO Ennore,3,69
+18327,101,Annanagar East TO M.G.R.Koyambedu,3,69
+16767,111,Tambaram West TO K.K.Nagar,3,69
+16768,111,K.K.Nagar TO Thiruverkadu,3,69
+11616,51A,Kilambakkam B.T TO Velachery B.T,3,69
+11617,51A,Medavakkam Rd.Jn TO Thyagaraya Nagar,3,69
+17927,580,Puduvoyal TO Periyapalayam,3,69
+17924,70C,K K Nagar TO M.G.R.Koyambedu,3,69
+11620,515A,Vadanemili TO Tambaram West,3,69
+17928,580,Avadi B.T TO Puduvoyal,3,69
+17164,76,Velachery TO M.G.R.Koyambedu,3,69
+17925,70C,M.G.R.Koyambedu TO K K Nagar,3,69
+11627,515K,Kilambakkam B.T TO Kovalam,3,69
+17929,512,Kavarapettai TO Madurapakkam,3,69
+17930,514Et CT,Padiyanallur TO Redhills,3,69
+12817,77T,M.G.R.Koyambedu TO Thirumullaivoyal Colony,3,69
+10705,105A,Tambaram West TO Siruseri I.T Park,3,69
+11683,525,Iyyappanthangal TO Vadapalani,3,69
+11665,51AX,Saidapet Depot TO Thyagaraya Nagar,3,69
+11674,51B,Karanai TO Velachery B.T,3,69
+10438,102X,Broadway TO Thiruporur,3,69
+11681,51AX,Thyagaraya Nagar TO Tambaram West,3,69
+12586,70J,J.J.Nagar West TO Tambaram West,3,69
+11657,51A,Velachery B.T TO Kilambakkam B.T,3,69
+10494,188C,Broadway TO Kundrathur B.T,3,69
+10706,19BEt,Saidapet TO Kelambakkam,3,69
+17946,570,M.G.R.Koyambedu TO Siruseri I.T Park,3,69
+10479,17E,Broadway TO Saligramam,3,69
+17953,101,Thiruvottiyur TO Tollgate,3,69
+10481,17E,Saligramam TO Vadapalani,3,69
+17948,523,Mullipakkam TO Thiruporur,3,69
+17952,523,Thiruporur TO Mullipakkam,3,69
+10482,17E,Secretariat TO Saligramam,3,69
+10484,17K,Broadway TO Dasarathapuram,3,69
+17951,523A,Thiruporur TO Devi Karumariamman Temple,3,69
+17949,70F,Madhavaram B.T TO Madhavaram,3,69
+17950,77V,Ambattur I.E TO Veppampattu E.Waran Nagar,3,69
+10496,26M,Broadway TO Mugalivakkam,3,69
+11886,557,Gummidipoondi TO Redhills,3,69
+11888,557,M.M.B.T TO Gummidipoondi,3,69
+12587,70J,Tambaram West TO J.J.Nagar West,3,69
+12588,70K,Avadi B.T TO Kilambakkam B.T,3,69
+12589,70K,Kilambakkam B.T TO Avadi B.T,3,69
+11371,45B,Anna Square TO Mugalivakkam Mm Temple,3,69
+11707,52G,Cowl Bazaar TO Koyambedu Market,3,69
+11372,45B,Broadway TO Cement Road,3,69
+13050,C56CEt,Thiruvotriyur B.T TO Air Nagar,3,69
+17945,570,M.G.R.Koyambedu TO Kelambakkam,3,69
+17964,570,Adyar Depot TO M.G.R.Koyambedu,3,69
+11388,45BEt,Anna Square TO Cement Road,3,69
+10357,159K,Thiruvotriyur B.T TO Kargil Nagar,3,69
+11390,45BEt,Anna Square TO Guindy Tvk Estate,3,69
+10355,159K,M.G.R.Koyambedu TO Kargil Nagar,3,69
+10356,159K,Kargil Nagar TO Thiruvotriyur B.T,3,69
+12948,C56C,Secretariat TO Thiruvotriyur B.T,3,69
+12932,88K,Broadway TO Kundrathur B.T,3,69
+11384,45B,Vivekananda House TO Guindy Tvk Estate,3,69
+11385,45B,Vivekananda House TO Mugalivakkam Mm Temple,3,69
+11391,45BEt,Anna Square TO Mugalivakkam,3,69
+12591,70K,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+13028,A1,Thiruvalluvar Nagar TO M.G.R.Central,3,69
+17981,99A CT,Sholinganallur TO Perumbakkam College,3,69
+17994,71D CT,Avadi Bus Terminus TO Broadway,3,69
+13029,99C,Tambaram West TO Semmancheri S.C.B,3,69
+16723,113,Redhills TO Guindy Tvk Estate,3,69
+16726,113,M.G.R.Koyambedu TO Redhills,3,69
+17995,M70 CT,Thiruvanmiyur TO K.K.Nagar B.T,3,69
+14871,49K,Mandaveli TO Porur,3,69
+11405,46Et,Periyar Nagar TO Otteri,3,69
+11402,46Et,M.G.R.Koyambedu TO Periyar Nagar,3,69
+11403,46Et,Otteri TO Periyar Nagar,3,69
+17998,S1 CT1,Thirisulam Sakhi Nagar TO Chromepet-I,3,69
+17999,S18D CT,Narikuravar Colony TO Saidapet Gurukulam,3,69
+17972,57F,Broadway TO Mel Surapattu,3,69
+11722,52K,Nanganallur TO Broadway,3,69
+11726,52K,Saidapet TO Nanganallur,3,69
+11621,515B,M.G.R.Koyambedu TO Tambaram West,3,69
+15200,104C,Kilambakkam B.T TO M.G.R.Koyambedu,3,69
+11734,523A,Devi Karumariamman Temple TO Thiruvanmiyur,3,69
+11622,515B,Tambaram West TO M.G.R.Koyambedu,3,69
+13001,A45B,Anna Square TO Cement Road,3,69
+11624,515B,Tambaram West TO Thiruporur,3,69
+16727,113,Guindy Tvk Estate TO Redhills,3,69
+11625,515B,Thiruporur TO Tambaram West,3,69
+11654,51J,Broadway TO Mambakkam Kootroad,3,69
+11659,51J,Saidapet TO Mambakkam Kootroad,3,69
+11658,51J,Mambakkam Kootroad TO Saidapet,3,69
+18005,S30K,Thyagaraya Nagar TO Kotturpuram R.S,3,69
+18000,S18D CT,Saidapet Gurukulam TO Narikuravar Colony,3,69
+18001,S30Ct,Guindy G.H TO Guindy Tvk Estate,3,69
+18002,S30K,Guindy Tvk Estate TO Kotturpuram R.S,3,69
+11754,53E,Broadway TO Kundrathur B.T,3,69
+18003,S30K,Kotturpuram R.S TO Guindy Tvk Estate,3,69
+18004,S30K,Kotturpuram R.S TO Thyagaraya Nagar,3,69
+11426,49K,Mandaveli TO Iyyappanthangal,3,69
+11757,53E,Kundrathur B.T TO Broadway,3,69
+18007,S35,Defence Colony TO K.K.Nagar,3,69
+17982,99X,Kilambakkam B.T TO Sholinganallur,3,69
+17973,57F,Mel Surapattu TO Vallalar Nagar,3,69
+12594,70LCt,Korattur TO Ambattur I.E,3,69
+12595,70LCt,Korattur TO Guindy Tvk Estate,3,69
+17983,583A,Kottaiyur TO Poonamallee B.T,3,69
+18010,54B CT1,Porur TO Thyagaraya Nagar B.S,3,69
+11446,47D,Ambattur I.E TO Avadi B.T,3,69
+18008,54B CT,Iyyappanthangal B.S TO Thyagaraya Nagar B.S,3,69
+18009,54B CT,Thyagaraya Nagar B.S TO Iyyappanthangal,3,69
+11635,515T,Kilambakkam B.T TO Thiruporur,3,69
+11636,515T,Thiruporur TO Kilambakkam B.T,3,69
+18011,S55W,Tambaram West TO Tambaram,3,69
+18013,54B CT1,Thyagaraya Nagar  B.S TO Porur,3,69
+18014,121M CT,Moolakadai TO Kaviarasu Kannadasan Nagar,3,69
+18015,S75 CT1,Padi Lucas T.V.S TO Ambattur I.E,3,69
+17974,57F,Redhills TO Mel Surapattu,3,69
+17984,583A,Kottaiyur TO Sriperumbudur,3,69
+12822,77V,M.G.R.Koyambedu TO Ambattur I.E,3,69
+17975,63,Thiruverkadu TO Icf,3,69
+11831,555P,Padappai TO Sholinganallur,3,69
+11832,555P,Sholinganallur TO Padappai,3,69
+11833,555P,Sholinganallur TO Tambaram West,3,69
+11834,555P,Tambaram West TO Sholinganallur,3,69
+11484,48A,Koyambedu Market TO Madhavaram B.T,3,69
+15116,21G,Cement Road TO Kilambakkam B.T,3,69
+18330,101,Annanagar East TO Poonamallee,3,69
+11864,54VCt,Veppampattu R.S TO Iyyappanthangal,3,69
+11868,552K,Keelkattalai TO Kelambakkam,3,69
+11869,552K,Keelkattalai TO Thiruporur,3,69
+11871,552K,Thiruporur TO Keelkattalai,3,69
+8069,21G,Tambaram West TO Broadway,3,69
+17976,95X,Tambaram West TO Kilambakkam Bus,3,69
+17985,583A,Poonamallee B.T TO Kottaiyur,3,69
+11922,55V,Kilambakkam B.T TO Tambaram West,3,69
+11942,566B,Iyyappanthangal TO Tambaram West,3,69
+11946,566B,Kovalam TO Tambaram West,3,69
+11947,566B,Pattur TO Kovalam,3,69
+11925,55X,Padappai TO Tambaram West,3,69
+11542,505,Thamaraipakkam TO Redhills,3,69
+11927,55X,Tambaram West TO Padappai,3,69
+11910,55G,Oonamancheri TO Tambaram West,3,69
+17978,580M,Avadi B.T TO Malanthur,3,69
+11911,55G,Tambaram West TO Oonamancheri,3,69
+12596,70M,Kilambakkam B.T TO M.G.R.Koyambedu,3,69
+11664,51D,Tambaram West TO Saidapet,3,69
+15125,21G,Mandaveli TO Kilambakkam B.S,3,69
+17977,7M,Anna Nagar West TO J.J.Nagar West,3,69
+11981,56C,Jothinagar TO Broadway,3,69
+17987,583A,Sriperumbudur TO Kottaiyur,3,69
+18020,153,Anna Nagar Roundtana TO M.G.R.Koyambedu,3,69
+11948,557M,Padiyanallur TO Redhills,3,69
+11950,557M,Redhills TO Gummidipoondi,3,69
+18019,S74,Cement Road TO Keelkattalai,3,69
+11975,56C,Broadway TO Thiruvotriyur B.T,3,69
+11982,56C,Thiruvotriyur B.T TO Broadway,3,69
+12936,88K,Kundrathur B.T TO Broadway,3,69
+11958,568B,Thiruporur TO Velachery B.T,3,69
+11959,568B,Velachery B.T TO Thiruporur,3,69
+17980,99A CT,Perumbakkam College TO Tambaram West,3,69
+12597,70M,Kilambakkam B.T TO M.M.B.T,3,69
+12598,70M,Kilambakkam B.T TO Moolakadai,3,69
+17990,E51,Saidapet TO Ottiyampakkam,3,69
+17991,E51,Saidapet TO Acharavakkam,3,69
+17989,60 CT,Chromepet TO Anakaputhur,3,69
+17992,E51,Acharavakkam TO Velachery B.T,3,69
+12903,7K,Broadway TO Padikuppam,3,69
+13030,A1,Palavakkam TO M.G.R.Central,3,69
+12920,88C,Iyyappanthangal TO Thandalam Village,3,69
+13003,A45B,Anna Square TO Guindy Tvk Estate,3,69
+18022,S80,Chromepet-I TO Thendral Nagar,3,69
+18025,1C CT,Thiruvanmiyur Bus TO Ennore Bus,3,69
+11994,99C,Semmancheri TO Chromepet,3,69
+18023,S64,Azeezee Nagar TO Perambur B.T,3,69
+15115,21G,Broadway TO Tambaram West,3,69
+18024,21G,Tambaram West B.S TO Mylapore,3,69
+11661,51D,Broadway TO Tambaram West,3,69
+11663,51D,Saidapet TO Tambaram West,3,69
+11641,51T,Madurapakkam TO Tambaram West,3,69
+11642,51T,Madurapakkam TO Thyagaraya Nagar,3,69
+11643,51T,Tambaram West TO Madurapakkam,3,69
+11645,51T,Thyagaraya Nagar TO Madurapakkam,3,69
+16330,21G,Mandaveli Bus Terminus TO Broadway,3,69
+11687,51X,Kilambakkam B.T TO Medavakkam Rd.Jn,3,69
+12599,70M,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+18026,5E,Besant Nagar TO Vadapalani,3,69
+18028,555S CT,Kilambakkam B.T TO Siruseri I.T Park,3,69
+16248,T23C,Egmore TO Thiruvanmiyur,3,69
+18031,555S,Kilambakkam B.T TO Sholinganallur,3,69
+13018,A1,Broadway TO M.G.R.Koyambedu,3,69
+18030,555S CT,Siruseri I.T Park TO Kilambakkam B.T,3,69
+16249,T23C,Ayanavaram TO Thiruvanmiyur,3,69
+12600,70M,M.M.B.T TO Kilambakkam B.T,3,69
+13027,99C,Semmancheri S.C.B TO Tambaram West,3,69
+13037,99X,Sholinganallur TO Kilambakkam B.T,3,69
+11005,114Et,M.G.R.Koyambedu TO Mahindra Ind.Park,3,69
+11006,114Et,M.G.R.Koyambedu TO Redhills,3,69
+10968,114Et,Anna Nagar West TO M.G.R.Koyambedu,3,69
+11007,114Et,Mahindra Ind.Park TO M.G.R.Koyambedu,3,69
+12057,56T,Athipettu R.S TO Thangal Tollgate,3,69
+12590,70K,Kilambakkam B.T TO M.G.R.Koyambedu,3,69
+12601,70M,Moolakadai TO Kilambakkam B.T,3,69
+18033,S80,Thendral Nagar TO Chromepet-I,3,69
+18034,157 CT,Tondiarpet TO Redhills Bus Terminus,3,69
+12866,89A,Porur TO Somangalam,3,69
+16259,505K,Thiruvallur TO Redhills,3,69
+12060,56T,Broadway TO Athipettu R.S,3,69
+12061,56T,Thangal Tollgate TO Athipettu R.S,3,69
+18035,1C CT,Ennore TO Tondiarpet,3,69
+12740,70F,Madhavaram B.T TO Kilambakkam B.T,3,69
+12825,77V,Veppampattu E.Waran Nagar TO M.G.R.Koyambedu,3,69
+12826,77V,M.G.R.Koyambedu TO Veppampattu E.Waran Nagar,3,69
+13066,J51,Tambaram West TO Velachery B.T,3,69
+13058,J66,Poonamallee B.T TO Tambaram West,3,69
+13004,A45B,Anna Square TO Nandambakkam,3,69
+13012,A45B,Vivekananda House TO Cement Road,3,69
+11714,52H,Hasthinapuram TO Pozhichalur,3,69
+18334,70C CT,M.G.R.Koyambedu TO Vadapalani Bus Stand,3,69
+12884,89TCt,Kundrathur Depot TO Somangalam,3,69
+18333,51X CT1,Tambaram West B.S TO Velachery,3,69
+12921,88C,Kundrathur B.T TO Broadway,3,69
+18335,70C CT,Vadapalani Bus Stand TO M.G.R.Koyambedu,3,69
+10003,505K,Thiruvallur Terminal TO Avadi Bus Terminus,3,69
+11548,505K,Avadi B.T TO Redhills,3,69
+11549,505K,Redhills TO Thamaraipakkam Rd.Jn,3,69
+13044,C56CEt,Air Nagar TO Broadway,3,69
+10970,114Et,M.G.R.Koyambedu TO Anna Nagar West,3,69
+11550,505K,Redhills TO Thiruvallur,3,69
+18336,12B CT,Saligramam Bus TO Foreshore Estate,3,69
+15197,104C,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+11727,523,Sholinganallur TO Perunthandalam,3,69
+18337,1C CT,Thiruvanmiyur Bus TO Ennore Bus Depot,3,69
+18039,91,Kilambakkam TO Thiruvanmiyur,3,69
+12107,570V,Vadapalani TO Adyar B.T,3,69
+12108,570V,Vadapalani TO Kelambakkam,3,69
+11551,505K,Thamaraipakkam Rd.Jn TO Redhills,3,69
+18042,91,Tambaram West TO Kilambakkam,3,69
+18338,66P ct2,Iyyappanthangal Bus Depot to  Poonamallee Bus Terminus,3,69
+18339,51X CT1,Velachery TO Tambaram West B.S,3,69
+12603,70N,M.G.R.Koyambedu TO Nanganallur,3,69
+12116,572K,Ambattur I.E TO Thiruvallur,3,69
+12827,77VEt,Ambattur I.E TO Koyambakkam,3,69
+18043,91,Kilambakkam TO Tambaram West,3,69
+12118,572K,Avadi B.T TO Thiruvallur,3,69
+18044,18A,M.G.R.Koyambedu to Kilambakkam,3,69
+18340,1C CT1,Ennore Bus Depot TO Thiruvanmiyur Bus Stand,3,69
+16319,T23C,Ayanavaram TO Saidapet,3,69
+12131,57M,Broadway TO Alamathi,3,69
+12133,57M,Redhills TO Alamathi,3,69
+18342,78 CT,M.G.R.Koyambedu TO Besant Nagar Terminus,3,69
+12749,70G,Vadapalani B.T TO Guduvanchery,3,69
+12604,70N,Nanganallur TO Cement Road,3,69
+12605,70N,Nanganallur TO M.G.R.Koyambedu,3,69
+12158,580,Avadi B.T TO Arani,3,69
+18343,78 CT,Thirumangalam TO Thiruvanmiyur Bus Stand,3,69
+18341,78 CT,Thiruvanmiyur Bus Stand TO Thirumangalam,3,69
+12922,88C,Thandalam Village TO Broadway,3,69
+12888,8B,Ayanavaram B.T TO T.V.K.Nagar,3,69
+12140,578A,Kundrathur B.T TO Sriperumbudur,3,69
+12141,578A,Sriperumbudur TO Kundrathur B.T,3,69
+11889,557,Moolakadai TO Redhills,3,69
+11890,557,Redhills TO Gummidipoondi,3,69
+11892,557,Redhills TO Moolakadai,3,69
+12828,77VEt,Koyambakkam TO Ambattur I.E,3,69
+18344,24AX,Teachers Colony TO Vivekananda House,3,69
+18345,24AX,Vivekananda House TO Teachers Colony,3,69
+18346,78 CT1,Raj Bhavan Quarters TO M.G.R.Koyambedu,3,69
+13039,A1,Thiruvanmiyur TO M.G.R.Central,3,69
+18347,78 CT2,Thirumangalam TO Raj Bhavan Quarters,3,69
+13013,A45B,Vivekananda House TO Guindy Tvk Estate,3,69
+13059,D70,Ambattur I.E TO Guindy Tvk Estate,3,69
+8134,114D,Redhills Market TO M.G.R.Koyambedu,3,69
+12994,A51,Tambaram West TO Velachery B.T,3,69
+18051,18A,Kilambakkam to M.G.R.Koyambedu,3,69
+18348,102X CT,Thiruporur TO Adyar,3,69
+9023,M51VC,Kolathur TO Saidapet,3,69
+9025,M51VC,Saidapet TO Kolathur,3,69
+9022,M51VC,Saidapet TO Chithalapakkam Tnhb,3,69
+12185,57CCt,Gnayaru TO Redhills,3,69
+12186,57CCt,Redhills TO Gnayaru,3,69
+18352,70V CT,Cemetery Road TO M.G.R.Koyambedu,3,69
+9929,114D,M.G.R.Koyambedu TO Redhills,3,69
+10926,114D,M.G.R.Koyambedu TO Arani,3,69
+12166,579C,Oragadam TO Tambaram Sanatorium,3,69
+18062,147C CT1,Ambattur O.T TO Ambattur I.E,3,69
+12171,579C,Walajabad TO Tambaram Sanatorium,3,69
+18351,70V CT,Kilambakkam Bus TO Cemetery Road,3,69
+18354,70J CT,Ambattur I.E TO J.J.Nagar West,3,69
+18355,71D CT,Broadway TO Avadi Bus Terminus,3,69
+18356,71D CT1,Broadway TO Thiruninravur Bus Stand,3,69
+14827,18A,Vyasarpadi TO Vallalar Nagar,3,69
+14831,18A,Vallalar Nagar TO Vyasarpadi,3,69
+18055,18A,Broadway to M.K.B.Nagar,3,69
+18057,18A,M.K.B.Nagar TO Kilambakkam Bus Terminus,3,69
+18357,71D CT1,Thiruninravur Bus Stand TO Broadway,3,69
+12109,572,Avadi B.T TO Thiruvallur,3,69
+12829,77VEt,Koyambakkam TO M.G.R.Koyambedu,3,69
+12830,77VEt,M.G.R.Koyambedu TO Koyambakkam,3,69
+18358,66P CT,Pallavaram TO Kilambakkam Bus Terminus,3,69
+18359,66P ct,Kilambakkam TO Airport,3,69
+18360,66P CT,Kilambakkam Bus Terminus TO Pallavaram,3,69
+13060,J66,Tambaram West TO Poonamallee B.T,3,69
+13024,A1,M.G.R.Koyambedu TO Broadway,3,69
+11932,557C,Kallur TO Gummidipoondi,3,69
+11934,557C,Kallur TO Redhills,3,69
+11936,557C,Padiyanallur TO Redhills,3,69
+11938,557C,Redhills TO Kallur,3,69
+18058,18A,Kilambakkam Bus Terminus TO M.K.B.Nagar,3,69
+12923,88C,Thandalam Village TO Iyyappanthangal,3,69
+12889,8B,Broadway TO T.V.K.Nagar,3,69
+12985,A51,Broadway TO Tambaram West,3,69
+12110,572,Thiruvallur TO Avadi B.T,3,69
+15218,56ACt,Thangal Tollgate TO Ennore,3,69
+18361,66P CT1,Iyyappanthangal B.S TO Kilambakkam B.S,3,69
+18362,66P CT1,Kilambakkam B.S TO Iyyappanthangal B.S,3,69
+18363,66P ct1,Airport TO Kilambakkam,3,69
+15219,56ACt,Tondiarpet TO Ennore,3,69
+18364,583K CT,Kelambakkam Bus Terminal TO Kilambakkam Bus Terminus,3,69
+12265,54P,Thyagaraya Nagar TO Mangadu,3,69
+12270,5B,Thyagaraya Nagar TO Mylapore Tank,3,69
+12753,76B,M.G.R.Koyambedu TO Ottiyampakkam,3,69
+12273,5C,Adyar B.T TO Broadway,3,69
+18365,583K CT,Kilambakkam Bus Terminus TO Kelambakkam Bus Terminal,3,69
+12890,8B,T.V.K.Nagar TO Ayanavaram B.T,3,69
+12266,54P,Mangadu TO Thyagaraya Nagar,3,69
+11963,558A,Redhills TO Minjur,3,69
+12907,7M,Broadway TO J.J.Nagar West,3,69
+12924,88CEt,Iyyappanthangal TO Thyagaraya Nagar,3,69
+18366,64C CT,Manali Bus Terminus TO Azeezee Nagar,3,69
+11962,56A,Ennore TO Vallalar Nagar,3,69
+11964,56A,Vallalar Nagar TO Ennore,3,69
+18367,M51DCT,Pudupakkam TO Saidapet BS,3,69
+18368,MAA2 CT2,Akkarai TO Adyar,3,69
+13061,J51,N.G.O.Colony TO Venkadamangalam,3,69
+13034,99X,Kilambakkam B.T TO Adyar B.T,3,69
+13026,A1,Thiruvanmiyur TO Broadway,3,69
+18369,597 CT,Iyappanthangal TO Thiruvallur,3,69
+18372,SM1CT,Cement Road TO Keelkattalai,3,69
+12996,A51,Velachery B.T TO Tambaram West,3,69
+18370,54T,Chembarambakkam TO Thyagaraya Nagar,3,69
+18371,54T,Thyagaraya Nagar TO Chembarambakkam,3,69
+18374,SM1CT,Keelkattalai TO Cement Road,3,69
+12300,5G,Thyagaraya Nagar TO Kannagi Nagar S.C.B,3,69
+13035,A1,M.G.R.Central TO Thiruvanmiyur,3,69
+11822,555N,Guduvanchery TO Thiruporur,3,69
+18375,M51DCT,Saidapet TO Pudupakkam,3,69
+11824,555N,Tambaram West TO Thiruporur,3,69
+11826,555N,Thiruporur TO Guduvanchery,3,69
+11830,555N,Thiruporur TO Tambaram West,3,69
+13042,9MEt,Broadway TO N.G.O.Colony,3,69
+18382,55N,Keerappakkam To  Tambaram West,3,69
+18069,147C CT1,Ambattur I.E TO Ambattur O.T,3,69
+18379,72,Thiyagarayanagar Terminus TO Thiruverkadu,3,69
+12910,7M,J.J.Nagar West TO Anna Nagar West,3,69
+18377,72 CT,Thiyagarayanagar Terminus TO M.G.R.Koyambedu,3,69
+18074,8B,T.V.K.Nagar TO Broadway,3,69
+18378,72 CT1,M.G.R.Koyambedu TO Thiyagarayanagar,3,69
+18384,M51DCt,Saidapet Bridge TO Pudupakkam,3,69
+18385,S13,Adambakkam TO Velachery B.T,3,69
+15714,41D,Mandaveli TO Ambattur O.T,3,69
+11365,41D,Ambattur I.E TO Ambattur O.T,3,69
+18387,M51DCt,Pudupakkam TO Saidapet,3,69
+11819,555M,Thiruporur TO Tambaram West,3,69
+11813,555M,Nehru Nagar TO Tambaram West,3,69
+18386,S13,Velachery B.T TO Adambakkam,3,69
+18388,21G CT,Kilambakkam TO Cement Road,3,69
+11815,555M,Tambaram West TO Nehru Nagar,3,69
+11817,555M,Tambaram West TO Thiruporur,3,69
+18389,18S,Kilambakkam B.S TO Ngo Colony,3,69
+13069,D70,Velachery B.T TO N.G.O.Colony,3,69
+18391,18D CT,Madipakkam B.T TO N.G.O.Colony,3,69
+18392,18D CT,N.G.O.Colony TO Madipakkam B.T,3,69
+18393,45A CT,N.G.O.Colony TO Vivekananda House,3,69
+13070,J51,Velachery B.T TO Venkadamangalam,3,69
+18390,18S,Ngo Colony TO Kilambakkam B.S,3,69
+13084,F70,Guindy Tvk Estate TO Pattabiram,3,69
+13085,F70,Pattabiram TO Guindy Tvk Estate,3,69
+18394,51M CT,Thyagaraya Nagar TO N.G.O.Colony,3,69
+18395,9M CT,N.G.O.Colony TO Thyagaraya Nagar,3,69
+18396,9M CT,Thyagaraya Nagar TO N.G.O.Colony,3,69
+18397,S18D CT1,N.G.O.Colony TO Keelkattalai,3,69
+18398,S18D,Keelkattalai TO N.G.O.Colony,3,69
+13094,D70Ct,Ambattur I.E TO Velachery B.T,3,69
+13095,D70Ct,Anna Nagar West TO Ambattur I.E,3,69
+13097,D70Ct,Velachery B.T TO Ambattur I.E,3,69
+18399,597 CT,Thiruvallur TO Iyappanthangal,3,69
+13099,D70Ct,Velachery B.T TO Anna Nagar West,3,69
+13101,D70Ct,Velachery B.T TO Elango Nagar Off.Colony,3,69
+12200,57H,Broadway TO New Erumaivetti Palayam,3,69
+12201,57H,Broadway TO Redhills,3,69
+12202,57H,Koyambedu Market TO Redhills,3,69
+12203,57H,New Erumaivetti Palayam TO Broadway,3,69
+12204,57H,New Erumaivetti Palayam TO Koyambedu Market,3,69
+12205,57H,New Erumaivetti Palayam TO Redhills,3,69
+12207,57H,New Erumaivetti Palayam TO Vallalar Nagar,3,69
+12208,57H,Padiyanallur TO Redhills,3,69
+12209,57H,Redhills TO New Erumaivetti Palayam,3,69
+12210,57H,Redhills TO Padiyanallur,3,69
+15826,70C,Tambaram Railway Station TO Vadapalani Bus Stand,3,69
+15827,142B,Broadway TO Perambur Bus Terminus,3,69
+15759,9MEt,A.G.S.Officer'S Colony TO Broadway,3,69
+11587,514,Anna Nagar West TO M.G.R.Koyambedu,3,69
+12211,57H,Vallalar Nagar TO New Erumaivetti Palayam,3,69
+11588,514,M.G.R.Koyambedu TO Anna Nagar West,3,69
+11589,514,M.G.R.Koyambedu TO Periyapalayam,3,69
+11590,514,Periyapalayam TO Redhills,3,69
+11594,514,Redhills TO Padiyanallur,3,69
+11595,514,Redhills TO Periyapalayam,3,69
+13134,M18N,Cement Road TO Nanganallur,3,69
+13136,M18N,Guduvanchery TO Nanganallur,3,69
+13138,M18N,Guindy Tvk Estate TO Kilambakkam B.T,3,69
+13141,M18N,Kilambakkam B.T TO Guindy Tvk Estate,3,69
+13142,M18N,Kilambakkam B.T TO Nanganallur,3,69
+13145,M18N,Nanganallur TO Cement Road,3,69
+13147,M18N,Nanganallur TO Guduvanchery,3,69
+12194,57E,Redhills TO Vichoor,3,69
+12195,57E,Vichoor TO Redhills,3,69
+18402,42B CT,Perambur B.T TO Poompuhar,3,69
+18403,42B CT,Poompuhar TO Perambur B.T,3,69
+18405,42B,Broadway TO Poompuhar,3,69
+13152,M19B,Adyar B.T TO Kannagi Nagar S.C.B,3,69
+15428,46G,M.K.B.Nagar TO Vyasarpadi (Depot),3,69
+12162,579A,Walajabad TO Tambaram Sanatorium,3,69
+18406,66P CT2,Kilambakkam B.S TO Sriperumbudur,3,69
+13154,M19B,Adyar B.T TO Thyagaraya Nagar,3,69
+13156,M19B,Kannagi Nagar S.C.B TO Adyar B.T,3,69
+13064,D70,Guindy Tvk Estate TO Velachery B.T,3,69
+13163,M1A,Cement Road TO Keelkattalai,3,69
+13164,M1A,Keelkattalai TO Cement Road,3,69
+13166,M1A,Nanganallur TO Thiruvanmiyur,3,69
+18407,66P CT5,Sriperumbudur B.S TO Poonamallee B.S,3,69
+18404,42B CT1,Poompuhar TO Otteri,3,69
+18408,72 CT5,Vadapalani TO M.G.R.Koyambedu,3,69
+18409,55P,Tambaram TO Mannivakkam,3,69
+13194,M51D,Kelambakkam TO Saidapet,3,69
+13196,M51D,Saidapet TO Kelambakkam,3,69
+13176,M27,Thyagaraya Nagar TO Vadapalani,3,69
+13178,M27,Vadapalani TO M.G.R.Koyambedu,3,69
+13180,M27,Vadapalani TO Thyagaraya Nagar,3,69
+13186,M51,Cement Road TO Prathyangira Devi Temple,3,69
+18411,95XCT,Kilambakkam TO Tambaram,3,69
+18412,70C CT1,Kilambakkam TO Tambaram,3,69
+13188,M51,Prathyangira Devi Temple TO Cement Road,3,69
+13189,M51,Prathyangira Devi Temple TO Thyagaraya Nagar,3,69
+13192,M51,Thyagaraya Nagar TO Prathyangira Devi Temple,3,69
+17159,62,Poonamallee Terminus TO Tambaram West Bus Stand,3,69
+17151,62,Ambattur I.E TO Poonamallee B.T,3,69
+18410,55P,Mannivakkam TO Tambaram,3,69
+18413,70C CT1,Tambaram TO Kilambakkam,3,69
+18414,MAA2,Adyar Depot TO Airport,3,69
+18415,56DET,Tondairpet-1 Depot TO Broadway,3,69
+18076,62,Poonamallee B.T TO Redhills,3,69
+13183,M88,Vadapalani TO Amarambedu East,3,69
+15229,18A,Tondiarpet TO Kilambakkam B.S,3,69
+18417,77,M.G.R.Koyambedu TO Avadi B.T,3,69
+18418,48B,Pudur TO Vallalar Nagar,3,69
+17154,62,Avadi Bus Terminus TO Kilambakkam Junction,3,69
+13251,S11,Guindy R.S TO Keelkattalai,3,69
+13237,S15,Thiruvanmiyur R.S TO Madhyakailash,3,69
+12245,95X,Thiruvanmiyur TO Tambaram West,3,69
+13252,S166,Iyyappanthangal TO Manimedu(Akashnagar),3,69
+9786,57X,Vyasarpadi (Depot) TO M.K.B.Nagar,3,69
+18421,71E,Thirunindravoor TO Broadway,3,69
+18423,6DET,Foreshore TO Sathuma Nagar,3,69
+18424,6DET,Sathuma Nagar TO Foreshore,3,69
+18425,6DEt,Sathuma Nagar TO Thiruvanmiyur,3,69
+18426,6DEt,Thiruvanmiyur TO Sathuma Nagar,3,69
+18428,56P CT,Broadway TO Minjur N.T,3,69
+18429,109A CT,Thiruvidhanthai TO Adyar B.S,3,69
+14865,M88,Vadapalani TO Kundrathur B.T,3,69
+13256,S166,Manimedu(Akashnagar) TO Porur,3,69
+13259,S166,Porur TO Manimedu(Akashnagar),3,69
+13271,S145,Ayanavaram B.T TO M.G.R.Koyambedu,3,69
+15234,15F,M.G.R.Koyambedu TO Broadway,3,69
+18077,121MEt CT,Manali TO Moolakadai,3,69
+18078,6D CT,Tollgate TO Tondairpet TO 1 Depot,3,69
+13284,S22,Iyyappanthangal TO Kumananchavadi,3,69
+13285,S22,Kumananchavadi TO Iyyappanthangal,3,69
+13295,S25,Iyyappanthangal TO Valasaravakkam,3,69
+13293,S18D,Keelkattalai TO Saidapet,3,69
+13290,s24,Iyyappanthangal TO Thiruverkadu,3,69
+13309,S19,Keelkattalai TO Chromepet,3,69
+13297,S18D,Saidapet TO Keelkattalai,3,69
+15238,155A,Nehru Nagar TO Pazhanthandalam,3,69
+15236,15F,Vadapalani Bus Stand TO Kilambakkam Bus Terminus,3,69
+15237,15F,Vadapalani TO Kilambakkam Bus Terminus,3,69
+12271,580A,Avadi B.T TO M.G.R.Koyambedu,3,69
+12272,580A,Avadi B.T TO Mel Sembedu,3,69
+12274,580A,M.G.R.Koyambedu TO Avadi B.T,3,69
+12276,580A,Mel Sembedu TO Avadi B.T,3,69
+15929,57B,Upparapalayam TO Redhills,3,69
+13330,S30,Ashok Pillar TO Saidapet,3,69
+13331,S30,Saidapet TO Ashok Pillar,3,69
+13311,S26,Ashok Nagar Metro R.S TO Valasaravakkam,3,69
+13175,M88,Kundrathur B.T TO Iyyappanthangal,3,69
+13312,S26,Ashok Pillar TO Valasaravakkam,3,69
+8728,M88,Kundrathur TO Vadapalani,3,69
+13314,S26,K.K.Nagar TO Valasaravakkam,3,69
+12181,57B,Pothur TO Redhills,3,69
+12182,57B,Redhills TO Pothur,3,69
+13177,M88,Iyyappanthangal TO Vadapalani,3,69
+13179,M88,Vadapalani TO Iyyappanthangal,3,69
+13181,M88,Vadapalani TO Kundrathur Murugan Temple,3,69
+12184,57B,Redhills TO Upparapalayam,3,69
+18431,121G CT,Moolakadai Market TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+16376,SM1Ct,Keelkattalai TO Velachery B.T,3,69
+13381,S40,Indira Nagar TO Nehru Nagar,3,69
+13382,S40,Indira Nagar TO Pallavaram,3,69
+15241,155A,Pazhanthandalam TO Nehru Nagar,3,69
+13363,S31,M.G.R.Koyambedu TO Vadapalani,3,69
+13364,S31,Vadapalani TO M.G.R.Koyambedu,3,69
+13374,S36,Thyagaraya Nagar TO Nungambakkam R.S,3,69
+18432,121G CT,M.G.R.Koyambedu TO Moolakadai Market,3,69
+15829,42B,Periyar Nagar TO Agaram,3,69
+18433,120G CT,M.G.R.Koyambedu TO Ambattur I.E,3,69
+15832,188K,Thiyagarayanagar Terminus TO Iyappanthangal,3,69
+13396,S52,Avadi B.T TO Thiruverkadu,3,69
+13399,S43,Ayanavaram B.T TO Villivakkam,3,69
+13398,S52,Thiruverkadu TO Avadi B.T,3,69
+13384,S40,Nehru Nagar TO Indira Nagar,3,69
+13385,S40,Pallavaram TO Indira Nagar,3,69
+13401,S43,Villivakkam TO Ayanavaram B.T,3,69
+13404,S43,Villivakkam TO Pudur,3,69
+13554,33L,M.K.B.Nagar TO Kodungaiyur Parvathi Nagar,3,69
+13557,33L,Kodungaiyur Parvathi Nagar TO M.K.B.Nagar,3,69
+17146,62,Moolakadai TO Poonamallee B.T,3,69
+17149,62,M.K.B.Nagar TO Redhills,3,69
+18434,102K,Kannagi Nagar To  M.G.R.Central,3,69
+17167,62,Avadi TO Redhills,3,69
+17152,62,Kilambakkam Junction TO Avadi Bus Terminus,3,69
+15835,24A,L.F.C TO Anna Nagar West,3,69
+17161,62,M.K.B.Nagar TO Vyasarpadi (Depot),3,69
+13560,37E,Iyyappanthangal TO K.Kannadasan Nagar,3,69
+15833,66K,Kilambakkam Bus Terminus TO Nehru Nagar,3,69
+13561,37E,K.Kannadasan Nagar TO Iyyappanthangal,3,69
+15764,505,Thiruvallur TO Redhills,3,69
+17165,62,Vyasarpadi (Depot) TO M.K.B.Nagar,3,69
+16256,579K,Tambaram New B.S TO Walajabad Bus Stand,3,69
+12173,579K,Kilambakkam B.T TO Tambaram West,3,69
+12175,579K,Tambaram West TO Kilambakkam B.T,3,69
+12176,579K,Walajabad TO Kilambakkam B.T,3,69
+18437,102K,M.G.R.Central To  Kannagi Nagar,3,69
+15767,558C,Redhills TO Pudhucherymedu,3,69
+18082,65A CT,Poonamallee TO Muthapudupet,3,69
+18083,65A CT1,Thiyagarayanagar TO Muthapudupet,3,69
+18079,S15,Thiruvanmiyur Depot TO Madhya Kailash,3,69
+18080,S15,Madhya Kailash TO Thiruvanmiyur Depot,3,69
+18081,65A CT,Muthapudupet TO Thiyagarayanagar,3,69
+16269,70V,Vadapalani TO M.G.R.Koyambedu,3,69
+15771,55P,Tambaram TO Kilambakkam,3,69
+16347,21G,Cement Road TO Mylapore,3,69
+13111,M1,Thiruvanmiyur TO Nanganallur,3,69
+16349,54VCt,Iyyappanthangal Bus Depot TO Veppambaattu,3,69
+16270,70V,Tambaram West TO M.G.R.Koyambedu,3,69
+18440,102K,Broadway TO Kannagi Nagar S.C.B,3,69
+16274,70V,Kilambakkam TO Tambaram West,3,69
+16353,188A,Thyagaraya Nagar TO Kundrathur,3,69
+16352,188A,Kundrathur TO Thyagaraya Nagar,3,69
+16350,24AX,Anna Nagar West TO Teachers Colony,3,69
+16412,S94,Thirumudivakkam Sidco TO Durga Nagar,3,69
+16415,S94,Durga Nagar TO Kumaran Kundram,3,69
+16435,56D,Broadway TO Tondiarpet,3,69
+10426,16K,Kundrathur TO M.G.R.Koyambedu,3,69
+10434,16K,Kundrathur B.T TO Vadapalani,3,69
+10436,16K,Vadapalani TO M.G.R.Koyambedu,3,69
+16275,70V,Kilambakkam TO Airport,3,69
+12122,578,Iyyappanthangal TO Sunguvarchathiram,3,69
+12135,578,Sunguvarchathiram TO Iyyappanthangal,3,69
+18442,46G CT,M.G.R.Koyambedu TO Annanagar East,3,69
+16414,S94,Durga Nagar TO Thirumudivakkam Sidco,3,69
+15850,29C,Adyar B.S TO Perambur,3,69
+18441,102K,Kannagi Nagar S.C.B TO Thiruvanmiyur,3,69
+12187,57D,Broadway TO Moolakadai,3,69
+12188,57D,Broadway TO Poochiathipedu,3,69
+12190,57D,Moolakadai TO Poochiathipedu,3,69
+12191,57D,Poochiathipedu TO Broadway,3,69
+13165,M1A,Keelkattalai TO Thiruvanmiyur,3,69
+16526,99A,Kilambakkam Bus Terminus TO Shozhanganallur,3,69
+18444,77 R,Avadi B.T TO M.G.R.Koyambedu,3,69
+16279,188Et,Kundrathur Depot TO Broadway,3,69
+18446,64D CT,Theyampakkam To  Broadway,3,69
+18447,64D CT1,Moolakadai To  Theyampakkam,3,69
+13184,M88,Iyyappanthangal TO Kundrathur B.T,3,69
+12767,77M,Koyambedu Market TO Puzhal,3,69
+15302,12X,M.G.R.Koyambedu TO Vadapalani,3,69
+16356,109C,Kovalam TO Adyar Depot,3,69
+16528,24A,Anna Nagar West TO Broadway,3,69
+15299,21C,Mylapore Tank TO Kannagi Nagar S.C.B,3,69
+12126,57J,Gnayaru TO Broadway,3,69
+12128,57J,Redhills TO Gnayaru,3,69
+16282,99C,Chromepet TO Semmancheri,3,69
+16445,56D,Tondiarpet TO Manali,3,69
+18448,64D CT1,Theyampakkam  To  Moolakadai,3,69
+16348,77M,Ambattur I.E TO Madanakuppam,3,69
+16443,77M,Puzhal TO M.G.R.Koyambedu,3,69
+12771,77M,M.G.R.Koyambedu TO Puzhal,3,69
+12772,77M,Madanakuppam TO Ambattur I.E,3,69
+12775,77M,Madanakuppam TO Koyambedu Market,3,69
+12777,77M,Madanakuppam TO M.G.R.Koyambedu,3,69
+12123,57J,Broadway TO Gnayaru,3,69
+16358,21G,Mylapore TO Kilambakkam Bus,3,69
+15297,21C,Kannagi Nagar Bus Stand S.C.B TO Adyar B.S,3,69
+15298,21C,Adyar B.S TO Kannagi Nagar Bus Stand S.C.B,3,69
+15300,21C,Broadway TO Mylapore Tank,3,69
+16461,40L,Anna Square TO Foreshore Estate,3,69
+15786,515,Tambaram West TO Mamallapuram,3,69
+18449,64D CT2,Broadway TO Moolakadai,3,69
+18451,64D CT2,Moolakadai TO Broadway,3,69
+18452,64D CT,Broadway To  Theyampakkam,3,69
+13234,S15,Madhyakailash TO Thiruvanmiyur R.S,3,69
+15304,40L,Ambattur I.E TO J.J.Nagar West,3,69
+12686,70C,Navalur S.C.B TO Koyambedu Market,3,69
+16510,7H,Mogappair TO Broadway,3,69
+12124,57J,Broadway TO Redhills,3,69
+16361,514,Padiyanallur TO Redhills,3,69
+11019,114P,M.G.R.Koyambedu TO Padiyanallur,3,69
+11022,114P,Moolakadai TO Padiyanallur,3,69
+11023,114P,Padiyanallur TO Anna Nagar West,3,69
+11024,114P,Padiyanallur TO M.G.R.Koyambedu,3,69
+11025,114P,Padiyanallur TO Moolakadai,3,69
+15312,5C,Taramani TO Broadway,3,69
+18453,23C CT,Ayanavaram B.T TO Saidapet,3,69
+18454,29AEt,Anna Square TO Periyar Nagar,3,69
+15726,27B,Secretariat TO M.G.R.Koyambedu,3,69
+15863,104K,Tambaram TO Redhills Bus Terminus,3,69
+16287,S43,Ayanavaram B.S TO Pudur,3,69
+16363,159K,M.G.R.Koyambedu TO Annanagar East,3,69
+11026,114P,Redhills TO M.G.R.Koyambedu,3,69
+14953,76B,Medavakkam Rd.Jn TO M.G.R.Koyambedu,3,69
+14359,114P,M.G.R.Koyambedu TO M.M.B.T,3,69
+15864,66P,Kilambakkam Bus Terminus TO Kundrathur Bus Depot,3,69
+15935,70C,Tambaram Railway Station TO K K Nagar,3,69
+14954,76B,M.G.R.Koyambedu TO Vadapalani,3,69
+15866,47DCt,Icf TO Korattur,3,69
+12701,70C,K.K.Nagar B.T TO Koyambedu Market,3,69
+15865,7M,Doveton TO J J Nagar West Terminus,3,69
+16331,114P,M.M.B.T TO M.G.R.Koyambedu,3,69
+18456,5C,Broadway TO Taramani,3,69
+18457,21 CT,M.G.R Central TO Mandaveli,3,69
+18458,109 CT,Mgr Central TO Kovalam B.S,3,69
+16288,S43,Icf TO Pudur,3,69
+16364,15BEt,Odeanmani TO Thangal Tollgate,3,69
+18459,S67 CT,Ambattur O.T Bus Stand TO Moolakadai,3,69
+18460,S67,Moolakadai TO Ambattur O.T Bus Stand,3,69
+18461,S67,Ambattur O.T Bus Stand TO M.M.B.T,3,69
+18462,S23,Porur TO Poonamallee,3,69
+18084,65A CT1,Thiyagarayanagar TO Poonamallee Depot,3,69
+14956,76B,Vadapalani TO M.G.R.Koyambedu,3,69
+16537,568B,Thiruporur TO Adyar (Depot),3,69
+15901,M18,Mannivakkam Tank TO Tambaram,3,69
+16289,S43,Pudur TO Icf,3,69
+11637,51A,Thyagaraya Nagar TO Balaji Nagar (Bharath Engineering College),3,69
+17932,51A,Saidapet TO Kilambakkam B.T,3,69
+14974,66K,Kundrathur B.T TO Tambaram West,3,69
+15246,121M,K.Kannadasan Nagar TO Vazhuthigaimedu,3,69
+11207,M18,Thiruvanmiyur Bus Stand TO Kilambakkam Bus Terminus,3,69
+11209,M18,Kilambakkam Bus Terminus TO Thiruvanmiyur Bus Stand,3,69
+15900,M18,Tambaram TO Mannivakkam Tank,3,69
+18464,55K CT,Keerapakkam TO Kilambakkam B.S,3,69
+18463,S23,Poonamallee TO Porur,3,69
+18465,55K CT,Kilambakkam B.S TO Keerapakkam,3,69
+18466,500P,Tambaram TO Chengalpet,3,69
+13116,M18,Tambaram West TO Kilambakkam B.T,3,69
+15303,41D,Mandaveli TO Avadi B.T,3,69
+13656,M18,Kilambakkam B.T TO Tambaram West,3,69
+18467,500P,Chengalpet TO Depot Chrompet-Ii,3,69
+15868,47D,Kilambakkam Bus Terminus TO Avadi Bus Terminus,3,69
+16293,102C,Broadway TO Santhome Church,3,69
+13799,M18,Saidapet TO Kilambakkam Bus,3,69
+15800,170A,M.M.B.T TO Tambaram West,3,69
+16292,102C,Semmancheri TO Santhome Church,3,69
+16367,114,M.K.B.Nagar TO M.G.R.Koyambedu,3,69
+15508,18A,Vallalar Nagar TO Kilambakkam Bus Terminus,3,69
+12990,95XCt,Perumpakkam S.C.B TO Kilambakkam B.T,3,69
+12584,70J,Guindy Tvk Estate TO J.J.Nagar West,3,69
+17934,70J,J.J.Nagar West TO Guindy Tvk Estate,3,69
+11646,51M,Madipakkam B.T TO Thyagaraya Nagar,3,69
+11649,51M,Thiruvanmiyur TO Thyagaraya Nagar,3,69
+11650,51M,Thyagaraya Nagar TO Madipakkam B.T,3,69
+11653,51M,Thyagaraya Nagar TO Thiruvanmiyur,3,69
+13781,M51DCt,Saidapet TO Medavakkam Koot Road,3,69
+13782,M51DCt,Medavakkam Koot Road TO Saidapet,3,69
+11565,51A,Balaji Nagar (Bharath Engineering College) TO Thyagaraya Nagar,3,69
+11568,51A,Kilambakkam B.T TO Thyagaraya Nagar,3,69
+12608,70T,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+12610,70T,T.V.K.Nagar TO Kilambakkam B.T,3,69
+14460,70T,Otteri TO T.V.K.Nagar,3,69
+11632,51A,Tambaram West TO Velachery B.T,3,69
+17933,51A,Saidapet Depot TO Thyagaraya Nagar,3,69
+15763,153A,M.G.R.Koyambedu TO Thiruvallur,3,69
+18477,102CT,Siruseri I.T Park TO Thiruvanmiyur,3,69
+13542,121M,M.K.B.Nagar TO K.Kannadasan Nagar,3,69
+11640,51A,Thyagaraya Nagar TO Kilambakkam B.T,3,69
+11644,51A,Thyagaraya Nagar TO Medavakkam Rd.Jn,3,69
+11647,51A,Thyagaraya Nagar TO Saidapet Depot,3,69
+18479,102CT,Thiruvanmiyur TO Siruseri I.T Park,3,69
+14978,5C,Adyar B.T TO Taramani,3,69
+15871,102X,Kilambakkam Bus Terminus TO Broadway,3,69
+18482,102CT,Thaiyur Koman Nagar TO Adyar B.T,3,69
+16296,17E,Vadapalani TO Saligramam,3,69
+15517,18A,Kilambakkam Bus Terminus TO Vallalar Nagar,3,69
+15872,70J,J J Nagar West Terminus TO Ambattur Industrial Estate Depot,3,69
+16521,24A,Broadway TO Anna Nagar,3,69
+16522,24A,Broadway TO Secretariat,3,69
+15838,6D,Foreshore Estate TO Thangal Tollgate,3,69
+15837,12G,Anna Square TO K.K.Nagar,3,69
+18486,102CT,Adyar B.T TO Thaiyur Koman Nagar,3,69
+15770,55P,Kilambakkam TO Tambaram,3,69
+16712,44,Manali TO Broadway,3,69
+15768,21G,Kilambakkam Bus TO Mylapore,3,69
+10551,18ACt,K.K.Nagar TO Kilambakkam B.T,3,69
+16713,44,Broadway TO Manali,3,69
+15772,557M,Gummidipoondi TO Redhills,3,69
+11805,555G,Guduvanchery TO Kilambakkam B.T,3,69
+938,583,Tambaram Sanatorium Bus Stand TO Sri Perambudur Bus Terminus,3,69
+12294,583,Sriperumbudur TO Tambaram Sanatorium,3,69
+14990,583,Tambaram Sanatorium TO Oragadam Hr.Sec.School,3,69
+14988,583,Oragadam Hr.Sec.School TO Tambaram Sanatorium,3,69
+14992,583,Poonamallee B.T TO Sriperumbudur,3,69
+15873,15C,M.G.R.Koyambedu TO Anna Nagar,3,69
+14994,583,Sriperumbudur TO Poonamallee B.T,3,69
+13665,S11,Guindy Race Course TO Cement Road,3,69
+15713,55H,Chennai Airport Metro TO Keerapakkam,3,69
+15778,512,Redhills TO Madurapakkam,3,69
+15780,558B,Pazhaverkadu TO Redhills,3,69
+16066,3,Thiyagaraya Nagar TO Thiruvanmiyur,3,69
+18487,555G,Guduvanchery TO Sholinganallur,3,69
+15781,512,Madurapakkam TO Redhills,3,69
+16553,3,Thiyagarayanagar Terminus TO Saidapet Depot,3,69
+10549,18ACt,Guindy Tvk Estate TO Kilambakkam B.T,3,69
+13687,114D,Arani TO Redhills,3,69
+13688,114D,Redhills TO Arani,3,69
+18488,570,M.G.R.Koyambedu To  Perumbakkam Scb,3,69
+16547,3,Saidapet Depot TO Thiyagaraya Nagar,3,69
+15782,558A,Ponneri TO Redhills,3,69
+17695,570,Perumbakkam To  M.G.R.Koyambedu,3,69
+13926,51AX,Thyagaraya Nagar TO Kilambakkam B.T,3,69
+13931,51AX,Tambaram West TO Thyagaraya Nagar,3,69
+13920,51AX,Tambaram West TO Kilambakkam B.T,3,69
+13924,51AX,Kilambakkam B.T TO Tambaram West,3,69
+16390,SC1,I.O.C TO Tondiarpet,3,69
+13936,56ACt,Ennore TO Tondiarpet,3,69
+16285,170Tx,M.G.R.Koyambedu TO Kaviarasu Kannadasan Nagar,3,69
+16389,SC1,Ioc TO Ioc,3,69
+16388,SC1,I.O.C TO I.O.C,3,69
+15306,242,Broadway TO Perambur B.T,3,69
+15307,242,Perambur B.T TO Redhills,3,69
+16391,SC1,Tondiarpet TO I.O.C,3,69
+12493,62A,Ambattur I.E TO Puzhal,3,69
+12495,62A,Ambattur I.E TO Redhills,3,69
+12497,62A,Puzhal TO Ambattur I.E,3,69
+12499,62A,Redhills TO Ambattur I.E,3,69
+15724,27B,M.M.D.A.Colony TO Secretariat,3,69
+15725,27B,Secretariat TO M.M.D.A.Colony,3,69
+15790,73A,Avadi B.S TO M.G.R.Koyambedu,3,69
+13739,24AX,Teachers Colony TO Anna Nagar  B.S,3,69
+15791,73A,M.G.R.Koyambedu TO Avadi B.S,3,69
+16555,3,Broadway TO Secretariat,3,69
+11523,500P,Chengalpet TO Nehru Nagar,3,69
+11524,500P,Chengalpet TO Pallavaram,3,69
+11526,500P,Nehru Nagar TO Chengalpet,3,69
+11527,500P,Pallavaram TO Chengalpet,3,69
+16559,3,Thiruvanmiyur Bus Stand TO Chinnamalai Or Saidapet Court,3,69
+16740,46,Otteri TO T.V.K.Nagar,3,69
+16374,S18D,Saidapet Gurukulam TO Saidapet,3,69
+16297,17E,Saligramam TO Broadway,3,69
+16377,71D,Pudur TO Broadway,3,69
+14058,99A,Tambaram TO Perumbakkam Depot Scb,3,69
+14066,99A,Kilambakkam B.T TO Perumpakkam S.C.B,3,69
+14059,102X,Perumpakkam S.C.B TO Kilambakkam B.T,3,69
+14062,102X,Broadway TO Kelambakkam,3,69
+14064,102X,Kelambakkam TO Perumpakkam S.C.B,3,69
+15017,142B,Broadway TO Periyar Nagar,3,69
+12322,583A,Thiruvallur TO Poonamallee B.T,3,69
+15504,164E,Vyasarpadi TO Manali Bus Terminus,3,69
+15505,164E,Manali Bus Terminus TO Vyasarpadi,3,69
+15799,66PX,Guduvancheri B.S TO Poonamallee B.S,3,69
+16483,40L,Foreshore Estate TO Anna Square,3,69
+15867,47DCt,Korattur TO Icf,3,69
+18489,500P,Chrompet TO Chengalpet,3,69
+18383,55N,Tambaram West To Keerappakkam,3,69
+12326,583C,Manimangalam TO Tambaram Sanatorium,3,69
+12327,583C,Sriperumbudur TO Tambaram Sanatorium,3,69
+12328,583C,Tambaram Sanatorium TO Manimangalam,3,69
+12329,583C,Tambaram Sanatorium TO Sriperumbudur,3,69
+14179,18AEt,Kilambakkam B.S TO Chennai Airport,3,69
+15869,48K,Ambattur Industrial Estate TO Kallikuppam Tea Kadai Bus Stop,3,69
+18491,D70Ct CT,Elango Nagar Off.Colony TO Velachery B.T,3,69
+15801,170A,Tambaram West TO M.M.B.T,3,69
+13886,597A,Poonamallee B.T TO Thiruvallur Collector Office,3,69
+15013,142B,Thanikachalam Nagar TO Broadway,3,69
+12414,597A,Thiruvallur TO Iyyappanthangal,3,69
+14199,18A,Chennai Airport TO Kilambakkam B.S,3,69
+16523,24A,Secretariat TO Anna Nagar,3,69
+15878,29E,M.G.R.Koyambedu B.T TO Annanagar East,3,69
+16304,170Tx,Kaviarasu Kannadasan Nagar TO Moolakadai,3,69
+15879,29E,Annanagar East TO M.G.R.Koyambedu B.T,3,69
+14200,18A,Kilambakkam B.S TO Chennai Airport,3,69
+12331,583D,Sriperumbudur TO Tambaram Sanatorium,3,69
+14207,11M,Broadway TO Panagal Park,3,69
+14208,11M,Broadway TO Thiyagarayanagar B.S,3,69
+12332,583D,Tambaram Sanatorium TO Sriperumbudur,3,69
+12041,55C,Pungeri TO Tambaram West,3,69
+14202,18A,Cement Road TO Chennai Airport,3,69
+14203,18A,Broadway TO Cement Road,3,69
+12401,597,Thiruvallur TO Mandaveli,3,69
+14228,18A,Kilambakkam B.S TO Tambaram West,3,69
+16325,597,K.K.Nagar TO Thyagaraya Nagar,3,69
+15016,142B,Broadway TO Thanikachalam Nagar,3,69
+18505,19 CT,Adyar TO Thiyagaraya Nagar,3,69
+18506,19 R,Thiyagaraya Nagar TO Thiruporur,3,69
+14225,66PX,Guduvancheri B.S TO Kilambakkam B.S,3,69
+14226,66PX,Kilambakkam B.S TO Guduvancheri B.S,3,69
+18507,19 CT2,Thiruporur TO M.G.R.Koyambedu,3,69
+15880,147C,Senthil Nagar TO Thiyagarayanagar Terminus,3,69
+14230,18A,Tambaram West TO Kilambakkam B.S,3,69
+18508,19 CT3,Kelambakkam TO M.G.R.Koyambedu,3,69
+18510,19 CT3,M.G.R.Koyambedu TO Kelambakkam,3,69
+15344,18A,Tambaram West TO Broadway,3,69
+15027,44C,Broadway TO Tondiarpet,3,69
+14278,70M,Anna Nagar  B.S TO M.G.R.Koyambedu,3,69
+14279,70M,M.G.R.Koyambedu TO Anna Nagar B.S,3,69
+18513,15G CT1,M.G.R.Koyambedu TO Broadway,3,69
+18512,15G CT,Broadway TO M.G.R.Koyambedu,3,69
+18494,102P,Broadway TO Perumbakkam Scb,3,69
+18495,102P,Perumbakkam Scb TO Broadway,3,69
+18496,102P,Broadway TO Thiruvanmiyur B.S,3,69
+18497,102P,Thiruvanmiyur B.S TO Broadway,3,69
+18498,102P,Broadway TO Vivekananda House,3,69
+14301,33L,Kodungaiyur Parvathi Nagar TO Moolakadai,3,69
+14305,33L,Moolakadai TO Kodungaiyur Parvathi Nagar,3,69
+16255,597,Thyagaraya Nagar TO Thiruvallur,3,69
+18499,102P,Vivekananda House TO Perumbakkam Scb,3,69
+14310,33B,K.Kannadasan Nagar TO Broadway,3,69
+14298,37E,Basin Bridge R.S TO Kaviarasu Kannadasan  B.S,3,69
+14299,37E,Kaviarasu Kannadasan TO Basin Bridge  R.S,3,69
+18500,102P,Perumpakkam Scb TO Thiruvanmiyur,3,69
+18502,102P,Vivekananda House TO Broadway,3,69
+18503,102P,Thiruvanmiyur TO Perumpakkam S.C.B,3,69
+18504,102P,Perumbakkam Scb TO Vivekananda House,3,69
+18511,102P,Broadway TO  Vivekananda House,3,69
+12397,597,Mandaveli TO Thiruvallur,3,69
+14995,597,Poonamallee B.T TO Thiruvallur,3,69
+16305,29A,Anna Square TO Secretariat,3,69
+14311,33B,Broadway TO K.Kannadasan Nagar,3,69
+14335,40L,Anna Square TO M.G.R.Central,3,69
+14363,57F,Redhills TO Padiyanallur,3,69
+15032,44C,Tondiarpet TO Manali,3,69
+14344,57X,Redhills Bus Terminus TO Padianallur,3,69
+14338,57X,Padianallur TO Redhills,3,69
+18514,102 R,Kelambakkam TO Broadway,3,69
+18515,102 CT,Broadway TO Siruseri I.T Park,3,69
+18517,102 CT2,Broadway TO Semmancheri B.S,3,69
+14371,18A,Saidapet TO Broadway,3,69
+14372,18A,Saidapet TO Tambaram West,3,69
+14364,57F,Karanodai TO Redhills,3,69
+14374,170T,M.G.R.Koyambedu TO Tambaram West,3,69
+6532,583K,Tambaram Sanatorium Bus Stand TO Sriperumbudur Bus,3,69
+18520,Dummy/Tes2,Dummytest12,3,69
+14056,57F,Padiyanallur TO Redhills,3,69
+18522,MAA2,Cement Road TO Airport,3,69
+13853,597,Thyagaraya Nagar TO K.K.Nagar,3,69
+12402,597,Thiruvallur TO Poonamallee B.T,3,69
+6533,583K,Sriperumbudur Bus Terminal TO Tambaram Sanatorium Bus Stand,3,69
+16306,18ACt,Broadway TO Tambaram West B.S,3,69
+14388,18ACt,Broadway TO Keelkattalai,3,69
+14052,57F,Redhills B.S TO Karanodai B.S,3,69
+15817,188C,Kundrathur B.T TO Broadway,3,69
+14402,18ACt,Tambaram West B.S TO Saidapet,3,69
+15031,44C,Manali TO Tondiarpet,3,69
+15010,56P,Minjur N.T TO Broadway,3,69
+14083,MAA1,Kilambakkam TO Meeanambakkam International Airport,3,69
+12333,583K,Kilambakkam B.T TO Nehru Nagar,3,69
+14171,597,Thiruvallur TO Thyagaraya Nagar,3,69
+14412,64K,Secretariat TO K.Kannadasan Nagar,3,69
+14101,MAA1,Tambaram TO Airport,3,69
+15011,51M,N.G.O.Colony TO Madipakkam B.T,3,69
+12335,583K,Kilambakkam B.T TO Padappai,3,69
+12338,583K,Kilambakkam B.T TO Sriperumbudur,3,69
+15915,121G,Kaviarasu Kannadasan TO Vyasarpadi (Depot),3,69
+15914,121G,Vyasarpadi (Depot) TO Kaviarasu Kannadasan,3,69
+12339,583K,Nehru Nagar TO Kilambakkam B.T,3,69
+12340,583K,Padappai TO Kilambakkam B.T,3,69
+14431,55X,Mannivakkam Tank TO Nehru Nagar,3,69
+14432,55X,Nehru Nagar TO Mannivakkam Tank,3,69
+10913,121G,K.Kannadasan Nagar TO M.G.R.Koyambedu,3,69
+10914,121G,M.G.R.Koyambedu TO K.Kannadasan Nagar,3,69
+12341,583K,Sriperumbudur TO Kilambakkam B.T,3,69
+15047,42C,Broadway TO Teachers Colony,3,69
+15877,70A,Anna Nagar West TO M.G.R.Koyambedu,3,69
+14425,32B,Tondiarpet B.S TO Vivekananda House,3,69
+14444,A51,Broadway TO Chromepet,3,69
+15015,142B,Perambur B.T TO Broadway,3,69
+15039,42D,Otteri TO Srinivasa Nagar,3,69
+15040,42D,Srinivasa Nagar TO Otteri,3,69
+15041,42D,Periyar Nagar TO Srinivasa Nagar,3,69
+18529,MAA2 R,Airport TO Siruseri It Park,3,69
+14445,A51,Chromepet TO Broadway,3,69
+14446,A51,Saidapet TO Tambaram West B.S,3,69
+14448,A51,Tambaram West B.S TO Saidapet,3,69
+14438,47A,Icf TO Thyagaraya Nagar,3,69
+18530,MAA2 CT2,Airport TO Cement Road,3,69
+18531,MAA2 R1,Siruseri It Park TO Airport,3,69
+18532,120G CT,Ambattur I.E TO M.G.R.Koyambedu,3,69
+18533,120G CT1,M.G.R.Koyambedu TO Menambedu,3,69
+18534,120G CT2,Ambattur I.E TO Menambedu,3,69
+18535,120G CT3,Menambedu TO Ambattur I.E,3,69
+18536,120G CT4,Menambedu TO M.G.R.Koyambedu,3,69
+14515,51A,Tambaram East TO Thyagaraya Nagar,3,69
+14455,48C,M.G.R.Koyambedu TO Ayanavaram B.T,3,69
+14510,10E,M.G.R.Central TO Saidapet West,3,69
+18539,C33,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+15042,42D,Srinivasa Nagar TO Periyar Nagar,3,69
+15043,42C,Broadway TO Perambur B.T,3,69
+18537,C64 CT,Vyasarpadi Depot TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+14461,70T,T.V.K.Nagar TO Otteri,3,69
+14465,102P,Kannagi Nagar B.S TO Broadway,3,69
+18542,S26 CT,Ashok Nagar TO adyar st louis,3,69
+18544,S26 CT1,Adyar Gandhi Nagar TO  Ashok Pillar,3,69
+18545,1C CT4,Broadway TO Thiruvanmiyur Bus,3,69
+16936,S63,Moolakadai TO Manali,3,69
+14598,36M,Tondiarpet TO Vichoor,3,69
+14601,109T,Tondairpet TO 2 Depot TO Thangal Tollgate,3,69
+14233,18A,Kilambakkam B.S TO Tondiarpet,3,69
+16538,3,Thiyagarayanagar Terminus TO Velachery,3,69
+15816,45ACt,Thyagaraya Nagar TO Keelkattalai,3,69
+18548,102K,Thiruvanmiyur TO Broadway,3,69
+18549,102K,Broadway BT To Kannagi Nagar S.C.B,3,69
+14261,170T,Tambaram West TO Kaviarasu Kannadasan Nagar,3,69
+14612,121A,M.G.R.Koyambedu TO Annanagar East,3,69
+14660,56C,Thiruvotiyur B.T TO Tondiarpet,3,69
+15066,G18,Kilambakkam B.T TO Thyagaraya Nagar,3,69
+14668,159K,Annanagar East TO M.G.R.Koyambedu,3,69
+11793,54B,Porur TO Saidapet,3,69
+11792,54B,Iyyappanthangal TO Saidapet,3,69
+11794,54B,Saidapet TO Iyyappanthangal,3,69
+11795,54B,Saidapet TO Porur,3,69
+14665,56C,Tondiarpet TO Thiruvotiyur B.T,3,69
+14632,109T,Thangal Tollgate TO Thiruvotiyur B.T,3,69
+14633,109T,Kovalam B.S TO Thangal Tollgate,3,69
+14734,170Tx,Vyasarpadi TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+18556,MAA2 CT,Perumbakkam TO  Chennai Airport,3,69
+16972,52,Pozhichalur TO Broadway,3,69
+14325,121M,Kaviarasu Kannadasan Nagar TO Moolakadai,3,69
+18558,MAA2 CT3,Kilambakkam Bus Terminus to Meeanambakkam International Airport,3,69
+14838,C33,Vyasarpadi TO Kannadasan Nagar,3,69
+18559,MAA2 CT,Chennai Airport  TO  Perumbakkam Scb,3,69
+18557,MAA2 CT3,Meeanambakkam International Airport to Kilambakkam Bus Terminus,3,69
+12121,572K,Thiruvallur TO Avadi B.T,3,69
+16539,3,Velachery TO Thiyagarayanagar Terminus,3,69
+12366,592,Redhills TO Padiyanallur,3,69
+12368,592,Uthukottai TO Redhills,3,69
+10219,23V,Ayanavaram B.T TO Velachery B.T,3,69
+18560,S11 CT,Keelkattalai TO Guindy R.S,3,69
+10220,23V,Velachery B.T TO Ayanavaram B.T,3,69
+10224,23V,Velachery B.T TO Villivakkam,3,69
+15085,29NEt,Perambur Railway Station TO Peravallur Kumaran Nagar,3,69
+15090,29Et,Vinayagapuram TO Queen Marys College,3,69
+15091,29Et,Perambur Bus Terminus TO Queen Marys College,3,69
+18561,170C CT,M.K.B.Nagar  To  Guindy B.S,3,69
+13107,D70X,Cement Road TO Velachery Mrts,3,69
+13243,S165,Iyyappanthangal TO Kovur Eb,3,69
+10225,23V,Villivakkam TO Velachery B.T,3,69
+13244,S165,Kovur Eb TO Iyyappanthangal,3,69
+13109,D70X,Guindy Tvk Estate TO Ambattur I.E,3,69
+13112,D70X,Velachery Mrts TO Cement Road,3,69
+15029,44C,Tondiarpet TO Broadway,3,69
+12365,592,Padiyanallur TO Redhills,3,69
+12367,592,Redhills TO Uthukottai,3,69
+18563,170C CT1,Guindy Bus Terminus To M.K.B.Nagar,3,69
+13390,S41,Avadi B.T TO Ambedkar Statue,3,69
+11492,47D,Avadi B.T TO Ambattur I.E,3,69
+11495,47D,Kilambakkam B.T TO Avadi B.T,3,69
+18567,114 CT,Vallalar Nagar TO  Vyasarpadi Depot,3,69
+17106,60,Saidapet TO Anakaputhur,3,69
+17111,60,Anakaputhur TO Saidapet,3,69
+14353,S165,Nehru Nagar TO Kovur E.B,3,69
+14354,S165,Kovur Eb TO Pallavaram,3,69
+10462,26K,Broadway TO Kovur,3,69
+10470,26K,Kundrathur Depot TO Broadway,3,69
+14355,S165,Kovur E.B TO Nehru Nagar,3,69
+14356,S165,Pallavaram TO Kovur Eb,3,69
+15922,60A,Kundrathur TO Nehru Nagar,3,69
+13966,109A,Broadway TO Thiruvidhanthai,3,69
+13968,109A,Thiruvidhantha TO Broadway,3,69
+15045,42C,Perambur B.T TO Broadway,3,69
+18569,114 CT,M.K.B.Nagar TO  Redhills Bus Terminus,3,69
+18571,114 CT3,Redhills Bt TO M.G.R.Koyambedu,3,69
+13149,M18N,Nanganallur TO Kilambakkam B.T,3,69
+11743,53A,Poonamallee B.T TO Thirumazhisai,3,69
+15053,42B,Otteri TO Poompuhar,3,69
+18572,114 R1,Redhills TO  Vallalar Nagar,3,69
+18573,114 CT4,M.G.R.Koyambedu TO Redhills,3,69
+18574,170C CT1,T.V.K.Nagar TO M.G.R.Koyambedu,3,69
+11750,53A,Thirumazhisai TO Poonamallee B.T,3,69
+18575,170C R,Guindy Tvk Estate TO T.V.K.Nagar,3,69
+13131,M18G,Guduvanchery TO Hasthinapuram,3,69
+13133,M18G,Hasthinapuram TO Guduvanchery,3,69
+13118,M18C,Keelkattalai TO N.G.O.Colony,3,69
+13119,M18C,Keelkattalai TO Thyagaraya Nagar,3,69
+8438,88K,Thyagaraya Nagar TO Kundrathur B.S,3,69
+12865,7E,Ambattur I.E TO Nolambur Sakthi Nagar,3,69
+12870,7E,Nolambur Sakthi Nagar TO Ambattur I.E,3,69
+14555,515,Kilambakkam B.S TO Mamallapuram,3,69
+14560,515,Tambaram West B.S TO Kilambakkam B.S,3,69
+18576,170C R1,T.V.K.Nagar TO Guindy Tvk Estate,3,69
+18577,170C CT3,M.G.R.Koyambedu TO T.V.K.Nagar,3,69
+18578,57 R,Vallalar Nagar TO Redhills,3,69
+14564,55H,Chennai Airport Metro TO Keerappakkam Tnuhdb,3,69
+12330,60A,Broadway TO Kundrathur B.T,3,69
+12334,60A,Kundrathur B.T TO Broadway,3,69
+12337,60A,Nehru Nagar TO Broadway,3,69
+18581,51A CT1,Tambaram West TO Thiyagarayanagar,3,69
+18580,51A CT,Thyagaraya Nagar TO Tambaram West,3,69
+11914,55K,Guduvanchery TO Kandigai,3,69
+15092,29Et,Vinayagapuram TO Perambur B.T,3,69
+11916,55K,Guduvanchery TO Tambaram West,3,69
+11917,55K,Kandigai TO Guduvanchery,3,69
+11918,55K,Kumizhi TO Guduvanchery,3,69
+15995,588,Thiruvanmiyur TO Mamallapuram,3,69
+14613,121A,Annanagar East TO M.G.R.Koyambedu,3,69
+14623,36V,Redhills B.S TO Thangal Tollgate,3,69
+15093,29E,M.G.R.Koyambedu TO Perambur B.T,3,69
+15094,29E,Perambur B.T TO M.G.R.Koyambedu,3,69
+17451,102CT,Perumpakkam S.C.B TO Thiruvanmiyur,3,69
+11701,52C,Hasthinapuram TO Thyagaraya Nagar,3,69
+12344,588,Kovalam TO Thiruvanmiyur,3,69
+12347,588,Thiruvanmiyur TO Kovalam,3,69
+11702,52C,Thyagaraya Nagar TO Hasthinapuram,3,69
+13124,M18C,N.G.O.Colony TO Thyagaraya Nagar,3,69
+13127,M18C,Thyagaraya Nagar TO Keelkattalai,3,69
+14637,C56C,Thiruvotiyur B.T TO Tondiarpet,3,69
+18475,102CT,Adyar B.S TO Siruseri I.T.Park,3,69
+18485,102CT,Siruseri I.T Park TO Adyar B.T,3,69
+11715,52H,Hasthinapuram TO Sankar Nagar,3,69
+11717,52H,Pozhichalur TO Hasthinapuram,3,69
+13129,M18C,Thyagaraya Nagar TO N.G.O.Colony,3,69
+14667,56C,Broadway TO Tondiarpet,3,69
+17423,102CT,Thiruvanmiyur TO Perumpakkam S.C.B,3,69
+11718,52H,Sankar Nagar TO Hasthinapuram,3,69
+12851,79V,Venbakkam TO Tambaram Sanatorium,3,69
+17442,102CT,Okk.Thoraipakm Sec.Colony TO Broadway,3,69
+12947,C56C,Broadway TO Thiruvotriyur B.T,3,69
+13086,E51,Broadway TO Ottiyampakkam,3,69
+13087,E51,Ottiyampakkam TO Broadway,3,69
+13088,E51,Ottiyampakkam TO Saidapet,3,69
+13093,E51,Velachery B.T TO Broadway,3,69
+17457,102CT,Lady Wellington Sch TO Broadway,3,69
+15064,G18,Thyagaraya Nagar TO Kilambakkam B.T,3,69
+12849,79V,Tambaram Sanatorium TO Venbakkam,3,69
+12847,79A,Tambaram West TO Navalur S.C.B,3,69
+13168,M1A,Thiruvanmiyur TO Keelkattalai,3,69
+16917,101,Thiruvotriyur TO M.G.R.Koyambedu,3,69
+14779,119G,Perumpakkam S.C.B TO Guindy Tvk Estate,3,69
+13169,M1A,Thiruvanmiyur TO Nanganallur,3,69
+14780,119G,Guindy Tvk Estate TO Perumpakkam S.C.B,3,69
+17384,102K,Ezhil Nagar TO Thiruvanmiyur,3,69
+12845,79A,Navalur S.C.B TO Tambaram West,3,69
+14782,119G,Perumpakkam S.C.B TO Velachery B.T,3,69
+14783,119G,Velachery B.T TO Perumpakkam S.C.B,3,69
+3607,91V,Tambaram West Bus Stand TO Thiruvanmiyur Bus Stand,3,69
+10147,147A,J.J.Nagar East TO Anna Nagar West,3,69
+3612,91V,Thiruvanmiyur Bus Stand TO Guduvancheri Bus Terminus,3,69
+3610,91V,Guduvanchery TO Kilambakkam B.S,3,69
+14802,102P,Perumbakkam TO Adyar B.S,3,69
+5537,12G,Lady Willingdon College Of Education TO K K Nagar,3,69
+12342,60D,Broadway TO Pammal Kamarajapuram,3,69
+12343,60D,Guduvanchery TO Hasthinapuram,3,69
+12346,60D,Guduvanchery TO Pammal Kamarajapuram,3,69
+12349,60D,Hasthinapuram TO Pammal Kamarajapuram,3,69
+17685,102K,Nandanam Ymca TO Kannagi Nagar,3,69
+12350,60D,Pammal Kamarajapuram TO Broadway,3,69
+12352,60D,Pammal Kamarajapuram TO Guduvanchery,3,69
+12386,595,Pazhaverkadu TO Minjur,3,69
+12387,595,Pazhaverkadu TO Thangal Tollgate,3,69
+12389,595,Pazhaverkadu TO Thiruvotriyur B.T,3,69
+12391,595,Thangal Tollgate TO Pazhaverkadu,3,69
+17400,102K,Broadway TO Thiruvanmiyur,3,69
+17403,102K,Adyar B.T TO Ezhil Nagar,3,69
+12119,572K,Kizhanoor TO Ambattur I.E,3,69
+12120,572K,Kizhanoor TO Avadi B.T,3,69
+14982,595,Minjur TO Pazhaverkadu,3,69
+12363,591C,Perambakkam L.N.Koil TO Poonamallee B.T,3,69
+17487,102K,Ezhil Nagar TO Kannagi Nagar Bus Stand,3,69
+17240,63,Thiruverkadu TO Ambattur I.E,3,69
+17242,63,Ambattur I.E TO Villivakkam,3,69
+16641,35,Broadway TO Ayanavaram B.T,3,69
+16642,35,Ayanavaram B.T TO Korattur,3,69
+16635,35,Korattur TO Ayanavaram B.T,3,69
+16636,35,I.C.F TO Broadway,3,69
+12559,64D,Broadway TO Kosappur,3,69
+12560,64D,Kosappur TO Broadway,3,69
+12562,64D,Kosappur TO Moolakadai,3,69
+12564,64D,Moolakadai TO Kosappur,3,69
+12378,60G,Pozhichalur TO Broadway,3,69
+16703,42,Broadway TO G.K.M.Colony,3,69
+16702,42,Broadway TO Periyar Nagar,3,69
+5426,60G,Hasthinapuram TO Pozhichalur,3,69
+12376,60G,Broadway TO Pozhichalur,3,69
+5434,60G,Pozhichalur TO Hasthinapuram,3,69
+364,S17,Adyar Gandhi Nagar TO Guindy Rs,3,69
+13283,S17,Mandaveli TO Adyar B.T,3,69
+16752,34,Thiruvotriyur B.T TO Ambattur I.E,3,69
+16757,47,Villivakkam TO Ayanavaram B.T,3,69
+16759,47,Ayanavaram B.T TO Villivakkam,3,69
+16952,101,Thiruvottriyur TO M.G.R. Koyambedu,3,69
+12360,591,Perambakkam TO Poonamallee B.T,3,69
+11818,54L,Broadway TO Vellavedu,3,69
+16831,50,Thiruverkadu  B.S TO M.G.R.Koyambedu,3,69
+16834,50,M.G.R.Koyambedu TO Thiruverkadu B.S,3,69
+16836,50,Vallalar Nagar TO Broadway,3,69
+16840,50,Thiruverkadu TO Broadway,3,69
+16926,101,Thangal Tollgate TO Thiruvotriyur,3,69
+16932,101,Tollgate TO Poonamallee,3,69
+18143,101,Kilambakkam TO Poonamallee,3,69
+18144,101,Poonamallee TO Kilambakkam,3,69
+18145,101,Poonamallee TO Annanagar East,3,69
+16881,S64,Perambur B.T TO Moolakadai,3,69
+16894,S64,Moolakadai TO Azeezee Nagar,3,69
+16847,50,Broadway TO Thiruverkadu,3,69
+11821,54L,Vellavedu TO Broadway,3,69
+1076,547A,Periyapalayam Bus Stand TO Vallalar Nagr,3,69
+16844,50,Broadway TO Vallalar Nagar,3,69
+16979,52,Pozhichalur TO Hasthinapuram,3,69
+16901,S64,Azeezee Nagar TO Moolakadai,3,69
+16884,S64,Perambur B.T TO Azeezee Nagar,3,69
+16888,S64,Moolakadai TO Perambur B.T,3,69
+7625,547A,Redhills TO Periyapalayam,3,69
+16655,37,Iyyappanthangal Bus Depot TO Vallalar Nagar,3,69
+16924,S63,Manali TO Moolakadai,3,69
+11781,547A,M.K.B.Nagar TO Vallalar Nagar,3,69
+11782,547A,Periyapalayam TO Redhills,3,69
+11784,547A,Vallalar Nagar TO Periyapalayam,3,69
+13563,547A,Vallalar Nagar TO M.K.B.Nagar,3,69
+16573,25,Anna Square TO Vadapalani,3,69
+16574,25,Iyappanthangal TO Kilambakkam,3,69
+16576,25,Iyyapanthangal TO Anna Square,3,69
+16579,25,Vadapalani TO Anna Square,3,69
+11304,42M,Broadway TO M.M.B.T,3,69
+11306,42M,M.M.B.T TO Broadway,3,69
+11308,42M,M.M.B.T TO Perambur B.T,3,69
+11309,42M,Perambur B.T TO M.M.B.T,3,69
+10655,18X,Broadway TO Oonamancheri,3,69
+10656,18X,Oonamancheri TO Broadway,3,69
+10657,18X,Oonamancheri TO Tambaram West,3,69
+10658,18X,Tambaram West TO Oonamancheri,3,69
+10659,18X,Tambaram West TO Thiruporur,3,69
+10660,18X,Thiruporur TO Tambaram West,3,69
+16582,25,Anna Square TO Iyyappanthangal,3,69
+16968,52,Pozhichalur TO Koyambedu Market,3,69
+16973,52,Koyambedu Market TO Pozhichalur,3,69
+16977,52,Hasthinapuram TO Pozhichalur,3,69
+16975,52,Broadway TO Pozhichalur,3,69
+16502,S69,Airport Metro TO Kundrathur B.T,3,69
+16571,25,Vadapalani TO Poonamallee,3,69
+16584,25,Kilambakkam TO Poonamallee,3,69
+16500,S69,Nehru Nagar TO Airport Metro,3,69
+17452,102CT,Thiruvanmiyur TO Broadway,3,69
+10740,109Ct,Adyar B.T TO Kovalam,3,69
+12351,58V,M.G.R.Koyambedu TO Redhills,3,69
+12353,58V,Moolakadai TO M.G.R.Koyambedu,3,69
+18160,25,Poonamalle TO Anna Square,3,69
+10649,18R,Broadway TO Nanganallur,3,69
+10650,18R,Cement Road TO Broadway,3,69
+18159,25,Anna Square TO Poonamalle,3,69
+10651,18R,Cement Road TO Nanganallur,3,69
+18161,25,Poonamallee TO Kilambakkam,3,69
+10653,18R,Nanganallur TO Cement Road,3,69
+16501,S69,Kundrathur B.T TO Airport Metro,3,69
+10654,18R,Secretariat TO Nanganallur,3,69
+15128,S3X,Chromepet Esi TO Jothi Nagar Madambakkam,3,69
+16506,S69,Airport Metro TO Cement Road,3,69
+16505,S69,Cement Road TO Airport Metro,3,69
+18162,25,Poonamallee TO Iyyapanthangal,3,69
+10648,18R,Broadway TO Cement Road,3,69
+18163,25,Iyyapanthangal TO Poonamallee,3,69
+10652,18R,Nanganallur TO Broadway,3,69
+10645,18P,Cement Road TO Keelkattalai,3,69
+4222,A1,Chindadripet Podikkadai TO Secretariat,3,69
+16499,S69,Airport Metro TO Nehru Nagar,3,69
+16592,26,Broadway TO Vadapalani,3,69
+16040,PP21,Guindy TO Kilambakkam,3,69
+12638,70A,Koyambedu Market TO Redhills,3,69
+16604,26,Vadapalani TO Iyyappanthangal,3,69
+16614,26,M.G.R.Central TO Iyyappanthangal,3,69
+10647,18P,Keelkattalai TO Cement Road,3,69
+15331,18P,Keelkattalai TO Broadway,3,69
+15330,18P,Broadway TO Keelkattalai,3,69
+10639,18P,Broadway TO Cement Road,3,69
+16949,101,M.G.R.Koyambedu TO Thiruvottriyur,3,69
+16964,99,Tambaram West TO Adyar B.T,3,69
+16966,99,Sholinganallur TO Adyar B.T,3,69
+16969,99,Adyar TO Shozhinganallur,3,69
+17754,104,Redhills B.S To  Madhavaram B.S,3,69
+10644,18P,Cement Road TO Broadway,3,69
+16832,104,Redhills TO Tambaram West,3,69
+10635,18N,Broadway TO Cement Road,3,69
+10636,18N,Broadway TO Keelkattalai,3,69
+16396,S98,Taramani TO Little Mount,3,69
+16395,S98,Taramani TO Thiruvanmiyur,3,69
+16397,S98,Little Mount TO Taramani,3,69
+10638,18N,Keelkattalai TO Broadway,3,69
+10637,18N,Cement Road TO Broadway,3,69
+10630,18H,Tambaram West TO Naduveerapattu,3,69
+10629,18H,Naduveerapattu TO Tambaram West,3,69
+17516,104,Tambaram West TO Redhills,3,69
+16394,S98,Thiruvanmiyur TO Taramani,3,69
+16988,95,Tambaram West TO Thiruvanmiyur,3,69
+13697,57A,Redhills TO Angadu,3,69
+12178,57A,Angadu TO Vallalar Nagar,3,69
+12179,57A,Vallalar Nagar TO Angadu,3,69
+10619,18E,Alandur TO Broadway,3,69
+10620,18E,Alandur TO Ramapuram,3,69
+10621,18E,Broadway TO Alandur,3,69
+10622,18E,Broadway TO Ramapuram,3,69
+10623,18E,Ramapuram TO Alandur,3,69
+10624,18E,Ramapuram TO Broadway,3,69
+16402,S97,Guindy Metro TO Velachery B.T,3,69
+17426,102CT,Siruchery I.T.Park TO Broadway,3,69
+15973,102P,Adyar Depot TO Perumpakkam S.C.B,3,69
+16403,S97,Guindy Metro TO K.K.Nagar,3,69
+16401,S97,K.K.Nagar TO Guindy Metro,3,69
+17088,78,Vadapalani TO M.G.R.Koyambedu,3,69
+10566,18B,Broadway TO Kotturpuram,3,69
+17098,78,K.K.Nagar TO M.G.R.Koyambedu,3,69
+17097,59,Thiruverkadu Terminus TO M.G.R.Koyambedu,3,69
+17122,62,Redhills TO Avadi B.T,3,69
+10569,18B,Kotturpuram TO Broadway,3,69
+16366,18B,Broadway TO Little Mount,3,69
+16372,18B,Little Mount TO Saidapet Depot,3,69
+16382,18B,Saidapet Depot TO Little Mount,3,69
+16400,S97,Velachery B.T TO Guindy Metro,3,69
+17095,59,Thiruverkadu TO Vallalar Nagar,3,69
+10570,18B,Little Mount TO Broadway,3,69
+17092,59,Vallalar Nagar TO Thiruverkadu,3,69
+14675,37,Vyasarpadi TO Vallalar Nagar,3,69
+15023,37,Vallalar Nagar TO Vadapalani,3,69
+16407,S95,Velachery B.T TO Thiruvanmiyur,3,69
+16408,S95,Velachery B.T TO Perungudi,3,69
+16409,S95,Thiruvanmiyur TO Velachery B.T,3,69
+16410,S95,Perungudi TO Velachery B.T,3,69
+16671,37,Vadapalani TO Vallalar Nagar,3,69
+16665,37,Shastri Bhavan TO Vallalar Nagar,3,69
+14674,37,Vallalar Nagar TO Vyasarpadi,3,69
+16425,S88A,Porur TO Nandambakkam Village,3,69
+16427,S88A,Nandambakkam TO Iyyappanthangal,3,69
+16428,S88A,Iyyappanthangal TO Nandambakkam,3,69
+18170,37,Vadapalani TO Poonamallee B.T,3,69
+11063,118T,Dhargas Nagar TO Tambaram West,3,69
+11066,118T,Tambaram West TO Dhargas Nagar,3,69
+18171,37,Poonamallee B.T TO Vadapalani,3,69
+18175,37,Poonamallee B.T TO Iyyappanthangal,3,69
+18172,37,Tondiarpet TO Poonamallee B.T,3,69
+17020,54,Iyyappanthangal TO Broadway,3,69
+16426,S88A,Nandambakkam Village TO Porur,3,69
+11261,37G,Vallalar Nagar TO Iyyappanthangal,3,69
+15322,37G,Vyasarpadi Depot TO M.K.B.Nagar,3,69
+15324,37G,Iyyappanthangal TO Vallalar Nagar,3,69
+17115,60,Anakaputhur TO Broadway,3,69
+17099,59,M.G.R.Koyambedu TO Thiruverkadu Terminus,3,69
+15325,37G,M.K.B.Nagar TO Iyyapanthangal,3,69
+15326,37G,Iyyapanthangal TO M.K.B.Nagar,3,69
+11055,118P,Maraimalai Nagar I.E. TO Tambaram West,3,69
+11061,118P,Tambaram West TO Maraimalai Nagar I.E.,3,69
+17430,102CT,Thiruvanmiyur TO Okk.Thoraipakm Sec.Colony,3,69
+2657,118P,Tambaram West Bus Stand TO Parameshwari Nagar,3,69
+2658,118P,Parameshwari Nagar TO Tambaram West Bus Stand,3,69
+18226,553K,Katrambakkam TO Poonamallee B.T,3,69
+18227,553K,Sunguvarchathiram TO Poonamallee B.T,3,69
+18228,553K,Poonamallee B.T TO Sunguvarchathiram,3,69
+18229,553K,Poonamallee B.T TO Katrambakkam,3,69
+11884,554B,Ekkattuthangal TO Sunguvarchathiram,3,69
+11887,554B,Sunguvarchathiram TO Ekkattuthangal,3,69
+16432,S87,M.G.R.Koyambedu TO K.K.Nagar,3,69
+16577,554B,Kovalam Bus Stand TO Ekkattuthangal Or Ambal Nagar,3,69
+16433,S87,K.K.Nagar TO M.G.R.Koyambedu,3,69
+16438,S86,Thyagaraya Nagar TO K.K.Nagar,3,69
+11881,553W,Saidapet West TO Sriperumbudur,3,69
+11882,553W,Sriperumbudur TO Saidapet West,3,69
+16439,S86,Ramapuram TO Thyagaraya Nagar,3,69
+16440,S86,K.K.Nagar TO Thyagaraya Nagar,3,69
+16437,S86,Thyagaraya Nagar TO Ramapuram,3,69
+17211,72,Thiyagaraya Nagar TO Thiruverkadu,3,69
+17220,72,Thiyagaraya Nagar TO Vadapalani,3,69
+11856,54V,Thyagaraya Nagar TO Veppampattu R.S,3,69
+16453,S82,Madipakkam B.T TO Alandur Metro R.S,3,69
+16454,S82,Alandur Metro R.S TO Madipakkam B.T,3,69
+11858,54V,Veppampattu R.S TO Thyagaraya Nagar,3,69
+17767,154,Todd Hunter Nagar TO Broadway,3,69
+17349,154,Saidapet TO Thiyagarayanagar Terminus,3,69
+16799,154,Thyagaraya Nagar TO Iyyappanthangal,3,69
+17186,62,Poonamallee Terminus TO Moolakadai,3,69
+17353,102K,Nandanam Ymca TO Adyar,3,69
+17356,102K,Adyar TO Nandanam Ymca,3,69
+16809,154,Poonamallee B.T TO Thyagaraya Nagar,3,69
+17358,102K,Kannagi Nagar Bus Stand TO Ezhil Nagar,3,69
+12881,89T,Kundrathur B.T TO Tambaram West,3,69
+12883,89T,Tambaram West TO Kundrathur B.T,3,69
+17361,157,Vallalar Nagar TO Vyasarpadi,3,69
+18148,153,M.G.R.Koyambedu TO Anna Nagar Roundtana,3,69
+17370,157,Redhills TO Thiruvotriyur B.T,3,69
+17372,157,Redhills TO Padiyanallur,3,69
+17173,76,M.G.R.Koyambedu TO Vadapalani,3,69
+18154,16J,Poonamallee B.T TO M.G.R.Koyambedu,3,69
+18155,16J,M.G.R.Koyambedu TO Poonamallee B.T,3,69
+18156,16J,Poonamallee B.T TO Iyyappanthangal,3,69
+11053,118N,Neelamangalam TO Tambaram West,3,69
+11054,118N,Tambaram West TO Neelamangalam,3,69
+11052,118G,Tambaram West TO Kavanoor Koot Road,3,69
+17160,76,Medavakkam Rd.Jn TO M.G.R.Koyambedu,3,69
+11047,118G,Kavanoor Koot Road TO Tambaram West,3,69
+17166,76,Vadapalani TO M.G.R.Koyambedu,3,69
+17375,102K,Kannagi Nagar TO Nandanam Ymca,3,69
+16067,3,Thiruvanmiyur TO Thiyagaraya Nagar,3,69
+18582,64K CT,Perambur B.T TO K.Kannadasan Nagar,3,69
+18583,64K CT1,K.Kannadasan Nagar TO Perambur B.T,3,69
+17373,157,Padiyanallur TO Redhills,3,69
+18584,60D,Anakaputhur TO  Broadway,3,69
+18585,60D CT,Broadway TO  Anakaputhur,3,69
+18586,60D R,Anakaputhur TO  Saidapet,3,69
+18587,60D R1,Saidapet Depot  TO  Anakaputhur,3,69
+18589,60D R3,Anakaputhur TO  Chrompet-1,3,69
+16860,102,Broadway TO Adyar Depot,3,69
+18592,60,Broadway TO Anakaputhur,3,69
+18590,60D R2,Chrompet-1 TO  Anakaputhur,3,69
+13277,S14M,Medavakkam Rd.Jn TO N.G.O.Colony,3,69
+13279,S14M,Medavakkam Rd.Jn TO Nehru Nagar,3,69
+13281,S14M,Nehru Nagar TO Medavakkam Rd.Jn,3,69
+17210,72,Vadapalani TO Thiruverkadu,3,69
+17212,72,Thiruverkadu TO Vadapalani,3,69
+18593,60 CT,Anakaputhur TO Chromepet,3,69
+13316,S2,Chromepet TO Medavakkam Jayachandran,3,69
+13319,S2,Medavakkam Jayachandran TO Chromepet,3,69
+17236,63,Villivakkam TO Ambattur I.E,3,69
+18595,66K R1,Kundrathur B.T TO Kilambakkam B.T,3,69
+8868,500P,Chengalpet TO Tambaram,3,69
+18596,66K CT,Kundrathur B.T TO Nehru Nagar,3,69
+18597,66K R,Kilambakkam B.T TO Kundrathur B.T,3,69
+18598,66K CT2,Nehru Nagar TO Kilambakkam B.T,3,69
+18599,578P,Poonamallee Bus Terminus to Elambakkam,3,69
+18600,578P,Elambakkam to Poonamallee Bus Terminus,3,69
+18601,578P,Poonamallee Bus Terminus to Sunguvarchatram,3,69
+18602,578P,Sunguvarchatram to Poonamallee Bus Terminus,3,69
+18603,578P CT,Poonamallee Bus Terminus to Sriperumbudur Bus Terminal,3,69
+18604,578P CT,Sriperumbudur Bus Terminal to Poonamallee Bus Terminus,3,69
+18606,91R CT,N.G.O.Colony TO Kilambakkam B.T,3,69
+18607,M18C CT,N.G.O.Colony TO Keelkattalai,3,69
+18605,S14M CT,N.G.O.Colony TO Medavakkam Rd.Jn,3,69
+18610,12M,Mandaveli TO Iyyappanthangal,3,69
+18612,S30Ct,K.K.Nagar TO Guindy Tvk Estate,3,69
+18613,57F CT,Broadway TO M.K.B.Nagar,3,69
+18615,57F CT2,M.K.B.Nagar TO Karanodai,3,69
+18617,57F CT1,Broadway TO  Redhills Bus Terminus,3,69
+17285,142,Secretariat TO Vinayagapuram,3,69
+17286,142,Vinayagapuram TO Perambur,3,69
+17275,121,M.G.R.Koyambedu TO Tondiarpet,3,69
+11507,500D,Chengalpet TO Durga Nagar,3,69
+11508,500D,Durga Nagar TO Chengalpet,3,69
+11509,500D,Durga Nagar TO Nehru Nagar,3,69
+11510,500D,Nehru Nagar TO Durga Nagar,3,69
+18618,57F CT4,Redhills Bus TO Broadway,3,69
+18620,57F R,Broadway TO Karanodai,3,69
+18621,57F,Karanodai TO Broadway,3,69
+13377,S4,Chromepet TO Medavakkam Jayachandran,3,69
+13378,S4,Medavakkam Jayachandran TO Chromepet,3,69
+18622,5E,M.G.R.Koyambedu TO Broadway,3,69
+18623,6,Thiruvanmiyur TO Broadway,3,69
+18624,11G,Broadway TO K.K.Nagar,3,69
+10577,104F,Madhavaram B.T TO Kilambakkam B.T,3,69
+16866,102,Broadway TO Adyar B.T,3,69
+15830,49F,Mandaveli Bus Terminus TO Guindy Bus Terminus,3,69
+16867,102,Adyar B.T TO Broadway,3,69
+18625,M88 CT1,Vadapalani Bus Stand TO Kundrathur Murugan Temple,3,69
+18626,M88 CT2,Kundrathur Murugan Temple TO Vadapalani,3,69
+11435,49F,Iyappanthangal TO Mandaveli,3,69
+11438,49F,Mandaveli TO Iyyappanthangal,3,69
+350,49F,Foreshore Estate TO Mandaveli Terminus,3,69
+15831,49F,Guindy Bus Terminus TO Mandaveli Bus Terminus,3,69
+17525,166,Pazhanthandalam TO Iyyappanthangal Bus Depot,3,69
+17519,48B,Pudur TO Ayanavaram B.T,3,69
+17524,D70,Guindy Tvk Estate TO Alandur (Depot),3,69
+17522,111,Thiruverkadu TO Tambaram West,3,69
+17526,170Tx,Vysarpadi TO M.K.B.Nagar,3,69
+17515,104,Moolakadai TO  Redhills B.S,3,69
+18627,M88 R,Kundrathur B.T TO Vadapalani,3,69
+18628,M88 R1,Vadapalani B.T TO Kundrathur Depot,3,69
+18631,95X CT1,Semmancheri B.S TO Kilambakkam B.S,3,69
+17528,166,Iyyappanthangal Bus Depot TO Pazhanthandalam,3,69
+17422,159,M.G.R.Koyambedu TO Tondiarpet,3,69
+17536,157,Redhills Bus Terminus TO Tondiarpet,3,69
+18629,95X CT,Thiruvanmiyur Bus Stand to  Semmancheri Bus Terminus,3,69
+16871,102,Semmancheri B.S TO Kelambakkam B.S,3,69
+18632,5B,Theyagaraya Nagar TO Mylapore Tank,3,69
+16098,11,Broadway TO Secretariat,3,69
+17532,S25,Valasaravakkam TO Iyyappanthangal,3,69
+17530,76,Cement Road TO M.G.R.Koyambedu,3,69
+17527,170Tx,M.K.B.Nagar TO Vyasarpadi,3,69
+17537,1C,Tollgate TO Thiruvanmiyur,3,69
+17529,18D,Broadway TO Madipakkam B.T,3,69
+16874,102,Perumpakkam S.C.B TO Broadway,3,69
+17531,18D,Madipakkam B.T TO Broadway,3,69
+17533,18D,Madipakkam B.T TO Saidapet,3,69
+16875,102,Kelambakkam TO Perumpakkam S.C.B,3,69
+18633,21EEt CT,Iyyappanthangal TO Thiruvanmiyur,3,69
+17534,76,Medavakkam Rd.Jn. TO Alandur Depot,3,69
+17535,76,Medavakkam TO Velachery,3,69
+18634,21EEt CT1,Mugalivakkam TO Thiruvanmiyur,3,69
+18635,23C CT1,Ayanavaram B.T TO Besant Nagar,3,69
+17540,166,Iyyappanthangal Bus Depot TO Tambaram Railway Station,3,69
+17538,121Ct,Madhavaram TO M.M.B.T,3,69
+17539,51,Saidapet Metro TO Kilambakkam Bus Terminus,3,69
+18638,47A,Villivakkam TO Thiruvanmiyur,3,69
+18636,19T,Thyagaraya Nagar TO Kovalam,3,69
+18639,95X R,Kilambakkam B.T TO Thiruvanmiyur,3,69
+18637,47A CT,I.C.F TO Thiruvanmiyur,3,69
+18640,40H CT,Anna Square TO Avadi B.T,3,69
+18641,40H,Anna Square TO Pattabiram,3,69
+17541,166,Tambaram Railway Station TO Iyyappanthangal Bus Depot,3,69
+17542,154,Saidapet Metro TO Kilambakkam Bus Terminus,3,69
+18645,40N,Anna Square TO J.J.Nagar East,3,69
+17508,51B,Velachery B.T To Pudupakkam Law College,3,69
+17637,114A,Redhills TO Ayanavaram B.T,3,69
+17434,159,Thiruverkadu TO Thiruvotriyur B.T,3,69
+17543,T29C,Mandaveli TO Perambur Bus Terminus,3,69
+18650,101 CT,Poonamallee TO Broadway,3,69
+18653,101 CT2,Broadway TO Poonamallee,3,69
+17544,5G,Kannagi Nagar S.C.B TO Thyagaraya Nagar,3,69
+17546,555S,Perumbakkam Scb  TO  Shozhinganallur,3,69
+17548,19 CT,Perumpakkam S.C.B TO Thiruporur,3,69
+18672,7H,Broadway TO J.J.Nagar East,3,69
+18673,7H CT,Doveton TO J.J.Nagar East,3,69
+18674,7E,Broadway TO Ambattur I.E,3,69
+18675,7E CT,Broadway TO Nolambur Sakthi Nagar,3,69
+12461,66P,Kilambakkam B.T TO Poonamallee B.T,3,69
+16835,104,Tambaram TO Redhills,3,69
+17449,159,Thiruvottiyur Bus Stand TO M.G.R.Koyambedu,3,69
+18676,7H CT1,Secretariat TO J.J.Nagar East,3,69
+18677,7K CT,Broadway TO Anna Nagar West,3,69
+18678,7K,Secretariat TO Padikuppam,3,69
+17445,102CT,Broadway TO Siruseri I.T Park,3,69
+17550,19,Thiruporur TO Thiyagaraya Nagar,3,69
+18680,D70,Velachery B.T TO Ambattur I.E,3,69
+18681,40A,Pattabiram TO Anna Square,3,69
+18682,40H CT,Avadi B.T TO Anna Square,3,69
+18683,40H,Pattabiram TO Anna Square,3,69
+18684,7M CT,J.J.Nagar West TO Doveton,3,69
+18685,7H,J.J.Nagar East TO Broadway,3,69
+18686,7H CT,J.J.Nagar East TO Doveton,3,69
+18687,7M,J.J.Nagar West TO Broadway,3,69
+17638,32A,Foreshore Estate TO Thangal Tollgate,3,69
+18688,147A CT1,Anna Nagar West TO Thyagaraya Nagar,3,69
+18690,147B  CT,Anna Nagar West TO Thyagaraya Nagar,3,69
+17552,19 CT1,Thiyagaraya Nagar TO Perumpakkam S.C.B,3,69
+17565,95X,Perumbakkam Scb  TO   Kilambakkam Bus Terminus,3,69
+18691,147B,J.J.Nagar West TO Thyagaraya Nagar,3,69
+17563,102,Perumbakkam Scb To  Siruseri It Park,3,69
+17564,102,Broadway TO Kelambakkam,3,69
+18692,147C CT2,Ambattur I.E TO Thyagaraya Nagar,3,69
+18694,147CCt,Ambattur I.E TO Thyagaraya Nagar,3,69
+18695,147V CT,Ambattur I.E TO Thyagaraya Nagar,3,69
+18696,147V,Venkatachalam Nagar TO Thyagaraya Nagar,3,69
+18697,15C,Anna Nagar West TO Broadway,3,69
+18698,34,Ambattur I.E TO Thiruvotriyur B.T,3,69
+18699,40A CT,Avadi B.T TO Anna Square,3,69
+18700,40N,Jj Nagar East TO Anna Square,3,69
+18701,47C,Ambattur O.T TO Kotturpuram,3,69
+18702,47CX,Ayappakkam TO Thyagaraya Nagar,3,69
+18703,47DCt,Korattur TO Thyagaraya Nagar,3,69
+18709,7K,Padikuppam TO Broadway,3,69
+17557,19 CT1,Perumpakkam S.C.B TO Thyagaraya Nagar,3,69
+17559,555S,Shozhinganallur TO  Perumbakkam Scb,3,69
+17641,35,Broadway TO Korattur,3,69
+18705,7E,Ambattur I.E TO Broadway,3,69
+18706,7E CT,Nolambur Sakthi Nagar TO Broadway,3,69
+18707,7H CT2,Anna Nagar West TO Broadway,3,69
+18708,7K CT,Anna Nagar West TO Broadway,3,69
+18710,7M CT1,Golden Flats TO Broadway,3,69
+18711,7M CT1,Nolambur TO Broadway,3,69
+18712,7MEt CT,Ambattur I.E TO Broadway,3,69
+18713,7MEt,Athipet I.C.F. Colony TO Broadway,3,69
+17642,S75 CT,Anna Nagar TO Lucas Tvs,3,69
+18723,6DEt,Thangal Tollgate TO Thiruvanmiyur,3,69
+16814,109,Thiruvidhanthai TO Broadway,3,69
+16786,109,Kovalam TO Broadway,3,69
+18714,A47,Avadi B.T TO Thiruvanmiyur,3,69
+18715,47D CT,Ambattur I.E TO Thiruvanmiyur,3,69
+18716,47D,Avadi B.T TO Thiruvanmiyur,3,69
+18717,29B,Saidapet TO Perambur B.T,3,69
+18718,6D CT1,Thangal Tollgate TO Foreshore Estate,3,69
+18719,6D,Thiruvanmiyur TO Thangal Tollgate,3,69
+18720,6DEt,Thiruvanmiyur TO Thangal Tollgate,3,69
+18722,6D,Thangal Tollgate TO Thiruvanmiyur,3,69
+18725,6,Broadway TO Thiruvanmiyur,3,69
+18726,72M,Thiruverkadu TO Thyagaraya Nagar,3,69
+18730,147C CT,Thiyagarayanagar To  Ambattur I.E,3,69
+18734,M27,Thyagaraya Nagar TO M.G.R.Koyambedu,3,69
+18738,29NEt CT,Saidapet TO Peravallur Kumaran Nagar,3,69
+18739,49A,Thyagaraya Nagar TO Poonamallee B.T,3,69
+18740,13,Thyagaraya Nagar TO Broadway,3,69
+18744,27B CT,M.G.R.Koyambedu TO Triplicane,3,69
+18745,27B CT1,M.G.R.KOYAMBEDU  TO  SECRETARIAT,3,69
+18746,27B CT2,M.G.R.Koyambedu TO Egmore R.S,3,69
+18747,27B CT3,M.M.D.A.Colony TO Anna Square,3,69
+18748,27B CT,Triplicane TO M.G.R.Koyambedu,3,69
+18749,27B,Anna Square TO M.G.R.Koyambedu,3,69
+16240,T29,Otteri TO T.V.K.Nagar,3,69
+16278,T29,Thiruvanmiyur TO T.V.K.Nagar,3,69
+17646,170K,Peravallur Kumaran Nagar TO Guindy Tvk Estate,3,69
+17578,MAA2 CT1,Perumbakkam Scb To  Siruseri It Park,3,69
+17649,18ACt,Cemetery Road TO Broadway,3,69
+16238,T29,T.V.K.Nagar TO Thiruvanmiyur,3,69
+16239,T29,T.V.K.Nagar TO Otteri,3,69
+17650,114D,Arani TO M.G.R.Koyambedu,3,69
+17579,MAA2 CT1,Siruseri It Park  To  Perumbakkam Scb,3,69
+17652,C64,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+17653,62B,J.J.Nagar West TO Redhills,3,69
+16087,6,Srinivasapuram TO Broadway,3,69
+16144,19,Thiyagaraya Nagar TO Adyar,3,69
+16146,19,Thiruporur TO Perumpakkam S.C.B,3,69
+17655,S1 CT,Chromepet To Chrompet 1 Depot,3,69
+17471,S56,Thiruvotriyur B.T TO Manali,3,69
+17472,S56,Manali TO Thiruvotriyur B.T,3,69
+16092,11,L.F.C TO Thiyagaraya Nagar,3,69
+16093,11,Thyagaraya Nagar TO M.G.R.Central,3,69
+16094,11,Thiyagaraya Nagar TO L.F.C,3,69
+16097,11,Secretariat TO Thiyagaraya Nagar,3,69
+17657,M88Et,Vadapalani TO Iyyappanthangal,3,69
+17656,102P,Broadway TO Adyar,3,69
+17658,6D CT,Tollgate TO Thiruvanmiyur,3,69
+17659,C64,Kaviarasu Kannadasan Nagar Bus Stand TO Vyasarpadi,3,69
+17660,C64,Vyasarpadi TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+10094,21EEt,Broadway TO Moulivakkam Bai Kadai,3,69
+10096,21EEt,Broadway TO Mugalivakkam,3,69
+16100,11,M.G.R.Central TO Thiyagaraya Nagar,3,69
+16095,11,Broadway TO L.F.C,3,69
+16099,11,Thiyagaraya Nagar TO Broadway,3,69
+10098,21EEt,Broadway TO Nandambakkam,3,69
+17586,95X,Thiruvanmiyur Bus Stand  TO  Perumbakkam Scb,3,69
+17662,597CEt,Periya Colony TO Thirunindravoor B.T,3,69
+16096,11,L.F.C TO Broadway,3,69
+17663,72 CT,Thiruverkadu TO Thiyagaraya Nagar,3,69
+17665,154,Broadway TO Saidapet,3,69
+16104,13,Triplicane TO Thiyagaraya Nagar,3,69
+17596,95X,Thiruvanmiyur Depot  TO  Kilambakkam Bus Terminus,3,69
+16105,13,Thyagaraya Nagar TO Triplicane,3,69
+16107,13,Broadway TO Thiyagaraya Nagar,3,69
+16108,13,Kannagi Statue Or Presidency College TO Thiyagaraya Nagar Terminus,3,69
+16458,S81,Chromepet TO Pozhichalur,3,69
+16457,S81,Pozhichalur TO Chromepet,3,69
+16490,S73,Thiruverkadu TO Ambattur I.E,3,69
+16491,S73,Ambattur I.E TO Thiruverkadu,3,69
+16450,S83,Alandur Metro R.S TO Gurunanak College,3,69
+16449,S83,Gurunanak College TO Alandur Metro R.S,3,69
+16444,S84,Porur TO Alandur Metro R.S,3,69
+16446,S84,Alandur Metro R.S TO Porur,3,69
+16111,15,Seva Sathan School TO M.G.R.Koyambedu,3,69
+16115,15,Broadway TO Arumbakkam,3,69
+16119,15,Maduravoyal TO Broadway,3,69
+16120,15,Broadway TO Secretariat,3,69
+16121,15,Sevasadan TO Broadway,3,69
+16124,15,M.G.R.Koyambedu TO Pghs School,3,69
+16122,15,M.G.R.Koyambedu TO Seva Sadan School,3,69
+16123,15,Pghs School TO Maduravoyal,3,69
+16132,15,Broadway TO Maduravoyal,3,69
+17616,242,Broadway To   Kaviarasu Kannadasan Nagar,3,69
+17605,102E,Siruseri To Thiruvanmiyur,3,69
+17606,102E,Thiruvanmiyur To Siruseri,3,69
+17609,102E,Siruseri To Perumbakkam,3,69
+17667,21EEt,Bai Kadai Moulivakkam TO Thiruvanmiyur Depot,3,69
+16842,S66,Pallavaram TO Kundrathur B.T,3,69
+16845,S66,Kundrathur B.T TO Pallavaram,3,69
+17183,62,Redhills TO Avadi,3,69
+17135,62,Redhills TO Ambattur I.E,3,69
+17139,62,Poonamallee B.T TO Avadi B.T,3,69
+17140,62,Poonamallee B.T TO Ambattur I.E,3,69
+17392,102K,Thiruvanmiyur TO Perumpakkam S.C.B,3,69
+17619,102,Broadway TO Perumpakkam S.C.B,3,69
+17163,S59,Thiruverkadu TO Mangadu,3,69
+17170,S59,Mangadu TO Thiruverkadu,3,69
+17185,S59,Poonamallee B.T TO Mangadu,3,69
+17189,S59,Mangadu TO Poonamallee B.T,3,69
+16243,T23C,Thiruvanmiyur TO Adyar,3,69
+16244,T23C,Adyar TO Thiruvanmiyur,3,69
+16495,S70K,Thirumangalam Metro R.S TO Korattur Water Canal,3,69
+17143,62,Moolakadai TO Redhills,3,69
+16496,S70K,Korattur Water Canal TO Thirumangalam Metro R.S,3,69
+17008,S60,M.G.R.Koyambedu TO Maduravoyal Erikarai,3,69
+17004,S60,Maduravoyal Erikarai TO M.G.R.Koyambedu,3,69
+17021,S60,M.G.R.Koyambedu TO Anna Nagar West,3,69
+17037,S60,Anna Nagar West TO M.G.R.Koyambedu,3,69
+10475,17D,K.K.Nagar TO Broadway,3,69
+17249,S58,Ambattur I.E TO Thirumullaivoyal Colony,3,69
+11071,28A,Manali New Town TO Thangal Tollgate,3,69
+13403,S53,Ambattur I.E TO Maduravoyal Erikarai,3,69
+13405,S53,Maduravoyal Erikarai TO Ambattur I.E,3,69
+13431,S55,Ambattur R.S TO Thirumullaivoyal Sidco,3,69
+13433,S55,Thirumullaivoyal Sidco TO Ambattur I.E,3,69
+17482,S55,Thirumullaivoyal Sidco TO Ambattur R.S,3,69
+16116,15,Arumbakkam TO Broadway,3,69
+17386,102K,Thiruvanmiyur TO Ezhil Nagar,3,69
+17672,119,Semmancheri S.C.B TO Guindy Tvk Estate,3,69
+16133,19,Thyagaraya Nagar TO Kannagi Nagar S.C.B,3,69
+16136,19,Kelambakkam TO Thyagaraya Nagar,3,69
+16153,19,Kannagi Nagar S.C.B TO Thiruporur,3,69
+16159,19,Kannagi Nagar TO Thiyagaraya Nagar,3,69
+15134,99A,Sholinganallur TO Kilambakkam B.T,3,69
+12466,66P,Poonamallee B.T TO Kilambakkam B.T,3,69
+16139,19,Adyar TO Thiruporur,3,69
+16140,19,Thiruporur TO Adyar,3,69
+16143,19,Thiyagaraya Nagar TO Kelambakkam,3,69
+16152,19,Kannagi Nagar S.C.B TO Thiyagaraya Nagar,3,69
+16147,19,Thiruporur TO Kannagi Nagar S.C.B,3,69
+16165,20,Villivakkam TO Broadway,3,69
+16167,20,Broadway TO Villivakkam,3,69
+16168,20,Ayanavaram TO Villivakkam,3,69
+15095,29E,Otteri TO Perambur B.T,3,69
+14565,55H,Keerappakam Tnuhdb TO Chennai Airport Metro,3,69
+15101,29C,Mandaveli TO Perambur B.T,3,69
+14566,55H,Keerappakkam Tnuhdb TO Kilambakkam Depot,3,69
+329,40L,Mandaveli TO Anna Square,3,69
+361,S17,Mandaveli Terminus TO Guindy Rs,3,69
+351,49F,Mandaveli Terminus TO Foreshore Estate,3,69
+16166,20,Villivakkam TO Ayanavaram,3,69
+14567,55H,Kilambakkam Depot TO Keerappakam Tnuhdb,3,69
+362,S17,Guindy Rs TO Mandaveli Terminus,3,69
+363,S17,Guindy Rs TO Adyar Gandhi Nagar,3,69
+15886,70F,Madhavaram Depot TO Kilambakkam Bus Terminus,3,69
+15889,57M,Padiyanallur Depot TO Redhills Bus Terminus,3,69
+10712,19BEt,Thyagaraya Nagar TO Thaiyur Koman Nagar,3,69
+10510,26M,Iyyappanthangal TO Mugalivakkam,3,69
+11985,558C,Ponneri TO Redhills,3,69
+500,104C,Guduvanchery TO Koyambedu,3,69
+15888,121Ct,M.M.B.T TO Madhavaram Depot,3,69
+12362,591,Poonamallee B.T TO Perambakkam,3,69
+10715,19C,Adyar B.T TO Okk.Thoraipakm Sec.Colony,3,69
+12361,591,Poonamallee B.T TO Om Mangalam Village,3,69
+10514,188K,Iyyappanthangal TO Katrambakkam,3,69
+15891,120A,Avadi Bus Terminus TO Ambattur Industrial Estate,3,69
+13335,S30Ct,Guindy Tvk Estate TO K.K.Nagar,3,69
+16171,21,Mandaveli TO Broadway,3,69
+13334,S30Ct,Guindy Tvk Estate TO Guindy G.H,3,69
+12364,591C,Poonamallee B.T TO Perambakkam L.N.Koil,3,69
+16309,18ACt,Saidapet TO Broadway,3,69
+16310,18ACt,Saidapet TO Tambaram West B.S,3,69
+16311,18ACt,Tambaram West B.S TO Broadway,3,69
+15100,29CEt,Periyar Nagar TO Otteri,3,69
+15894,202X,Tambaram West Bus Stand TO Avadi Bus Terminus,3,69
+17411,159,Tondiarpet TO Thiruvottiyur Bus Stand,3,69
+15104,29C,Sterling Road TO Perambur B.T,3,69
+10518,26R,Vadapalani TO Broadway,3,69
+11478,48B,Vallalar Nagar TO Pudur,3,69
+10519,104A,Avadi B.T TO M.G.R.Koyambedu,3,69
+16180,21,Broadway TO Mandaveli,3,69
+16313,S22,Kovur TO Iyyappanthangal,3,69
+15904,57X,M.K.B.Nagar TO Vyasarpadi (Depot),3,69
+17623,159,M.G.R.Koyambedu TO Thiruvottiyur,3,69
+14733,170Tx,Kaviarasu Kannadasan Nagar Bus Stand TO Vyasarpadi,3,69
+12765,77M,Koyambedu Market TO Madanakuppam,3,69
+12958,B70Ct,Guindy Tvk Estate TO Devik Eswari Nagar,3,69
+12390,60H,Hasthinapuram TO Guduvanchery,3,69
+16172,21,M.G.R.Central TO Thiruvanmiyur,3,69
+16173,21,Thiruvanmiyur TO M.G.R.Central,3,69
+16179,21,Guindy Tvk Estate TO Broadway,3,69
+10999,120A,Avadi B.T TO Arakkambakkam,3,69
+16174,21,Foreshore Estate TO Broadway,3,69
+16177,21,Mandaveli TO M.G.R.Central,3,69
+16178,21,M.G.R.Central TO Foreshore Estate,3,69
+16181,21,Broadway TO Guindy Tvk Estate,3,69
+15957,597A,Iyyappanthangal Bus Depot TO Thiruvallur Terminal,3,69
+17624,597A,Thiruvallur TO Poonamallee,3,69
+2871,56P,Minjur Bus Terminus TO Broadway,3,69
+16841,104,Tambaram West TO Ambattur I.E,3,69
+16846,104,Ambattur I.E TO Tambaram West,3,69
+11216,33C,K.Kannadasan Nagar TO Broadway,3,69
+10390,102P,Alwarpet TO Perumpakkam S.C.B,3,69
+15105,29B,Gemini TO Perambur B.T,3,69
+10393,102P,Perumpakkam S.C.B TO Greams Road,3,69
+15012,51A,Thiyagarayanagar Terminus TO Saidapet Depot,3,69
+17517,104,Redhills TO Tambaram,3,69
+10528,26R,Broadway TO Vadapalani,3,69
+11691,51X,Kilambakkam B.T TO Velachery B.T,3,69
+11692,51X,Medavakkam Rd.Jn TO Kilambakkam B.T,3,69
+11693,51X,N.G.O.Colony TO Velachery B.T,3,69
+11694,51X,Tambaram West TO Kilambakkam B.T,3,69
+14466,102P,Perumbakkam Scb TO Kannagi Nagar B.S,3,69
+16199,V51,Nehru Nagar TO Kilambakkam,3,69
+16190,V51,Chromepet TO Thiyagaraya Nagar,3,69
+16198,V51,Nehru Nagar TO Thiyagarayanagar Terminus,3,69
+16201,V51,Kilambakkam TO Nehru Nagar,3,69
+16203,V51,Thiyagaraya Nagar TO Chromepet,3,69
+16204,V51,Chromepet TO Kilambakkam,3,69
+15936,7K,Broadway TO Secretariat,3,69
+15874,15C,M.G.R.Koyambedu TO Broadway,3,69
+10154,147B,J.J.Nagar West TO Anna Nagar West,3,69
+12806,77P,M.G.R.Koyambedu TO Poochiathipedu,3,69
+15209,95X,Kilambakkam B.S TO Semmancheri B.S,3,69
+17595,95X,Perumbakkam Scb TO  Thiruvanmiyur Depot,3,69
+17594,95X,Kilambakkam Bus Terminus TO Perumbakkam Scb,3,69
+17404,102K,Okk.Thoraipakm Sec.Colony TO Broadway,3,69
+13361,S50,Avadi B.T TO Poonamallee B.T,3,69
+16378,SM1Ct,Thiruvanmiyur TO Keelkattalai,3,69
+16206,V51,Thiyagaraya Nagar TO Kilambakkam,3,69
+16210,V51,Kilambakkam Bus Terminus TO Thiyagaraya Nagar,3,69
+16211,V51,Thiyagaraya Nagar TO Tambaram West,3,69
+16212,V51,Tambaram West TO Thiyagaraya Nagar,3,69
+16221,T29C,Periyar Nagar TO Velachery B.T,3,69
+16230,T29C,Velachery TO Perambur Bus Terminus,3,69
+16609,120,Ayanavaram B.T TO Broadway,3,69
+16611,120,Avadi B.T TO Ayanavaram B.T,3,69
+16607,120,Broadway TO Ayanavaram B.T,3,69
+16608,120,Broadway TO Avadi B.T,3,69
+16610,120,Avadi B.T TO Broadway,3,69
+16222,T29C,Periyar Nagar TO Otteri,3,69
+10982,120F,Oragadam TO Ambattur I.E,3,69
+12672,71H,Kamaraj Nagar TO Ambattur I.E,3,69
+16631,35,Secretariat TO Korattur,3,69
+16223,T29C,Perambur B.T TO Sterling Road,3,69
+16633,35,Korattur TO Broadway,3,69
+12467,66P,Poonamallee B.T TO Tambaram West,3,69
+11559,519T,Adyar B.T TO Thaiyur Koman Nagar,3,69
+11561,519T,Thaiyur Koman Nagar TO Adyar B.T,3,69
+16658,118,Tambaram West Bus Stand TO Neelamangalam,3,69
+16654,118,Mahendra City TO Tambaram West,3,69
+16656,118,Keerapakkam TO Tambaram West,3,69
+16664,118,Neelamangalam TO Tambaram West Bus Stand,3,69
+16666,118,Tambaram West TO Maraimalai Nagar I.E.,3,69
+14787,19A,Semmancheri B.S TO Adyar B.S,3,69
+14788,19A,Thiyagarayanagar TO Adyar B.S,3,69
+16668,118,Maraimalai Nagar I.E. TO Tambaram West,3,69
+16683,159K,Kargil Nagar TO M.G.R.Koyambedu,3,69
+16677,154,Thiyagarayanagar Terminus TO Saidapet Depot,3,69
+12379,593Ct,Padiyanallur TO Redhills,3,69
+11422,47A,Villivakkam TO Ayanavaram B.T,3,69
+16679,7H,Broadway TO Mogappair,3,69
+14440,47A,Ayanavaram Signal TO Icf Junction,3,69
+14441,47A,Thyagaraya Nagar TO Icf,3,69
+16698,42,Periyar Nagar TO Broadway,3,69
+12631,71E,Ambattur I.E TO Broadway,3,69
+12660,71E,Thirunindravoor TO Ambattur I.E,3,69
+16225,T29C,Thiruvanmiyur TO Periyar Nagar,3,69
+10537,18A,Cement Road TO Broadway,3,69
+16719,113,Redhills TO Moolakadai,3,69
+16721,113,Redhills TO M.G.R.Koyambedu,3,69
+16725,113,Moolakadai TO Redhills,3,69
+16724,44,Broadway TO Tondiarpet,3,69
+15937,15G,Broadway TO Anna Nagar East,3,69
+14378,15G,M.G.R.Koyambedu TO Anna Nagar West,3,69
+14379,15G,Anna Nagar West TO M.G.R.Koyambedu,3,69
+12636,71E,Ambattur I.E TO Thirunindravoor,3,69
+12635,153A,Thiruvallur TO M.G.R.Koyambedu,3,69
+12634,153A,Poonamallee B.T TO Thiruvallur,3,69
+12769,77M,M.G.R.Koyambedu TO Madanakuppam,3,69
+12639,153A,Thiruvallur TO Poonamallee B.T,3,69
+12406,61C,Avadi B.T TO Crpf Co Op Shop,3,69
+12644,71E,Avadi B.T TO Thirunindravoor,3,69
+12632,70A,Avadi B.T TO Ambattur I.E,3,69
+11253,37ECt,Vadapalani TO M.G.R.Koyambedu,3,69
+11251,37ECt,M.G.R.Koyambedu TO M.K.B.Nagar,3,69
+11017,114P,Anna Nagar West TO Redhills,3,69
+10539,18A,Kilambakkam B.T TO Broadway,3,69
+2875,597A,Poonamallee Terminus TO Thiruvallur Terminal,3,69
+15940,S79,Alandur Gandhi Market TO Cement Road,3,69
+15941,S79,Cement Road TO Pallavaram R.S,3,69
+15944,S79,Alandur Gandhi Market TO Pallavaram R.S,3,69
+15945,S79,Pallavaram R.S TO Alandur Gandhi Market,3,69
+15963,18RM,Broadway TO Medavakkam Bus Terminus,3,69
+15965,18RM,Medavakkam Bus Terminus TO Broadway,3,69
+16776,109,Kovalam TO Adyar B.T,3,69
+15932,104CX,Anna Nagar West Depot TO M.G.R.Koyambedu,3,69
+16774,109,Adyar B.T TO Kovalam,3,69
+16775,109,Broadway TO Thiruvidanthai,3,69
+3478,104CX,Tambaram West Bus Stand TO Guduvancheri Bus Terminus,3,69
+3480,104CX,Guduvancheri Bus Terminus TO Tambaram West Bus Stand,3,69
+10555,104CX,Guduvanchery TO M.G.R.Koyambedu,3,69
+16769,111,K.K.Nagar TO Tambaram West,3,69
+16785,109,Kovalam TO Thiruvanmiyur,3,69
+16788,109,Broadway TO Kovalam,3,69
+16787,109,Kovalam TO Besant Nagar,3,69
+16795,154,Thyagaraya Nagar TO Poonamallee B.T,3,69
+12646,70ACt,Ambattur I.E TO Senthil Nagar,3,69
+10557,104CX,M.G.R.Koyambedu TO Guduvanchery,3,69
+10846,111Et,Thiruverkadu TO Kilambakkam B.T,3,69
+15933,104CX,M.G.R.Koyambedu TO Anna Nagar West,3,69
+11021,114P,M.G.R.Koyambedu TO Redhills,3,69
+16813,154,Kilambakkam B.T TO Thyagaraya Nagar,3,69
+16820,105,Tambaram West TO Siruseri I.T Park,3,69
+12984,95XCt,Kilambakkam B.T TO Perumpakkam S.C.B,3,69
+16821,105,Siruseri I.T Park TO Tambaram West,3,69
+16815,154,Iyyappanthangal TO Poonamallee B.T,3,69
+16817,154,Poonamallee TO Porur,3,69
+12986,95XCt,Kilambakkam B.T TO Sholinganallur,3,69
+12988,95XCt,Nehru Nagar TO Kilambakkam B.T,3,69
+10554,18ACt,Kilambakkam B.T TO K.K.Nagar,3,69
+16591,113A,Guindy B.S TO Teachers Colony,3,69
+15931,109T,Broadway TO Thiruvottiuyur B.S,3,69
+15926,45B,Alandur (Depot) TO Guindy Tvk Estate,3,69
+16192,V51,Kilambakkam TO Chromepet,3,69
+10431,16K,M.G.R.Koyambedu TO Kundrathur,3,69
+10432,16K,Kundrathur TO M.G.R.Koyambedu Kundrathur B.T TO M.G.R.Koyambedu,3,69
+10543,18A,Tambaram West TO Cement Road,3,69
+12409,61C,Crpf Co Op Shop TO Avadi B.T,3,69
+16025,PP21,Kilambakkam TO Broadway,3,69
+16037,PP21,Adyar Depot TO Broadway,3,69
+16042,PP21,Kk Nagar TO Guindy,3,69
+16049,PP21,Guindy TO Broadway,3,69
+16041,PP21,Guindy TO Kk Nagar,3,69
+16044,PP21,Kilambakkam TO Guindy,3,69
+16024,PP21,Broadway TO Kilambakkam,3,69
+16033,PP21,Broadway TO Guindy,3,69
+16843,104,Redhills TO Ambattur I.E,3,69
+16036,PP21,Broadway TO Adyar Depot,3,69
+10922,121D,M.G.R.Koyambedu TO Manali New Town,3,69
+14617,121D,Annanagar East TO M.G.R.Koyambedu,3,69
+14618,121D,Manali New Town TO Moolakadai Market,3,69
+15938,15G,Anna Nagar East TO Broadway,3,69
+12415,597A,Thiruvallur TO Poonamallee B.T,3,69
+10547,18A,Tambaram West TO Saidapet,3,69
+10433,16K,M.G.R.Koyambedu TO Kundrathur B.T,3,69
+2655,S3X,Chromepet Esi TO Noothancheri Cross Road,3,69
+15934,70C,Tambaram Railway Stationt TO Koyambedu Market Or Police Station,3,69
+14619,121D,Moolakadai TO Manali New Town,3,69
+10732,109C,Adyar Depot TO Kovalam,3,69
+10924,121D,M.G.R.Koyambedu TO Thangal Tollgate,3,69
+10925,121D,Manali New Town TO M.G.R.Koyambedu,3,69
+10929,121D,Thangal Tollgate TO Manali New Town,3,69
+3180,70G,Tambaram West Bus Stand TO Vadapalani Bus Stand,3,69
+14616,121D,M.G.R.Koyambedu TO Annanagar East,3,69
+16068,4,Egmore TO Ennore,3,69
+16069,4,Ennore TO Secretariat,3,69
+16070,4,Secretariat TO Ennore,3,69
+16071,4,Broadway TO Secretariat,3,69
+16079,4,Ennore TO M.G.R.Central,3,69
+16080,4,Ennore TO Vallalar Nagar,3,69
+16072,4,Secretariat TO Broadway,3,69
+16073,4,Tollgate TO Ennore,3,69
+16078,4,Ennore TO Egmore,3,69
+16077,4,Ennore TO Tollgate,3,69
+3215,91V,Tambaram West Bus Stand TO Guduvancheri Bus Terminus,3,69
+12430,61K,Avadi B.T TO Veerapuram Govt School,3,69
+11313,3Ct,Tidel Park TO Guindy R.S,3,69
+3216,91V,Thiruvanmiyur Bus Stand TO Tambaram West Bus Stand,3,69
+16081,4,Vallalar Nagar TO Ennore,3,69
+11315,3Ct,Tidel Park TO Thyagaraya Nagar,3,69
+15124,21G,Kilambakkam B.S TO Mandaveli,3,69
+12199,57G,Vazhuthigaimedu TO Redhills,3,69
+12196,57G,Moolakadai TO Vazhuthigaimedu,3,69
+12197,57G,Redhills TO Vazhuthigaimedu,3,69
+12198,57G,Vazhuthigaimedu TO Moolakadai,3,69
+13303,S18K,M.G.R.Central TO Saidapet West Parsn Nagar,3,69
+13305,S18K,Saidapet West Parsn Nagar TO M.G.R.Central,3,69
+16883,102,Broadway TO Kannagi Nagar S.C.B,3,69
+10873,12B,Foreshore Estate TO Vadapalani,3,69
+10875,12B,Luz TO Vadapalani,3,69
+13720,12B,Vadapalani TO Foreshore Estate,3,69
+3492,95X,Shozhanganallur TO Kilambakkam Bus Terminus,3,69
+10990,120Ct,Avadi B.T TO Broadway,3,69
+11592,514,Periyapalayam TO M.G.R.Koyambedu,3,69
+12434,61R,Avadi B.T TO Redhills,3,69
+16464,S80,Tambaram Sanatorium TO Thendral Nagar,3,69
+16463,S80,Thendral Nagar TO Tambaram Sanatorium,3,69
+15950,7M,Broadway TO Nolambur Sakthinagar Bus Stop,3,69
+15952,7H,Broadway TO Secretariat,3,69
+10993,120Ct,Venkatachalam Nagar TO Broadway,3,69
+13362,S50,Poonamallee B.T TO Avadi B.T,3,69
+17436,102CT,Siruseri I.T Park TO Tidel Park,3,69
+17440,102CT,Perumpakkam S.C.B TO Broadway,3,69
+15823,18RX,Keelkattalai TO Broadway,3,69
+15075,18RX,Cement Road TO Broadway,3,69
+15071,18RX,Broadway TO Cement Road,3,69
+15222,C64,Kaviarasu Kannadasan Nagar Bus Stand TO Kannadasan Nagar,3,69
+13268,S167,Pallavaram TO Pattur,3,69
+13266,S167,Iyyappanthangal TO Pattur,3,69
+13270,S167,Pattur TO Iyyappanthangal,3,69
+13273,S167,Pattur TO Pallavaram,3,69
+13935,56ACt,Ennore TO Thangal Tollgate,3,69
+10561,104F,Ambattur I.E TO Kilambakkam B.T,3,69
+13333,S44,Otteri TO Perambur B.T,3,69
+9862,S44,Perambur Bus Terminus TO Otteri Police Station,3,69
+13336,S44,Perambur B.T TO Villivakkam,3,69
+13338,S44,Villivakkam TO Perambur B.T,3,69
+15959,102P,Adyar B.S TO Broadway B.S,3,69
+16965,S62,Moolakadai TO Manali,3,69
+16957,S62,Perambur B.T TO Manali,3,69
+16983,S62,Manali TO Moolakadai,3,69
+16970,S62,Manali TO Perambur B.T,3,69
+9378,570P,M.G.R.Koyambedu TO Thiruporur,3,69
+9377,570P,Anna Nagar West TO M.G.R.Koyambedu,3,69
+16064,111Et,M.G.R.Koyambedu TO K.K.Nagar,3,69
+16065,111Et,K.K.Nagar TO Kilambakkam B.T,3,69
+10842,111Et,Kilambakkam B.T TO M.G.R.Koyambedu,3,69
+10843,111Et,Kilambakkam B.T TO Thiruverkadu,3,69
+10845,111Et,M.G.R.Koyambedu TO Kilambakkam B.T,3,69
+13048,C56CEt,Broadway TO Air Nagar,3,69
+14656,C56CEt,Air Nagar TO Ennore B.S,3,69
+14657,C56CEt,Ennore B.S TO Air Nagar,3,69
+13046,C56CEt,Air Nagar TO Thiruvotriyur B.T,3,69
+13150,M88Et,Iyyappanthangal TO Nandambakkam Village,3,69
+13151,M88Et,Nandambakkam Village TO Vadapalani,3,69
+13155,M88Et,Vadapalani TO Nandambakkam Village,3,69
+11906,55Et,Mannivakkam K.K.Nagar TO Tambaram West,3,69
+11907,55Et,Mannivakkam Rd.Jn. TO Tambaram West,3,69
+9379,570P,M.G.R.Koyambedu TO Anna Nagar West,3,69
+9381,570P,Thiruporur TO M.G.R.Koyambedu,3,69
+11908,55Et,Tambaram West TO Mannivakkam K.K.Nagar,3,69
+11909,55Et,Tambaram West TO Mannivakkam Rd.Jn.,3,69
+12100,570P,Kelambakkam TO M.G.R.Koyambedu,3,69
+12101,570P,Kelambakkam TO Perumpakkam S.C.B,3,69
+12102,570P,M.G.R.Koyambedu TO Kelambakkam,3,69
+12103,570P,M.G.R.Koyambedu TO Perumpakkam S.C.B,3,69
+12104,570P,Perumpakkam S.C.B TO M.G.R.Koyambedu,3,69
+13946,56DEt,Thangal Tollgate TO Broadway,3,69
+16535,56DEt,Mathur M.M.D.A. TO Tondiarpet,3,69
+13944,56DEt,Broadway TO Mathur Bus Stand,3,69
+13945,56DEt,Mathur Bus Stand TO Broadway,3,69
+16534,56DEt,Broadway TO Thangal Tollgate,3,69
+10111,21EEt,Nandambakkam TO Broadway,3,69
+16513,21EEt,Broadway TO Iyyappanthangal,3,69
+15729,21EEt,Iyyappanthangal TO Broadway,3,69
+10114,21EEt,Thiruvanmiyur TO Iyyappanthangal,3,69
+15923,M52Et,Pallavaram TO Chrompet-1 Depot,3,69
+8750,583,Tambaram  New B.S TO Sriperumbudur B.S,3,69
+16197,V51,Thiyagaraya Nagar TO Nehru Nagar,3,69
+16187,V51,Thiyagaraya Nagar TO Saidapet,3,69
+5527,M52Et,Kayarambedu TO Pozhichalur,3,69
+13211,M52Et,Chromepet TO Pozhichalur,3,69
+11850,556,Kattupalli TO Ponneri,3,69
+11861,556,Pazhaverkadu TO Ponneri,3,69
+11863,556,Ponneri TO Kattupalli,3,69
+11866,556,Ponneri TO Pazhaverkadu,3,69
+11867,556,Ponneri TO Thiruvotriyur B.T,3,69
+11878,556,Thiruvotriyur B.T TO Ponneri,3,69
+14652,556,Ponneri B.S TO Thangal Tollgate,3,69
+14655,556,Thangal Tollgate TO Ponneri B.S,3,69
+10299,154B,Nanganallur TO Poonamallee B.T,3,69
+15807,26G,Ramapuram TO Broadway,3,69
+15806,26G,Broadway TO Ramapuram,3,69
+9466,114A,M.G.R.Koyambedu TO Ayanavaram,3,69
+10884,114A,Ayanavaram B.T TO Redhills,3,69
+9469,114A,Redhills TO M.G.R.Koyambedu,3,69
+13212,M52Et,Guduvanchery TO Chromepet,3,69
+13214,M52Et,Guduvanchery TO Pozhichalur,3,69
+3206,M52Et,Pozhichalur TO Kayarambedu,3,69
+14485,M52Et,Guduvanchery TO Pallavaram,3,69
+13216,M52Et,Pallavaram TO Pozhichalur,3,69
+13218,M52Et,Pozhichalur TO Guduvanchery,3,69
+13219,M52Et,Pozhichalur TO Pallavaram,3,69
+13353,S5,Fort Station TO Secretariat,3,69
+13359,S5,Secretariat TO Fort Station,3,69
+13360,S5,Secretariat TO M.G.R.Central,3,69
+16281,S5,Chinthathripet TO Fort Station,3,69
+2746,M52Et,Pozhichalur TO Guduvancheri Bus Terminus,3,69
+13057,D51Et,Saidapet TO Chithalapakkam Tnhb,3,69
+13352,S5,Fort Station TO M.G.R.Central,3,69
+13354,S5,M.G.R.Central TO Chindatharipet,3,69
+13355,S5,M.G.R.Central TO Fort Station,3,69
+13356,S5,M.G.R.Central TO Mandaveli,3,69
+13357,S5,M.G.R.Central TO Secretariat,3,69
+13358,S5,Mandaveli TO M.G.R.Central,3,69
+13351,S5,Chindatharipet TO M.G.R.Central,3,69
+12000,558L,Minjur TO M.G.R.Koyambedu,3,69
+12003,558L,Redhills TO M.G.R.Koyambedu,3,69
+11996,558L,M.G.R.Koyambedu TO Minjur,3,69
+11998,558L,M.G.R.Koyambedu TO Redhills,3,69
+13207,M60,Thyagaraya Nagar TO N.Bakkam Kalaignar Nagar,3,69
+13200,M60,Iyyappanthangal TO N.Bakkam Kalaignar Nagar,3,69
+13202,M60,N.Bakkam Kalaignar Nagar TO Iyyappanthangal,3,69
+13203,M60,N.Bakkam Kalaignar Nagar TO Thyagaraya Nagar,3,69
+16486,S74,Keelkattalai TO Pallavaram,3,69
+16484,S74,Kilkattalai TO Cement Road,3,69
+16485,S74,Pallavaram TO Keelkattalai,3,69
+11811,54K,Nemam TO Saidapet,3,69
+11814,54K,Saidapet TO Nemam,3,69
+11332,40A,Pattabiram TO Avadi B.T,3,69
+10392,266,Avadi B.T TO Tambaram West,3,69
+10394,266,Tambaram West TO Avadi B.T,3,69
+11893,55D,Keerapakkam TO Tambaram West,3,69
+11894,55D,Nallambakkam TO Tambaram West,3,69
+11895,55D,Tambaram West TO Kandigai,3,69
+11896,55D,Tambaram West TO Keerapakkam,3,69
+11897,55D,Tambaram West TO Nallambakkam,3,69
+574,51,Tambaram TO Velachery,3,69
+13052,D51Et,Broadway TO Chithalapakkam Tnhb,3,69
+13054,D51Et,Chithalapakkam Tnhb TO Broadway,3,69
+16418,S90,Mannivakkam TO Tambaram West,3,69
+16420,S90,Tambaram West B.S TO Gundumedu,3,69
+16421,S90,Gundumedu TO Tambaram West B.S,3,69
+16419,S90,Tambaram West TO Mannivakkam,3,69
+15793,66M,Tambaram West TO Malayambakkam,3,69
+15792,66M,Malayambakkam TO Tambaram West,3,69
+14185,66M,Kundrathur B.S TO Malayambakkam,3,69
+14186,66M,Malayambakkam TO Kundrathur B.S,3,69
+17485,66M,Tambaram West TO Kundrathur B.S,3,69
+11920,55M,Melkottaiyur TO Tambaram West,3,69
+11921,55M,Tambaram West TO Melkottaiyur,3,69
+10783,202A,Tambaram West TO Avadi B.T,3,69
+10782,202A,Avadi B.T TO Tambaram West,3,69
+13055,D51Et,Chithalapakkam Tnhb TO Saidapet,3,69
+15221,C33,Kaviarasu Kannadasan Nagar Bus Stand TO Kannadasan Nagar,3,69
+14837,C33,Vyasarpadi TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+14839,C33,Kaviarasu Kannadasan Nagar Bus Stand TO Vyasarpadi,3,69
+14840,C33,Kannadasan Nagar TO Vyasarpadi,3,69
+14729,2B,Kannadasan Nagar TO Kaviarasu Kannadasan Nagar Bus Stand,3,69
+14926,164E,Perambur Bus Terminus TO Manali Bus Terminus,3,69
+14927,164E,Manali Bus Terminus TO Perambur Bus Terminus,3,69
+15502,164E,Vyasarpadi TO Perambur Bus Terminus,3,69
+15503,164E,Perambur Bus Terminus TO Vyasarpadi,3,69
+14413,70CCt,Kilambakkam B.S TO Ramapuram,3,69
+14414,70CCt,Ramapuram TO Kilambakkam B.S,3,69
+17511,51B,Karanai TO Saidapet,3,69
+14417,70CCt,Ramapuram TO K.K.Nagar  B.S,3,69
+14418,70CCt,K.K.Nagar B.S TO Ramapuram,3,69
+15798,66PX,Poonamallee B.S TO Guduvancheri B.S,3,69
+15796,11M,Broadway TO Iyyappanthangal  B.S,3,69
+15797,11M,Iyyappanthangal  B.S TO Broadway,3,69
+8029,A1Et,Okk.Thoraipakm Sec.Colony TO Thiruvanmiyur Bus Stand,3,69
+14211,11M,Iyyappanthangal B.S TO Panagal Park,3,69
+14212,11M,Iyyappanthangal B.S TO Thiyagarayanagar  B.S,3,69
+14213,11M,Panagal Park TO Broadway,3,69
+14214,11M,Panagal Park TO Iyyappanthangal  B.S,3,69
+14215,11M,Thiyagarayanagar B.S TO Broadway,3,69
+14216,11M,Thiyagarayanagar B.S TO Iyyappanthangal B.S,3,69
+14217,11M,Broadway TO K.K.Nagar B.S,3,69
+14218,11M,K.K.Nagar B.S TO Iyyappanthangal B.S,3,69
+8031,A1Et,Thiruvanmiyur TO Okk.Thoraipakm Sec.Colony,3,69
+13016,A1Et,Okk.Thoraipakm Sec.Colony TO M.G.R.Central,3,69
+15784,S23,Iyyappanthangal TO Porur,3,69
+15785,S23,Porur TO Iyyappanthangal,3,69
+16818,S67,M.M.B.T TO Ambattur O.T Bus Stand,3,69
+13014,A1Et,M.G.R.Central TO Okk.Thoraipakm Sec.Colony,3,69
+12940,88KEt,Broadway TO Nallur,3,69
+12941,88KEt,Kundrathur B.T TO Nallur,3,69
+12943,88KEt,Nallur TO Broadway,3,69
+12945,88KEt,Nallur TO Kundrathur B.T,3,69
+14578,19BEt,Thiruporur B.S TO Thiyagarayanagar Terminus,3,69
+14579,19BEt,Thiyagarayanagar Terminus TO Thiruporur B.S,3,69
+16406,578PC,Kelambakkam TO Poonamallee,3,69
+16423,578PC,Poonamallee TO Kelambakkam,3,69
+16371,578PC,Poonamallee TO Sunguvarchatram,3,69
+16370,578PC,Sunguvarchatram TO Poonamallee,3,69
+12864,89A,Iyyappanthangal TO Somangalam,3,69
+12871,89A,Somangalam TO Iyyappanthangal,3,69
+12873,89A,Somangalam TO Porur,3,69
+10233,242,Perambur B.T TO Broadway,3,69
+11328,40A,Avadi B.T TO Pattabiram,3,69
+13323,S27,Guindy R.S TO Porur,3,69
+10865,S27,Iyyappanthangal TO Guindy  Race Course,3,69
+9782,166K,Iyyappanthangal TO Kilambakkam B.S,3,69
+12147,578PCt,Poonamallee B.T TO Sunguvarchathiram,3,69
+12148,578PCt,Sunguvarchathiram TO Poonamallee B.T,3,69
+15892,170CE,Manali Bus Terminus TO Moolakadai,3,69
+10458,170CE,Moolakadai TO Manali,3,69
+13383,S51,Ambattur I.E TO Nolambur Sakthi Nagar,3,69
+13386,S51,M.G.R.Koyambedu TO Nolambur Sakthi Nagar,3,69
+13391,S51,Nolambur Sakthi Nagar TO Ambattur I.E,3,69
+13392,S51,Nolambur Sakthi Nagar TO M.G.R.Koyambedu,3,69
+5755,S54TC,Chembarambakkam TO Porur,3,69
+15554,S54TC,Poonamallee Terminus TO Chembarambakkam,3,69
+15555,S54TC,Porur TO Chembarambakkam,3,69
+15553,S54TC,Chembarambakkam TO Poonamallee Terminus,3,69
+15896,580M,Thiruninravur TO Malanthur,3,69
+15897,580M,Malanthur TO Thiruninravur,3,69
+12526,65H,Redhills TO Avadi B.T,3,69
+12531,65G,Thamaraipakkam Rd.Jn TO Meyyur,3,69
+17072,S6,Vengambakkam / V.Rd Jn TO Tambaram West,3,69
+17077,S6,Tambaram West TO Vengambakkam / V.Rd Jn,3,69
+16791,49,Mugalivakkam TO Broadway,3,69
+873,S75,Padi Lucas Tvs TO Ambattur Ot Bus Stand,3,69
+16470,S75,Ambattur O.T TO Padi Lucas T.V.S,3,69
+16468,S75,Padi Lucas Tvs TO Ambattur Industrial Estate Depot,3,69
+16474,S75,Ambattur I.E TO Padi Lucas T.V.S,3,69
+16477,S75,Ambattur O.T TO Ambattur I.E,3,69
+16469,S75,Ambattur Industrial Estate Depot TO Padi Lucas Tvs,3,69
+16473,S75,Padi Lucas T.V.S TO Ambattur O.T,3,69
+16476,S75,Patravakkam R.S TO Padi Lucas T.V.S,3,69
+16475,S75,Padi Lucas T.V.S TO Patravakkam R.S,3,69
+13347,S47M,Avadi B.T TO C.R.P.F,3,69
+16316,S47M,C.R.P.F TO Avadi B.T,3,69
+13393,S42,Korattur TO Maduravoyal Market,3,69
+13394,S42,Maduravoyal Market TO Korattur,3,69
+13395,S42,Korattur TO Ambattur I.E,3,69
+13397,S42,Ambattur I.E TO Korattur,3,69
+13326,S28,Iyyappanthangal TO M.G.R.Koyambedu,3,69
+13328,S28,M.G.R.Koyambedu TO Iyyappanthangal,3,69
+13306,S25A,Iyyappanthangal TO Maduravoyal Erikarai,3,69
+13308,S25A,Maduravoyal Erikarai TO Iyyappanthangal,3,69
+13327,S21C,M.G.R.Central TO Mylapore Tank,3,69
+13329,S21C,Mylapore Tank TO M.G.R.Central,3,69
+15342,S21C,Dms TO Murugan Idly Shop,3,69
+15343,S21C,Thyagaraya Nagar TO Dms,3,69
+13248,S100,Tambaram East TO Airport Metro,3,69
+13242,S100,Airport Metro TO Nehru Nagar,3,69
+13245,S100,Airport Metro TO Tambaram East,3,69
+13246,S100,Nehru Nagar TO Airport Metro,3,69
+13255,S12,Cement Road TO Guindy R.S,3,69
+13257,S12,Guindy R.S TO Cement Road,3,69
+13260,S12,N.G.O.Colony TO Velachery R.S,3,69
+13261,S12,Velachery R.S TO Guindy R.S,3,69
+13262,S12,Velachery R.S TO N.G.O.Colony,3,69
+15805,S12,Guindy R.S TO Velachery R.S,3,69
+3421,S12,Guindy Railway Station TO Velachery Railway Station,3,69
+3423,S12,Velachery Railway Station TO Guindy Railway Station,3,69
+13269,S13,Velachery B.T TO Guindy R.S,3,69
+13265,S13,Guindy R.S TO Velachery B.T,3,69
+13135,N45B,Broadway TO Keelkattalai,3,69
+13137,N45B,Cement Road TO Keelkattalai,3,69
+13140,N45B,Keelkattalai TO Cement Road,3,69
+13143,M88T,Amarambedu East TO Iyyappanthangal,3,69
+13144,M88T,Amarambedu East TO Vadapalani,3,69
+13146,M88T,Iyyappanthangal TO Amarambedu East,3,69
+13148,M88T,Vadapalani TO Amarambedu East,3,69
+13190,M70,K.K.Nagar TO M.G.R.Koyambedu,3,69
+13191,M70,Vadapalani TO M.G.R.Koyambedu,3,69
+13195,M70,M.G.R.Koyambedu TO K.K.Nagar,3,69
+13197,M70,M.G.R.Koyambedu TO Thiruvanmiyur,3,69
+13198,M70,Thiruvanmiyur TO M.G.R.Koyambedu,3,69
+13725,M70,M.G.R.Koyambedu TO Vadapalani,3,69
+15988,M51V,Saidapet TO Kolathur,3,69
+13225,M51V,Kolathur TO Saidapet,3,69
+13226,M51V,Kolathur TO Saidapet Depot,3,69
+13227,M51V,Kolathur TO Thyagaraya Nagar,3,69
+13230,M51V,Saidapet Depot TO Kolathur,3,69
+13232,M51V,Thyagaraya Nagar TO Kolathur,3,69
+3643,M51V,Kolathur TO Saidapet (Depot),3,69
+13201,M51R,Broadway TO Keelkattalai,3,69
+13205,M51R,Cement Road TO Keelkattalai,3,69
+13206,M51R,Keelkattalai TO Broadway,3,69
+13208,M51R,Keelkattalai TO Cement Road,3,69
+13221,M51R,Keelkattalai TO Thyagaraya Nagar,3,69
+13224,M51R,Puzhuthivakkam TO Thyagaraya Nagar,3,69
+13228,M51R,Thyagaraya Nagar TO Keelkattalai,3,69
+13231,M51R,Thyagaraya Nagar TO Puzhuthivakkam,3,69
+15332,M51R,Broadway TO Puzhuthivakkam,3,69
+15333,M51R,Puzhuthivakkam TO Broadway,3,69
+13114,E18,Broadway TO Kilambakkam B.T,3,69
+13115,E18,Guduvanchery TO Cement Road,3,69
+13117,E18,Cement Road TO Broadway,3,69
+13120,E18,Cement Road TO Kilambakkam B.T,3,69
+13121,E18,Kilambakkam B.T TO Broadway,3,69
+13123,E18,Tambaram West TO Broadway,3,69
+13125,E18,Broadway TO Cement Road,3,69
+13126,E18,Broadway TO Tambaram West,3,69
+13128,E18,Cement Road TO Guduvanchery,3,69
+13130,E18,Guduvanchery TO Broadway,3,69
+13132,E18,Broadway TO Guduvanchery,3,69
+13045,9M,A.G.S.Officer'S Colony TO N.G.O.Colony,3,69
+13047,9M,A.G.S.Officer'S Colony TO Thyagaraya Nagar,3,69
+13053,9M,Thyagaraya Nagar TO A.G.S.Officer'S Colony,3,69
+13049,9M,N.G.O.Colony TO A.G.S.Officer'S Colony,3,69
+15141,91K,Tambaram West Bus Stand TO Thiruvanmiyur Bus Stand,3,69
+15140,91K,Thiruvanmiyur Bus Stand TO Tambaram West Bus Stand,3,69
+15606,91K,Tambaram West Bus Stand TO Kilambakkam Bus Terminus,3,69
+12933,91K,Kilambakkam B.T TO Thiruvanmiyur,3,69
+12935,91K,Thiruvanmiyur TO Kilambakkam B.T,3,69
+15142,91K,Kilambakkam Bus Terminus TO Tambaram West Bus Stand,3,69
+12946,91R,Velachery B.T TO Tambaram West,3,69
+12937,91R,Kilambakkam B.T TO N.G.O.Colony,3,69
+12938,91R,Kilambakkam B.T TO Velachery B.T,3,69
+12942,91R,Tambaram West TO Kilambakkam B.T,3,69
+12944,91R,Velachery B.T TO Kilambakkam B.T,3,69
+12844,88M,Somangalam TO Vadapalani,3,69
+12846,88M,Vadapalani TO Somangalam,3,69
+10563,18AEt,Kilambakkam B.T TO Tambaram West,3,69
+14146,18AEt,Tondiarpet TO Kilambakkam,3,69
+14147,18AEt,Kilambakkam TO Tondiarpet,3,69
+12501,62B,Ambattur I.E TO J.J.Nagar West,3,69
+15884,62Ct,Moolakadai TO Redhills Bus Terminus,3,69
+14174,18AEt,Broadway TO Cement Road,3,69
+14178,18AEt,Chennai Airport TO Kilambakkam B.S,3,69
+10564,18AEt,Tambaram West TO Broadway,3,69
+14180,18AEt,Cement Road TO Chennai Airport,3,69
+11604,514Et,Redhills TO Padiyanallur,3,69
+11605,514Et,Redhills TO Periyapalayam,3,69
+11606,514Et,Redhills TO M.G.R.Koyambedu,3,69
+11599,514Et,M.G.R.Koyambedu TO Redhills,3,69
+12511,62Ct,Redhills TO Avadi B.T,3,69
+12512,62Ct,Redhills TO Moolakadai,3,69
+11601,514Et,Periyapalayam TO M.G.R.Koyambedu,3,69
+11603,514Et,Periyapalayam TO Redhills,3,69
+11042,118Et,Kalivanthapattu TO Tambaram West,3,69
+11043,118Et,Tambaram West TO Kalivanthapattu,3,69
+11010,114Et,Redhills TO M.G.R.Koyambedu,3,69
+12925,88CEt,Nandambakkam Village TO Thyagaraya Nagar,3,69
+11139,29E,Poonamallee B.T TO Thiruverkadu,3,69
+12091,570Et,K.K.Nagar TO M.G.R.Koyambedu,3,69
+12092,570Et,M.G.R.Koyambedu TO Anna Nagar West,3,69
+12093,570Et,M.G.R.Koyambedu TO K.K.Nagar,3,69
+12094,570Et,M.G.R.Koyambedu TO Siruseri I.T Park,3,69
+12095,570Et,M.G.R.Koyambedu TO Thiruporur,3,69
+12096,570Et,Perumpakkam S.C.B TO Thiruporur,3,69
+12097,570Et,Siruseri I.T Park TO Perumpakkam S.C.B,3,69
+12098,570Et,Thiruporur TO M.G.R.Koyambedu,3,69
+12915,7MEt,Athipet I.C.F. Colony TO Ambattur I.E,3,69
+12917,7MEt,Broadway TO Athipet I.C.F. Colony,3,69
+13043,9MEt,N.G.O.Colony TO Broadway,3,69
+13041,9MEt,Broadway TO A.G.S.Officer'S Colony,3,69
+15088,29NEt,Peravallur Kumaran Nagar TO Saidapet,3,69
+11122,29NEt,Velachery B.T TO Peravallur Kumaran Nagar,3,69
+11554,50Et,Broadway TO Thiruverkadu,3,69
+11556,50Et,Iyyappanmadam TO Broadway,3,69
+11557,50Et,Thiruverkadu TO Broadway,3,69
+11519,500Et,Chengalpet TO Chitlapakkam,3,69
+11518,500Et,Broadway TO Chitlapakkam,3,69
+11125,29AEt,Periyar Nagar TO Anna Square,3,69
+11480,48AEt,J.J.Nagar West TO Madhavaram B.T,3,69
+11481,48AEt,Madhavaram B.T TO Ambattur I.E,3,69
+11127,29Et,Vinayagapuram TO Mandaveli,3,69
+12421,597CEt,Periya Colony TO Avadi B.T,3,69
+12419,597CEt,Avadi B.T TO Periya Colony,3,69
+12427,597CEt,Poonamallee B.T TO Thirunindravoor B.T,3,69
+16413,S94,Kumaran Kundram TO Durga Nagar,3,69
+17328,566,Thiruporur TO Kundrathur,3,69
