@@ -1,0 +1,27 @@
+name: GTFS Validation
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main, dev ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Run GTFS Validator
+      uses: mobilitydata/gtfs-validator-action@v1
+      with:
+        gtfs_path: data/
+        output_path: validation-results/
+
+    - name: Upload validation results
+      uses: actions/upload-artifact@v4
+      with:
+        name: gtfs-validation-results
+        path: validation-results/
