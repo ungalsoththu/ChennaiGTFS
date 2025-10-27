@@ -1,3 +1,10 @@
+[![Web](https://img.shields.io/badge/Ithu%20Ungal%20Soththu-1E8CBE)](https://ithuungalsoththu.vercel.app/)[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/UngalSoththu)](https://x.com/UngalSoththu)
+[![Build Status](https://github.com/ungalsoththu/ChennaiGTFS/actions/workflows/gtfs-validation.yml/badge.svg)](https://github.com/ungalsoththu/ChennaiGTFS/actions/workflows/gtfs-validation.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Ithu Ungal Soththu
+**Ithu Ungal Soththu** is a powerful Tamil phrase originating from a Vadivelu comedy scene in the 2002 Tamil film Bagavathi. This expression has become a rallying cry for accountability and ownership in public services, particularly Chennai's MTC bus system.
+
 # Chennai GTFS
 
 This repository provides a GTFS (General Transit Feed Specification) static feed for the Metropolitan Transport Corporation (MTC) in Chennai, India. GTFS is an open standard for public transportation data, enabling applications to display schedules, routes, and real-time information. The feed includes static data such as stops, routes, trips, and schedules for MTC's bus services in Chennai.
