@@ -12,16 +12,16 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
 
     - name: Create validate directory
       run: mkdir -p validate/
 
     - name: Run GTFS Validator
-      run: docker run --rm -v ./:/work --rm ghcr.io/mobilitydata/gtfs-validator:latest -c in -i /work/data/ -o /work/validate/
+      run: docker run --rm -v ./:/work ghcr.io/mobilitydata/gtfs-validator:v7.1.0 -c in -i /work/data/ -o /work/validate/
 
     - name: Upload validation report
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: gtfs-validation-report
         path: validate/report.html
