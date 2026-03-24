@@ -18,7 +18,7 @@ jobs:
       run: mkdir -p validate/
 
     - name: Run GTFS Validator
-      run: docker run --rm -v ./:/work ghcr.io/mobilitydata/gtfs-validator:latest -c in -i /work/data/ -o /work/validate/
+      run: docker run --rm -v ./:/work ghcr.io/mobilitydata/gtfs-validator:v7.1.0 -c in -i /work/data/ -o /work/validate/
 
     - name: Upload validation report
       uses: actions/upload-artifact@v5
