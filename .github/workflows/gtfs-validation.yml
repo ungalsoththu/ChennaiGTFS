@@ -21,7 +21,7 @@ jobs:
       run: docker run --rm -v ./:/work ghcr.io/mobilitydata/gtfs-validator:v7.1.0 -c in -i /work/data/ -o /work/validate/
 
     - name: Upload validation report
-      uses: actions/upload-artifact@v5
+      uses: actions/upload-artifact@v6
       with:
         name: gtfs-validation-report
         path: validate/report.html
