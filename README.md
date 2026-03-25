@@ -1,63 +1,121 @@
-[![Web](https://img.shields.io/badge/Ithu%20Ungal%20Soththu-1E8CBE)](https://ithuungalsoththu.vercel.app/)[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/UngalSoththu)](https://x.com/UngalSoththu)
+[![Web](https://img.shields.io/badge/Ithu%20Ungal%20Soththu-1E8CBE)](https://ithuungalsoththu.vercel.app/)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/UngalSoththu)](https://x.com/UngalSoththu)
 [![Build Status](https://github.com/ungalsoththu/ChennaiGTFS/actions/workflows/gtfs-validation.yml/badge.svg)](https://github.com/ungalsoththu/ChennaiGTFS/actions/workflows/gtfs-validation.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Ithu Ungal Soththu
-**Ithu Ungal Soththu** is a powerful Tamil phrase originating from a Vadivelu comedy scene in the 2002 Tamil film Bagavathi. This expression has become a rallying cry for accountability and ownership in public services, particularly Chennai's MTC bus system.
-
 # Chennai GTFS
 
-This repository provides a GTFS (General Transit Feed Specification) static feed for the Metropolitan Transport Corporation (MTC) in Chennai, India. GTFS is an open standard for public transportation data, enabling applications to display schedules, routes, and real-time information. The feed includes static data such as stops, routes, trips, and schedules for MTC's bus services in Chennai.
+Open GTFS feeds for **Chennai public transit** — MTC buses and CMRL metro. This repository provides standardized, static GTFS (General Transit Feed Specification) data for trip planners, transit apps, and research.
 
-## Overview of GTFS and Its Benefits
+## About Ithu Ungal Soththu
 
-GTFS is a data specification that allows public transit agencies to publish their transit data in a standardized format. This enables developers to create applications that can display transit schedules, routes, and real-time information. Key benefits include:
+**Ithu Ungal Soththu** is a powerful Tamil phrase from a Vadivelu comedy scene in the 2002 Tamil film *Bagavathi*. It has become a rallying cry for accountability in Chennai's public services.
 
-- **Standardized Format**: Ensures consistency and ease of integration across different platforms.
-- **Developer-Friendly**: Open access allows developers and transit enthusiasts to build innovative transit apps, trip planners, and real-time displays.
-- **Improved Accessibility**: Helps users navigate public transportation more effectively, promoting sustainable mobility.
+## Repository Structure
 
-## How to Access and Use the Feed
+```
+data/
+├── mtc/                    # MTC Bus GTFS source files
+│   ├── agency.txt
+│   ├── routes.txt          # 4,000+ bus routes
+│   ├── stops.txt           # 4,000+ bus stops  
+│   ├── trips.txt
+│   ├── stop_times.txt
+│   ├── calendar.txt
+│   └── feed_info.txt
+├── cmrl/                   # CMRL Metro GTFS source files
+│   ├── agency.txt
+│   ├── routes.txt          # 3 metro routes
+│   ├── stops.txt           # 44 metro stations
+│   ├── trips.txt
+│   ├── stop_times.txt
+│   ├── calendar.txt
+│   ├── frequencies.txt     # Headway-based scheduling
+│   ├── shapes.txt          # Station-to-station geometry
+│   └── feed_info.txt
+├── unified/                # Combined MTC + CMRL GTFS
+│   └── *.txt               # Merged feed for multi-modal apps
+├── mtc-gtfs.zip            # MTC Bus GTFS (8.7 MB)
+├── cmrl-gtfs.zip           # CMRL Metro GTFS (4.8 KB)
+└── chennai-unified-gtfs.zip # Combined GTFS (8.7 MB)
+```
 
-The GTFS feed is available in the `data/` directory of this repository. It consists of several CSV files that define the transit network:
+## Data Coverage
 
-- `agency.txt`: Information about the transit agency (MTC Chennai).
-- `routes.txt`: Details of transit routes.
-- `trips.txt`: Trips for each route.
-- `stops.txt`: Locations of transit stops.
-- `stop_times.txt`: Arrival and departure times at stops.
-- `calendar.txt`: Service schedules and dates.
+| Agency | Type | Routes | Stops | Schedule Type |
+|--------|------|--------|-------|---------------|
+| **MTC** | Bus | 4,000+ | 4,000+ | Stop-by-stop times |
+| **CMRL** | Metro | 3 | 44 | Frequency-based (headways) |
+| **Combined** | Multi-modal | 4,003+ | 4,044+ | Mixed |
 
-To use the feed:
-1. Clone or download this repository.
-2. Access the CSV files in the `data/` folder.
-3. Import the data into a GTFS-compatible application, library, or tool (e.g., transit mapping software or custom apps).
+### CMRL Metro Lines
 
-For more advanced usage, consider using GTFS libraries in languages like Python (e.g., `gtfs-kit`) or JavaScript.
+| Line | Stations | Length | Terminals |
+|------|----------|--------|-----------|
+| **Blue Line** | 26 | 29.7 km | Wimco Nagar Depot ↔ Airport |
+| **Green Line** | 18 | 24.3 km | MGR Central ↔ St. Thomas Mount |
+| **Inter-Corridor** | 5 | 16.4 km | MGR Central ↔ Airport |
 
-## Data Sources and Update Frequency
+## Using the Feeds
 
-The data in this feed is sourced from Metropolitan Transport Corporation (MTC) Chennai resources, including their website and public announcements. We strive to keep the feed up-to-date with the latest route changes, schedule adjustments, and stop information.
+### Direct Download
 
-- **Update Frequency**: The feed is updated periodically, typically reflecting major changes announced by MTC. Check the repository's commit history or releases for the latest updates.
-- **Accuracy**: While we aim for accuracy, please verify critical information with official MTC sources for real-time or safety-related decisions.
+| Feed | Download | Size |
+|------|----------|------|
+| MTC Bus | [`mtc-gtfs.zip`](data/mtc-gtfs.zip) | 8.7 MB |
+| CMRL Metro | [`cmrl-gtfs.zip`](data/cmrl-gtfs.zip) | 4.8 KB |
+| Unified | [`chennai-unified-gtfs.zip`](data/chennai-unified-gtfs.zip) | 8.7 MB |
 
-## Contributing Guidelines
+### GTFS Tools
 
-We welcome contributions from the community to improve and maintain this GTFS feed! Here's how you can help:
+- **Python**: [`gtfs-kit`](https://github.com/mrcagney/gtfs_kit), [`partridge`](https://github.com/remix/partridge)
+- **JavaScript**: [`gtfs`](https://github.com/ BlinkTagInc/gtfs)
+- **Validation**: [MobilityData GTFS Validator](https://github.com/MobilityData/gtfs-validator)
 
-1. **Report Issues**: If you notice inaccuracies or missing data, open an issue on GitHub.
-2. **Submit Updates**: For corrections or additions based on official MTC data, submit a pull request.
-3. **Follow Standards**: Ensure all contributions adhere to the GTFS specification and are sourced from reliable, official channels.
-4. **Testing**: Test your changes with GTFS validation tools to ensure compatibility.
+### Example: Load with Python
 
-Before contributing, please review the [GTFS Reference](https://gtfs.org/reference/static/) for guidelines.
+```python
+import pandas as pd
 
-## Links to Official Resources
+# Load MTC stops
+stops = pd.read_csv('data/mtc/stops.txt')
+print(f"Total MTC stops: {len(stops)}")
 
-- [Metropolitan Transport Corporation (MTC) Chennai Official Website](https://mtcbus.tn.gov.in/)
-- [GTFS Official Documentation](https://developers.google.com/transit/gtfs)
-- [GTFS Reference Guide](https://gtfs.org/reference/static/)
-- [GTFS Best Practices](https://gtfs.org/best-practices/)
+# Load CMRL routes  
+routes = pd.read_csv('data/cmrl/routes.txt')
+print(f"CMRL lines: {routes['route_short_name'].tolist()}")
+```
 
-If you have questions or need help, feel free to open an issue or reach out. Happy coding and safe travels in Chennai!# trigger workflow re-run
+## Data Sources
+
+| Agency | Source |
+|--------|--------|
+| **MTC** | [mtcbus.tn.gov.in](https://mtcbus.tn.gov.in/) — Route lists and timetables |
+| **CMRL** | [chennaimetrorail.org](https://chennaimetrorail.org/) — Station order and headways |
+| **Stations** | Wikipedia + OSM `node[railway=station]` for verified coordinates |
+
+## CMRL Notes
+
+CMRL publishes **frequency-based schedules** (headways), not per-station arrival times. The GTFS uses `frequencies.txt` with `exact_times=0` to represent this. Example headways:
+
+- Weekday peak: 5-7 minutes
+- Weekend: 7-10 minutes
+
+OSM way geometry for Chennai Metro is currently unreliable, so shapes use straight-line station-to-station connections.
+
+## Contributing
+
+1. **Report issues**: Open a GitHub issue for data inaccuracies
+2. **Submit updates**: Pull requests with official source citations
+3. **Validate**: Test with GTFS validation tools before submitting
+
+## License
+
+MIT License — See [LICENSE](LICENSE)
+
+## Links
+
+- [MTC Official](https://mtcbus.tn.gov.in/)
+- [CMRL Official](https://chennaimetrorail.org/)
+- [GTFS Reference](https://gtfs.org/reference/static/)
+- [Ithu Ungal Soththu](https://ithuungalsoththu.vercel.app/)
