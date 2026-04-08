@@ -120,7 +120,7 @@ Transit agencies submit feeds via [Transit Partner Portal](https://transit.googl
 
 | City | System | GTFS Status | Official? | Feed Source |
 |------|--------|-------------|----------|-------------|
-| **Hyderabad** | Hyderabad Metro (L&T) | ✅ Available | Yes | [HMRL official](https://hmrl.telangana.gov.in) |
+| **Hyderabad** | Hyderabad Metro (L&T) | ✅ Available | Yes | [HMRL official](https://hmrl.co.in/open-data/) |
 | **Bengaluru** | BMTC + BMRCL | ✅ Available | Yes | [IUDX Mobility Platform](https://iudx.org.in) |
 | **Delhi** | DMRC + DIMTS | ✅ Available | Yes | [Open Transit Delhi](https://otd.delhi.gov.in) |
 | **Kolkata** | East-West Metro | ✅ Available | Yes | Rail Metro official |
