@@ -5,6 +5,7 @@ stop_id,stop_name,stop_lat,stop_lon
 10516,B.D.O Office Ikkadu,13.15647,79.91757
 10467,Madhavaram Bus Depot,13.13200,80.23708
 840,Broadway,13.08762,80.28383
+11256,W5,13.06455,80.06229
 11,Alandur Depot,12.99708,80.19136
 8936,Alandur Depot,12.99584,80.18871
 9734,Periyamedu,13.08393,80.27044
@@ -12,16 +13,15 @@ stop_id,stop_name,stop_lat,stop_lon
 9831,Anna Nagar West Depot,13.09370,80.19842
 1243,Elephant Gate,13.09165,80.27537
 823,Blue Star Othavadi Street,13.08854,80.27541
-824,Blue Star Othavadi Street,13.08858,80.27576
+824,Blue Star Othavadi Street,13.08733,80.27569
 1242,Elephant Gate,13.09168,80.27509
-9158,Foreshore Estate Bus Terminus,13.02264,80.27635
 5340,Madhavaram Depot,13.13207,80.23685
 10470,Madhavaram Bus Depot,13.13241,80.23690
 9353,Ambedkar Bridge,13.04119,80.27450
-10496,Tollgate,13.14446,80.29698
+11257,Pudukuppam,13.22837,80.11097
+10496,Tollgate,13.14456,80.29681
 8929,Alandur Depot,12.99719,80.19060
 6944,Peravallur,13.11595,80.23150
-6945,Peravallur,13.11603,80.23180
 6461,Perumbakkam,12.88660,80.21035
 5345,Perumbakkam Depot,12.88775,80.20880
 5351,Tondairpet-1 Depot,13.13131,80.29319
@@ -35,16 +35,18 @@ stop_id,stop_name,stop_lat,stop_lon
 11134,Kanaga Chathiram,13.13566,80.23242
 11118,Anna Salai X Pallavan Salai (VC - IN),13.07473,80.27766
 11119,Anna Salai X Pallavan Salai (VC - OUT),13.07349,80.27645
+11258,Velachery,12.97626,80.22155
 11096,Music Academy,13.04647,80.26053
 11171,Bhakthavatchalam Nagar,12.98068,79.93723
 11172,Kiloy Junction Road,12.98398,79.93635
 11173,Thodukadu,12.99527,79.93490
 11174,Sri Om Nagar,13.00134,79.93410
+11259,RTC,13.02979,80.24579
 5293,Vyasarpadi Sidco,13.13149,80.25279
 8805,Thiruvanmiyur Depot,12.98750,80.25919
 10890,Cement Road,12.99568,80.18911
 11175,Parangusattram,13.00973,79.93134
-78,Metrological Department Sterling Road,13.06784,80.24648
+78,Metrological Department Sterling Road,13.06785,80.24658
 10991,Meenambakkam,12.98687,80.17562
 5398,Nsk Nagar Main Road,13.07534,80.21648
 9222,Mappedu Old Police Station,13.03099,79.86176
@@ -53,19 +55,18 @@ stop_id,stop_name,stop_lat,stop_lon
 9341,Ashok Nagar Canara Bank,13.03986,80.21209
 9585,Nerkundram Signal,13.07082,80.18239
 10231,Brindavan Street,13.04227,80.22463
-5613,Icf,13.10035,80.21584
+11260,RTC2,13.02954,80.24551
 5669,Icf,13.10009,80.21555
 5616,Joint Office,13.09983,80.22991
 5666,Joint Office,13.09960,80.22983
 5955,Salmon Kuppam,12.65490,80.20678
 9409,Kamarajar Illam,13.04857,80.23996
 9410,Kamarajar Illam,13.04774,80.24002
-5614,Kambar Arangam,13.09933,80.21976
 5668,Kambar Arangam,13.09908,80.21947
+11261,M.G.R.Koyambedu Depot,13.06531,80.20550
 10876,Kilambakkam Depot,12.87309,80.07951
 10163,Kundrathur Nalu Road Or Kolachery Junction,13.00369,80.09977
 10162,Kundrathur Nalu Road Or Kolachery Junction,13.00335,80.09978
-10536,Manali Bus Terminus,13.17012,80.25743
 9194,Pattur Koot Road,13.02682,80.11054
 7522,Mathur Gate,13.16672,80.24536
 7524,Mathur Gate,13.16691,80.24586
@@ -80,12 +81,13 @@ stop_id,stop_name,stop_lat,stop_lon
 9191,Kamarajar Statue,13.02653,80.21159
 5913,Adyar Depot,12.99910,80.25638
 5910,Adyar Depot,12.99880,80.25588
-5820,Foreshore Estate Bus Stop,13.02537,80.27482
 9181,Michal Garden,13.02530,80.18298
 9768,Paruthipattu Road Junction,13.08685,80.10853
 9613,Mettukulam,13.07404,80.19233
+11262,Velachery checkpost,12.99764,80.21622
 11121,Retteri,13.13159,80.21232
 9430,Bsnl Exchange,13.04958,80.08898
+11263,tnw,13.03419,80.23027
 10312,Thirumangalam Or Sunguvarchattram,13.08549,80.19910
 5694,Blue Star,13.08478,80.21093
 9757,Kandaswami Naidu College,13.08552,80.21787
@@ -115,6 +117,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7277,Kalpana Lamps,13.13881,80.22788
 11135,Earikarai,13.11408,80.26134
 9778,Melnallathur,13.08851,79.90782
+11264,vlr,12.97606,80.22129
 7323,Thangaya Gate,13.14218,80.08766
 7301,Military Hospital Avadi,13.14046,80.09335
 9853,Kalaivanar Nagar,13.09554,80.15207
@@ -134,7 +137,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5760,Adyar Signal,13.00716,80.25884
 5750,Madhya Kailash,13.00682,80.24674
 10200,Chamiers Road Or Venkateswara Hospital,13.02975,80.24341
-1739,Kaliyappa Hospital,13.02718,80.25441
 9408,Bharathirajaa Hospital,13.04770,80.24510
 8994,Adyar Signal,13.00649,80.25737
 9697,Pari Salai,13.08130,80.18687
@@ -146,7 +148,7 @@ stop_id,stop_name,stop_lat,stop_lon
 6891,Jawahar Nagar Periyar Nagar,13.11278,80.22964
 10002,Pathuvanchery Kovil,12.88694,80.14887
 7402,Telephone Colony 1st Street,13.15129,80.24000
-7054,Mani Koondu,13.12234,80.28688
+7054,Mani Koondu,13.12227,80.28705
 9975,Navalur,12.84474,80.22641
 6358,Semmancheri,12.86054,80.22667
 8928,Alandur Depot,12.99702,80.19173
@@ -244,9 +246,8 @@ stop_id,stop_name,stop_lat,stop_lon
 10972,Tambaram West Bus Stand,12.92773,80.11914
 8500,Chromepet Ponds Company,12.96152,80.14613
 6032,Paranur,12.73816,79.98860
-10973,Medavakkam Jayachandran,12.91723,80.19287
+10973,Medavakkam Jayachandran,12.91736,80.19287
 9816,Kavery Colony,13.09177,80.22373
-11001,Vadapalani Kovil (SIMS Hospital),13.05324,80.21194
 9255,Bharathidasan Colony,13.03267,80.20532
 11176,Mannur Junction Sriperumbudur Bypass,13.01585,79.92651
 9259,Kailankadai,13.03294,80.20302
@@ -254,7 +255,7 @@ stop_id,stop_name,stop_lat,stop_lon
 9477,Chathram Village,13.05614,79.91267
 9148,Mannur N I F O,13.02205,79.95888
 9604,Simpsons Chintadripet,13.07300,80.27365
-9264,Mappedu Road Junction,13.03317,79.85340
+9264,Mappedu Road Junction,13.03333,79.85327
 6102,Kovalam Bus Terminus,12.78697,80.24921
 9770,Doveton,13.08700,80.25784
 11137,Big Bazar,13.04045,80.23939
@@ -293,10 +294,10 @@ stop_id,stop_name,stop_lat,stop_lon
 11138,Ezhilagam,13.06429,80.28219
 11139,St Mary'S Road,13.02891,80.25895
 11177,Sengadu,13.02969,79.91840
+11265,Navins Apartment,12.90405,80.18517
 9309,Postal Colony,13.03661,80.22075
 9636,Pachaiyappas College,13.07607,80.23465
-6997,Agrakaram,13.11938,80.19857
-10950,Ajanta Stop,13.03718,80.19644
+6997,THATHAN KUPPAM,13.11938,80.19857
 11015,Indira Nagar Water Tank,12.99621,80.25398
 11016,Jai Nagar Park,13.06912,80.20680
 9449,Ice House Police Station,13.05257,80.27436
@@ -329,14 +330,13 @@ stop_id,stop_name,stop_lat,stop_lon
 6857,Ramalingapuram,13.10908,80.26755
 9459,Erikkarai Rk Nursery,13.05387,80.18892
 4940,Vadapalani,13.04634,80.21242
-9855,Gandhi Nagar Hospital,13.09489,80.21860
+9855,Gandhi Nagar Hospital,13.09507,80.21855
 6848,Perambur Church,13.10897,80.24181
 11042,Simpson,13.12415,80.24219
 6758,Clive Battery,13.09900,80.29374
 6770,Telephone Exchange,13.10128,80.16264
 6490,Vandalur Gate,12.89346,80.08633
 11045,Ellaiamman Kovil,13.15724,80.30522
-6553,Perungalattur,12.90556,80.09607
 6795,Bharathi Arts College,13.10327,80.28705
 8398,Kamatchi Hospital,12.94879,80.20800
 10083,Chennai One It Sez,12.95012,80.23269
@@ -431,7 +431,6 @@ stop_id,stop_name,stop_lat,stop_lon
 6840,Erikarai Thiruninravur,13.10852,80.02304
 6947,Thiruninravur Hospital,13.11604,80.02700
 11078,Adambakkam Bus Terminus,12.99491,80.20672
-6877,Vyasarpadi,13.11131,80.26548
 8367,Balaji Dental College,12.94429,80.20819
 11079,Ambattur O.T Bus Terminus,13.11967,80.15003
 9150,Saveetha Medical College,13.02234,80.01687
@@ -469,6 +468,7 @@ stop_id,stop_name,stop_lat,stop_lon
 10593,Sengalamman Kovil Or Sholavaram 4,13.22965,80.16477
 11181,Athikulam,13.07457,79.90964
 5925,Iyyappanthangal Bus Terminus,13.03753,80.13477
+11266,Guru Nanak College (Towards GUINDY RAILWAY STATION),12.99130,80.21937
 6681,Tambaram Railway Station,12.92546,80.11695
 8785,Meeanambakkam International Airport,12.98689,80.17564
 6677,Sunguvarchatram,12.92528,79.87964
@@ -479,7 +479,6 @@ stop_id,stop_name,stop_lat,stop_lon
 11088,Rayapuram Arivagam,13.11661,80.29294
 11089,Besant Nagar / Besant Beach,13.00111,80.26738
 11090,Shankara Nethralaya,13.06740,80.25041
-11091,Guild of Service,13.07138,80.25363
 11092,Gandhi Road,12.98646,80.22290
 11094,EGMORE WOMEN HOSPITAL (TOWARDS Broadway ),13.07136,80.25888
 8872,Kanagam Government School,12.99270,80.24238
@@ -490,10 +489,18 @@ stop_id,stop_name,stop_lat,stop_lon
 11184,Killnallathur,13.09481,79.90752
 11185,Caterpillar,13.09748,79.90736
 11186,T C L,13.08250,79.90840
+11267,Arasankazhani,12.88183,80.19249
+11268,KCBTT,12.87580,80.07868
 8131,Ayyanar Medu,13.32318,80.11902
 82,Mgr Central Railway Station,13.08173,80.27532
 5350,Thiruvottriyur Depot,13.17247,80.30476
-6748,Tambaram Sanatorium B.T,12.93694,80.12771
+6748,Tambaram Sanatorium B.T,12.93705,80.12783
+11269,Ottiyambakkam ERIKARAI,12.86068,80.19337
+6363,Ottiyambakkam,12.86228,80.19137
+11270,SRI SAI NAGAR BUS STOP,12.85976,80.19525
+10950,Ajanta Stop,13.03718,80.19644
+70,Ajantha,13.03728,80.19597
+11271,Siruvada,13.39611,79.99436
 11095,Ishpahani Center,13.05443,80.24997
 8873,Sundaravinayagar Ayyappan Temple,12.99306,80.09534
 11106,Cotton City (Urinal),13.11793,80.28978
@@ -510,16 +517,15 @@ stop_id,stop_name,stop_lat,stop_lon
 10971,Airport Metro,12.98027,80.16373
 10009,Chithalapakkam Tnhb,12.89124,80.17573
 8424,Chromepet,12.95166,80.14043
-8571,Velachery Railway Station,12.97115,80.21914
+8571,Velachery Railway Station,12.97118,80.21903
 11109,Angadu,13.22677,80.18760
-10378,Vallalar Nagar BT,13.10574,80.28038
+10378,Vallalar Nagar BT,13.10379,80.27420
 7617,Arakkambakkam,13.18062,80.06986
 7127,Korattur Water Canal Road,13.12697,80.19408
 8609,St Theresa Girls School,12.97126,80.14632
 10562,Kanniamman Nagar,13.19175,80.09784
 6115,Maraimalai Nagar Bus Stand,12.79103,80.03260
 10906,Adyar Gate,13.02996,80.25042
-5354,Vyasarpadi Depot,13.12027,80.25918
 5798,Fern Hill Apartment,13.02921,80.24557
 7093,Veppampet Bus Stop,13.12485,79.99679
 8723,Anakaputhur Higher Secondary School,12.98081,80.12923
@@ -528,8 +534,9 @@ stop_id,stop_name,stop_lat,stop_lon
 5677,Thomas Munro Statue,13.07592,80.27878
 11189,Tholkappiar Park,13.01902,80.26466
 11190,Tholkappiar Park,13.01912,80.26475
+11272,SRI SAI NAGAR BUS STOP2,12.85973,80.19514
 10465,Tondiarpet Bus Depot,13.13192,80.29215
-8585,Pallavaram Bus Stand,12.96913,80.15063
+8585,Pallavaram Bus Stand,12.96932,80.15013
 5743,D.L.F.,13.02382,80.17891
 5748,Egmore Railway Station - South,13.07788,80.26215
 8511,Madipakkam Bus Terminus,12.96287,80.19831
@@ -541,6 +548,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7774,Padianallur,13.20421,80.17528
 6962,Karukku,13.11698,80.17094
 7441,Melappedu,13.15592,80.04099
+11273,OTTIYAMPAKKAM ERIKARAI,12.86069,80.19330
 168,Koyambedu Market,13.06605,80.19873
 5534,Manamathi Or Acharavakkam,12.65856,80.11875
 9560,Nungambakkam Railway Station,13.06657,80.23146
@@ -562,12 +570,14 @@ stop_id,stop_name,stop_lat,stop_lon
 6526,Pratyangira Temple,12.90066,80.23105
 1620,J J Nagar West Terminus,13.08205,80.17016
 8000,Athipattu Railway Station,13.26841,80.27713
+11274,Arasankazhani 2,12.88195,80.19241
 5929,Chinthathripet Railway Station,13.07459,80.27341
 8164,Chennang Karanai,13.33676,79.98399
 8341,Muthumariamman Kovil,12.94153,80.14523
 8181,Perumbedukuppam,13.36295,80.25340
 1462,Guindy M K N Salai,13.00726,80.20972
 10882,Annamalaichery,13.45702,80.26195
+11275,ERNAVUR MULLAI NAGAR,13.18620,80.30363
 8566,Pallavaram,12.96753,80.14898
 8644,Pammal Sankar Nagar,12.97492,80.13299
 5776,Iyappanthangal,13.03716,80.13870
@@ -591,7 +601,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7426,Pakkam Village,13.15394,80.02548
 7607,Kadhavoor Bus Stand,13.17922,80.06366
 7621,Jothi Nagar,13.18143,80.29880
-8913,Alandur,12.99589,80.18865
+8913,Alandur,12.99577,80.18871
 8953,Besant Nagar Terminus,13.00033,80.26607
 9050,Little Mount Metro,13.01396,80.22322
 9249,Mangadu,13.03183,80.11108
@@ -626,6 +636,7 @@ stop_id,stop_name,stop_lat,stop_lon
 11093,Alandur Court,12.99741,80.19323
 11192,Annasquare,13.06658,80.28412
 6684,Okkiyampet,12.92577,80.23069
+11276,THERADI METRO,13.16151,80.30306
 8406,Pallikaranai Kamachi Hospital,12.94904,80.21002
 9501,Kuthambakkam,13.05834,80.02994
 10139,Adambakkam Annai Stores,12.98327,80.20708
@@ -656,7 +667,6 @@ stop_id,stop_name,stop_lat,stop_lon
 7339,Theradi,13.14370,79.90872
 6143,Pudupakkam,12.79951,80.19818
 10949,Vadapalani S.I.M.S Hospital,13.04979,80.21190
-10934,K B Dasan Shelter-1,13.03519,80.25059
 6624,Sri Padmavathi Mahal,12.91972,80.08709
 10909,Sringeri Mutt,13.02701,80.25923
 10825,Butt Road Temp Bus Stop,13.01500,80.19952
@@ -669,7 +679,6 @@ stop_id,stop_name,stop_lat,stop_lon
 7010,Perumal Kovil,13.11939,80.18941
 8774,Mettu Theru,12.98507,80.12725
 154,Thousand Light Or Us Embassy,13.05361,80.25297
-1048,Concorde Or Chellammal College,13.01186,80.22195
 26,Ashok Pillar,13.03354,80.21209
 6775,Telephone Exchange,13.10156,80.16233
 9705,Aminjikarai Police Station,13.08181,80.21797
@@ -677,7 +686,7 @@ stop_id,stop_name,stop_lat,stop_lon
 11113,MEPPEDU,13.02432,79.87670
 8835,Tidel Park,12.98963,80.25072
 5627,Saidapet Veterinary Hospital Or Raja Hostel,13.02543,80.22968
-6592,Irumbuliyur,12.91653,80.10583
+6592,Irumbuliyur,12.91655,80.10609
 7044,Menambedu,13.12200,80.16463
 8884,St Thomas Mount Railway Station,12.99439,80.20028
 9461,Saligramam Bus Stand,13.05395,80.19691
@@ -688,6 +697,7 @@ stop_id,stop_name,stop_lat,stop_lon
 10216,Thiyagaraya Nagar Bus Depot,13.03502,80.23094
 7038,Veppambaattu,13.12122,79.99628
 6963,Vv Nagar Kolathur,13.11704,80.21098
+11277,Peeter School,13.07423,80.25292
 5561,West Kk Nagar Depot,13.04420,80.19361
 6767,Wheels India Road Junction,13.10111,80.19451
 10952,Wheels India Road Junction,13.10111,80.19454
@@ -730,8 +740,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7500,Thiruvottiyur Market Beach Road,13.16258,80.30652
 6368,Vengambakkam Road Junction,12.86285,80.12689
 7931,New Erumai Vetti Palayam Bus Stand,13.24234,80.12019
-7443,Mittanamalli Hr Sec Shool,13.15629,80.07018
-7444,Mittanamalli Hr Sec Shool,13.15630,80.07017
+7443,Mittanamalli Hr Sec Shool,13.15624,80.07075
 7813,Infant Jesus Shrine Manali New Town,13.21356,80.27201
 7765,Manali New Town Bus Stand,13.20203,80.27617
 8048,Panapakkam,13.29113,80.05720
@@ -746,10 +755,10 @@ stop_id,stop_name,stop_lat,stop_lon
 7635,Chettipedu,13.18359,80.22981
 8192,Panapakkam,13.37599,80.13787
 7736,Red Hills Thiruvallur Road Junction,13.19639,80.18095
-7786,Nehru Nagar Ennore,13.20658,80.31519
 7949,Athur Erumai Vetti Palayam,13.24952,80.14767
 7992,Manjankarani,13.26686,80.11430
 7940,Karanodai,13.24705,80.15759
+7786,ANNA NAGAR ENNORE,13.20658,80.31519
 10597,Sholavaram High School Or Bdo Office,13.24256,80.15987
 7990,Kamarajar Port,13.26619,80.32730
 7784,Sirugavur,13.20606,80.21725
@@ -770,6 +779,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7553,Mathur Bus Stand,13.17146,80.24756
 7525,Mathur Second Main Road,13.16693,80.24813
 7407,Maneni Party Hall,13.15180,80.07503
+11278,NAVINS APARTMENT 2,12.90427,80.18512
 189,Manthoppu Hr Sec School,13.02506,80.21976
 9965,Keerapakkam Perumal Kovil,12.82953,80.12254
 10049,S.I.V.E.T,12.92076,80.16794
@@ -894,8 +904,10 @@ stop_id,stop_name,stop_lat,stop_lon
 5718,M.O.P Vaishnava College,13.05538,80.24921
 11202,dummy,13.02425,80.20023
 11203,Guindy,13.00948,80.21103
+11091,Guild of Service,13.07125,80.25370
 6026,Shiva Temple Kattur,12.73339,80.16141
 6532,Gold Winner,12.90200,80.18409
+11279,MEDAVAKKAM JUNCTION,12.91738,80.19348
 11155,Elephant Gate,13.09424,80.27515
 11127,Ashok Nagar 7th Avenue,13.03462,80.21616
 11128,Bharathi Arts College,13.10407,80.28754
@@ -919,29 +931,161 @@ stop_id,stop_name,stop_lat,stop_lon
 11156,Manali MGR Nagar,13.15478,80.27466
 11204,ANNANAGAR TERMINUS BACKSIDE,13.09517,80.19748
 11205,w,13.10718,80.24503
+11280,Nemillicheri,13.12404,80.05192
 11206,waypoint,13.06305,80.24452
+11281,w7,13.12310,80.05196
 11207,W,13.04692,80.22553
 6186,Dhargas Nagar,12.81424,80.08909
 2141,Kottur,13.01749,80.24099
 11208,W1,13.12750,80.28872
 11209,W3,13.11306,80.25723
 11210,WAYPOINT,13.23504,80.23696
+11282,Pudupakkam Law College,12.82574,80.19398
+11283,W9,13.03255,80.26744
+11284,W10,13.03744,80.26395
+5354,Vyasarpadi Depot,13.12027,80.25918
+11285,Pudupakkam Law College1,12.82593,80.19394
+11286,W11,13.04852,80.19576
+11287,WPAVUCHI,13.04882,80.19478
+11288,abc,13.05440,80.25789
+11289,Thousand Light,13.05762,80.25779
+11290,PORUR 1,13.03424,80.15904
+11291,Acharavakkam,12.69047,80.12939
+11292,PORUR 2,13.03595,80.15330
+11293,DUMMY,13.24094,80.21591
 5343,Poonamallee Depot EV,13.05159,80.09007
-11158,Royapuram terminus,13.10212,80.29424
-11159,Island ground Terminus,13.07826,80.28144
 11160,Ennore Market,13.21823,80.32004
+11295,D,13.24522,80.21582
 11161,17D WAYPOINT OPP POLICE STN,13.04386,80.21723
 11167,Government Girls School,13.03174,80.21385
 11114,Anna Salai X Pallavan Salai (VA - IN),13.07289,80.27550
 11168,M.G.R.CENTRAL METRO R.S,13.08074,80.27056
 11163,17DRamTheatre1,13.04351,80.21715
+11213,1ST STREET,13.03464,80.26229
 11164,Thappalpetti,13.14112,80.23740
 11165,Shozhinganallur 1,12.90358,80.22798
 11169,TAISHA COMPLEX,13.05688,80.18813
 11166,Clive Battery,13.10019,80.29411
-11170,ST mount,12.99424,80.20017
+11211,1 st main road,12.99903,80.25963
 83,Mgr Central Or Rajiv Gandhi Government General Hospital,13.08180,80.27680
 11115,Anna Salai X Pallavan Salai (VA - OUT),13.07366,80.27632
+11212,Thiruvengadam street,13.02436,80.26337
+11214,SIVASAMY SALAI,13.04091,80.26459
+11215,krishnados main road,13.10299,80.24884
+5613,Icf,13.10022,80.21575
+5614,Kambar Arangam,13.09926,80.21973
+11216,80 feet road,13.04566,80.19891
+11217,3RD MAIN ROAD,13.05752,80.18936
+11001,Vadapalani Kovil (SIMS Hospital),13.05325,80.21186
+11218,Thirumangalam EB Office,13.08724,80.19804
+11219,WAYPOINT1,13.03309,80.26100
+11220,Nemilichery,13.12394,80.05278
+11296,Ayyapanthangal BUS STAND,13.03769,80.13673
+11294,VM STREET,13.04682,80.27062
+11297,rADHA kRISHNAN STOP,13.04413,80.27044
+11298,PORUR GK THEATRE,13.03459,80.15940
+11299,C.L.R.I,13.00674,80.24338
+11300,YG,13.00657,80.25770
+11307,Strahans Rd,13.09777,80.26031
+11301,ARULJOTHI AALAYAM,13.24082,80.21591
+11302,Surya Narayana Road,13.12209,80.29399
+11303,WPGYAYUR,13.23983,80.21696
+11304,Periyar nagar1,13.11758,80.21979
+6945,Peravallur,13.11651,80.23090
+11305,Mem Hall Rd,13.08361,80.27878
+11306,Perambur Barracks Rd,13.09725,80.25990
+11308,ww1,13.07866,80.10067
+11309,www2,13.11717,80.13603
+11310,www3,13.12009,80.13981
+11311,Thirumullaivoyal,13.13091,80.13116
+11312,www4,13.15071,80.07025
+7444,Mittanamalli Hr Sec Shool,13.15621,80.07069
+11313,www5,13.14721,80.07008
+11221,WAY1,12.94289,80.19390
+11222,Vijayaraghava Rd,13.04373,80.24260
+11223,W3,13.03098,80.24578
+11224,Sennankaranai,13.29340,79.96978
+11225,W4,12.89001,80.11180
+11226,Gangai Adi Kuppam,13.28388,80.19920
+11227,Gangai Adi Kuppam,13.28383,80.19955
+11228,Periya Colony Bus Stop,13.11810,80.03700
+11229,Dhandumedu,13.25395,80.06473
+11230,W5,13.04340,80.24472
+11231,way2,13.24089,80.21589
+11237,Kilacheri,13.02763,79.85255
+11232,Tamilnadu Agro Industries,13.00777,80.20626
+11233,W6,13.02888,80.25654
+11234,M7,13.04145,80.24421
+11235,M6,13.04298,80.24721
+11236,Katrambakkam,12.96844,80.01333
+11238,Kilacheri,13.02766,79.85256
+11239,Karanai,12.99765,79.85258
+11240,karanai,12.99779,79.85262
+11241,Pudupattu Road Junction,12.96701,79.85335
+11242,Pudupattu Road Junction,12.96699,79.85336
+11243,Madhuramangalam Road Junction,12.94448,79.86128
+11244,Madhuramangalam Road Junction,12.94456,79.86135
+11245,Sogandi,12.94340,79.86895
+11246,Sogandi,12.94343,79.86882
+11247,Pudupattu,12.96921,79.83908
+11248,Pudupattu,12.96913,79.83908
+11249,way3,13.01867,80.15063
+11250,way4,13.01941,80.15688
+11251,H1,13.04196,80.20794
+11252,WPSevvapet School,13.12881,79.97547
+11253,ANUPPAMPATTU R.S,13.30376,80.23149
+6553,Perungalathur,12.90556,80.09607
+11254,WAY6,13.04209,80.14929
+11255,OLYMPIA TECH PARK,13.01498,80.19401
+11159,Island ground Terminus,13.07826,80.28144
+11314,K.M.C HOSPITAL 2,13.07754,80.24057
+11315,ELEPHANT GATE STOP,13.09234,80.26960
+11317,VEPERY 2,13.08630,80.26117
+11318,THIRUMANGALAM,12.92874,79.89216
+11319,BUS STOP,12.92316,79.87523
+11320,VE,13.08577,80.26284
+11321,Uthamar Gandhi Salai,13.06162,80.24754
+11322,a5r,12.90629,80.15038
+11323,a5r1,12.90673,80.14375
+11324,TBMS,12.92359,80.11693
+11328,Dams road,13.06712,80.26859
+11325,GE,13.05369,80.24972
+11326,R 7 POLICE STATION,13.04383,80.19846
+11327,GAN,13.06347,80.24379
+11329,Sitharkadu,13.08989,80.05232
+11331,www8,13.08945,80.05642
+11330,Tirukoilpathu,13.07873,80.05679
+11332,wwww1,13.09079,80.05724
+11333,Bharathirajaa Hospital,13.05272,80.24523
+11334,WWWW7,13.08954,80.05729
+11344,HIGH COURT 1,13.08524,80.28618
+11335,WAY TO POONAMALLE,13.06837,80.07305
+11336,Tirukoilpathu,13.07872,80.05679
+11337,Sitharkadu,13.09008,80.05235
+11158,Royapuram terminus,13.10212,80.29424
+9158,Foreshore Estate Bus Terminus,13.02264,80.27635
+5820,Foreshore Estate Bus Stop,13.02537,80.27482
+10536,Manali Bus Terminus,13.17012,80.25743
+10627,Ponneri Bus Terminus,13.32944,80.18744
+11338,Koyambedu Out Waypoint,13.06820,80.20502
+7695,Pandeshwaram,13.19154,80.06622
+11339,www9,13.19587,80.07199
+11340,Melkondaiyur Bus Stop,13.18299,80.01226
+11341,Vathattur Bus Stop,13.17594,79.99801
+11342,www10,13.18027,80.00907
+11343,TDD,13.13637,80.29156
+6877,Vyasarpadi,13.11127,80.26560
+11345,puthur kattu,13.04414,80.21184
+11346,motcham,13.08344,80.24972
+1739,Kaliyappa Hospital,13.02714,80.25435
+11347,k.junc,12.81665,80.16010
+11349,KATHIPARA BRIDGE,13.00819,80.20492
+1048,Concorde Or Chellammal College,13.01188,80.22205
+11350,ECI Chruch,12.99975,80.21076
+11351,Sri krishna sweets and bakery,12.99730,80.21046
+11352,CIT NAGAR CUT,13.03079,80.23083
+11353,WAY POINT 123,13.07755,80.27615
+11354,Egmore Railway Station,13.07772,80.26202
 6322,Madambakkam,12.85135,80.04585
 5612,Icf Annexe,13.10158,80.21253
 5617,Noor Hotel,13.09853,80.23526
@@ -1034,10 +1178,10 @@ stop_id,stop_name,stop_lat,stop_lon
 10149,Sammndam Nagar Main Road,12.99006,80.10314
 10168,Kovoor Rd Jn,13.00960,80.12121
 10186,Asaramam - Near Ramapuram,13.01905,80.17815
-10305,C.P.W.D Quarters,13.08222,80.19839
+10305,VR MALL,13.08222,80.19839
 5586,Cit Colony,13.03876,80.25762
 6366,Ponmar Colony,12.86280,80.17436
-6367,Ponmar Colony,12.86282,80.17425
+6367,Ponmar Colony,12.86300,80.17434
 10451,Veppampattu Or Madha Kovil,13.12596,80.01008
 5834,Thiruvallur Post Office,13.13188,79.90945
 10544,Wimco Nagar,13.17903,80.30713
@@ -1056,7 +1200,6 @@ stop_id,stop_name,stop_lat,stop_lon
 5536,Thangal Tollgate,13.14434,80.29694
 7729,Elite Matriculation Higher Secondary,13.19516,80.17704
 7727,Gandhi Nagar Redhills,13.19502,80.16818
-2,Broadway,13.08848,80.28404
 5944,Mandapam,12.62087,80.19237
 5945,Savadi,12.62602,80.17125
 5943,Mandapam Market,12.62080,80.19454
@@ -1081,12 +1224,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5956,Pattipulam Arasamaram,12.66183,80.20928
 5957,Pattipulam Arasamaram,12.66216,80.20917
 7734,Bammedukulam,13.19617,80.16358
-40,Data Udupi Hotel,13.03680,80.19844
 46,Egmore Womens Hospital,13.07192,80.25936
 7735,Red Hills Thiruvallur Road Junction,13.19630,80.18098
 5953,Payyanur Rice Mill,12.64772,80.17437
 45,Egmore Railway Station,13.07736,80.26128
 5962,Kalavakkam,12.68221,80.15514
+40,Data Udupi Hotel,13.03680,80.19844
 5963,Pattipulam Colony,12.68641,80.21594
 5964,Pattipulam Colony,12.68648,80.21617
 5965,Chiruthavoor Junction,12.68848,80.15867
@@ -1275,7 +1418,7 @@ stop_id,stop_name,stop_lat,stop_lon
 6074,Thaiyur,12.77465,80.19401
 6075,Karuneelam Road Junction,12.77530,80.05399
 7785,Sirugavur,13.20626,80.21719
-7787,Nehru Nagar Ennore,13.20689,80.31547
+7787,Nehru Nagar Ennore,13.20698,80.31548
 6076,Karuneelam Road Junction,12.77537,80.05396
 6077,Keelkaranai,12.77682,80.01008
 6078,Keelkaranai,12.77689,80.01053
@@ -1333,7 +1476,6 @@ stop_id,stop_name,stop_lat,stop_lon
 74,Mahalingapuram,13.05405,80.23198
 73,Mahalingapuram,13.05399,80.23277
 72,M G R Nagar Market,13.03641,80.20144
-69,M G R Nagar,13.03715,80.19603
 68,Luz Corner,13.03842,80.26769
 7799,Vanianchathiram,13.21166,80.09338
 7800,Periya Kuppam,13.21173,80.32357
@@ -1345,6 +1487,7 @@ stop_id,stop_name,stop_lat,stop_lon
 81,Mettupalayam Market,13.02856,80.21985
 5539,Apollo Or Cholera Hospital,13.12872,80.29082
 6142,Maraimalai Nagar,12.79950,80.02328
+69,Ajantha,13.03715,80.19603
 7802,Periya Kuppam,13.21196,80.32354
 7803,Thamaraipakkam,13.21198,80.02924
 7804,Hinduja Foundries,13.21249,80.31815
@@ -1426,7 +1569,7 @@ stop_id,stop_name,stop_lat,stop_lon
 6164,Anjaneyar Temple Pudupakkam,12.80614,80.18940
 6165,Cosmo City,12.80622,80.20064
 6166,Cosmo City,12.80638,80.20057
-5441,Kamarajar Avenue 2nd Street,13.00123,80.25658
+5441,Kamarajar Avenue 2nd Street,13.00144,80.25656
 5442,Kalashetra Road,12.99039,80.25604
 5444,Rajiv Gandhi Salai (Madya Kailas),13.00664,80.24748
 5445,Gandhi Mandapam Road,13.00680,80.24032
@@ -1497,11 +1640,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5513,Mahalingapuram Main Road,13.06109,80.23751
 6194,Maduranallur,12.81687,79.86058
 6195,Maduranallur,12.81708,79.86052
-6196,Kolathur Junction,12.81818,80.16048
+6196,Kolathur Junction,12.81800,80.16038
 6197,Kolathur Junction,12.81824,80.16044
 7840,Nappalayam,13.21823,80.27249
 7841,Nappalayam,13.21826,80.27281
-54,Hotel Everest,13.08081,80.26810
+54,Hotel Everest,13.08079,80.26811
 61,Kaveri Nager,13.02868,80.22708
 50,Express Avenue,13.06048,80.26537
 51,Express Avenue,13.06044,80.26543
@@ -1537,7 +1680,6 @@ stop_id,stop_name,stop_lat,stop_lon
 63,Liberty,13.05382,80.22725
 71,M G R Nagar Market,13.03632,80.20159
 6209,Tiruchariy Pudupakkam,12.82133,80.20379
-70,M G R Nagar,13.03728,80.19597
 84,Munusamy Salai,13.03854,80.19282
 109,Pondicherry Guest House,13.04190,80.19340
 116,Ramasamy Salai Amman Koil,13.04145,80.19676
@@ -1822,14 +1964,13 @@ stop_id,stop_name,stop_lat,stop_lon
 6356,Tagore Engineering College Rathinamangalam,12.86042,80.13147
 6357,Vattambakkam,12.86044,79.96028
 5578,Redhills Bus Terminus,13.18551,80.19125
-6359,Ponmar,12.86068,80.17325
+6359,Ponmar,12.86084,80.17334
 7917,Pagalmedu,13.23780,80.02032
 7918,Budur,13.23803,80.19888
 6360,Ponmar,12.86059,80.17342
 6361,Tagore Engineering College Rathinamangalam,12.86082,80.13091
 6362,Semmancheri,12.86166,80.22640
 992,Chiruthavoor Junction,12.68838,80.15855
-6363,Ottiyambakkam,12.86224,80.19132
 6364,Ottiyambakkam,12.86231,80.19135
 7552,Karkil Puram,13.17144,80.29008
 7554,Mathur Bus Stand,13.17146,80.24743
@@ -1867,14 +2008,14 @@ stop_id,stop_name,stop_lat,stop_lon
 5607,Tamil Nadu Open University Or Panagal Maligai,13.02114,80.22568
 5610,Kalpana Hotel,13.10318,80.20766
 5611,Kallukkadai,13.10206,80.21100
-7924,Arumandai School,13.23974,80.21693
+7924,Arumandai School,13.23976,80.21702
 6375,Vengadamangalam Villege,12.86560,80.15007
 6376,Vengambakkam Bus Stand,12.86667,80.12774
 6379,Urappakam,12.86780,80.07585
 5619,Shenoy Nagar Or Pulla Avenue,13.07686,80.22505
 5620,Medavakkam Mental Hospital,13.09119,80.24095
 6377,Urappakkam Railway Station,12.86739,80.06988
-7925,Arumandai School,13.23988,80.21688
+7925,Arumandai School,13.23987,80.21688
 7926,Orakkadu,13.24116,80.18392
 6380,Madurapakkam,12.86802,80.17113
 5623,Purasaivakkam Tank,13.08365,80.25460
@@ -1899,7 +2040,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5634,Ramakrishna Mutt Road,13.02562,80.26549
 5636,Ramakrishna Mutt Road,13.02559,80.26557
 6387,Uthandi,12.86894,80.24364
-6388,Tellus Avenue,12.86943,80.19140
+6388,Tellus Avenue,12.86934,80.19144
 6389,Tellus Avenue,12.86945,80.19134
 7929,Periamullaivoyal,13.24124,80.23547
 5637,D.G.P Office,13.04307,80.27975
@@ -1937,18 +2078,18 @@ stop_id,stop_name,stop_lat,stop_lon
 5661,Abirami Theatre,13.08570,80.24658
 5662,Medavakkam Kellys,13.08829,80.24196
 5663,Medavakkam Mental Hospital,13.09052,80.24076
-7935,Pudupakkam,13.24334,80.21541
+7935,Pudupakkam,13.24333,80.21550
 6402,Anna Nagar Colony,12.87159,80.10148
 6403,Satyabhama University,12.87195,80.22683
 5664,Sayani Theatre Aynavaram,13.09765,80.23974
 5667,Railway Quarters,13.09987,80.22523
 5672,Kalpana Hotel,13.10313,80.20766
-5673,J.J.Nagar West,13.08264,80.17006
 6406,Sarapanchery,12.87296,79.98509
 6407,Serapanacheri,12.87326,79.98533
 6405,Vengambakkam Village,12.87277,80.13282
 5671,Kallukkadai,13.10207,80.21085
 5670,Icf Annexe,13.10147,80.21251
+5673,J.J.Nagar West Terminus,13.08264,80.17006
 5678,Blue Star,13.08495,80.21157
 5679,Anna Nagar Roundtana,13.08472,80.21695
 5680,Anna Arch,13.07632,80.21813
@@ -1993,13 +2134,13 @@ stop_id,stop_name,stop_lat,stop_lon
 5701,Telephone Exchange,13.10160,80.16205
 6420,Kumaran Nagar,12.87794,80.22698
 6421,Arasankazhani,12.87842,80.19273
-6422,Arasankazhani,12.87857,80.19283
 7943,Mabuskanpetai,13.24807,80.21519
 5708,Chinthamani,13.08460,80.22451
 6424,Vandalur Zoo,12.87905,80.08065
 5711,Chetpet,13.07034,80.24207
+6422,Arasankazhani Rice Mill,12.87857,80.19283
 5712,M.O.P Vaishnava College,13.05499,80.24956
-7944,Mabuskanpetai,13.24811,80.21512
+7944,Mabuskanpetai,13.24820,80.21517
 6425,Chemmenchery Arch,12.87957,80.21132
 6423,Vandalur Zoo,12.87891,80.08026
 6426,Chemmenchery Arch,12.87950,80.21096
@@ -2053,7 +2194,7 @@ stop_id,stop_name,stop_lat,stop_lon
 6442,Vallakottai,12.88305,79.93542
 9784,Parrys Corner,13.08871,80.29000
 5753,M.G.R Janaki College Or Sathya Studio,13.01623,80.25952
-5754,Dasaprakash Hotel Or Petrol Pump,13.07981,80.25462
+5754,Dasaprakash Hotel Or Petrol Pump,13.07976,80.25463
 5755,Rani Meyyammai School,13.02275,80.26369
 5756,Rani Meyyammai School,13.02206,80.26342
 6444,Bvm School,12.88351,80.19957
@@ -2110,12 +2251,12 @@ stop_id,stop_name,stop_lat,stop_lon
 5793,Adyar Gandhi Nagar,13.00946,80.25516
 5794,B Ramachandra Adithanar Road,13.00975,80.24897
 5795,Cancer Hospital,13.01089,80.24885
-5797,Aminjikarai,13.07386,80.22560
 6463,Alapakkam,12.88684,80.10712
 5799,Pasumpon Muthuramalingam Devar Road,13.02733,80.25385
 6464,Sithalapakkam,12.88705,80.18425
 6466,Alapakkam,12.88706,80.10707
 7958,Athipattu Pudhu Nagar,13.25199,80.30412
+5797,Aminjikarai,13.07386,80.22560
 5802,Government Gym,13.02378,80.25892
 6467,Sithalapakkam,12.88710,80.18428
 5800,Greenways Road,13.02279,80.25282
@@ -2278,11 +2419,11 @@ stop_id,stop_name,stop_lat,stop_lon
 5874,Nemam,13.07836,80.02544
 5870,Keelmanabedu,13.06393,80.04513
 5871,Mel Menambedu,13.06668,80.03932
-6554,Perungalattur,12.90648,80.09617
 6552,Veerabadra Nagar,12.90639,80.18895
 5872,Vellavedu,13.06789,80.03688
 5869,Thirumazhisai Bus Stand,13.05499,80.05728
 7995,Minjur B D O Office,13.26755,80.26462
+6554,Perungalathur,12.90648,80.09617
 5875,Puduchatram,13.08930,80.00936
 5877,Murukanchery,13.09806,79.97900
 5878,Aranvoyal Kuppam,13.09919,79.97485
@@ -2312,8 +2453,8 @@ stop_id,stop_name,stop_lat,stop_lon
 6564,Perumbakkam,12.90781,80.19891
 5890,Karayanchavadi,13.04717,80.11188
 1723,Kalaivanar Arangam,13.06626,80.27483
-6565,Perungalatgur Lake View Stop,12.90879,80.09853
 6566,Varadarajapuram,12.90881,80.06876
+6565,Perungalathur Lake View Stop,12.90879,80.09853
 1734,Kalavakkam School,12.74434,80.20024
 1740,Kaliyappa Hospital,13.02721,80.25457
 6567,Varadarajapuram,12.90898,80.06866
@@ -2491,7 +2632,7 @@ stop_id,stop_name,stop_lat,stop_lon
 5344,Kannagi Nagar Depot,12.92534,80.23839
 5911,Bsnl Telephone Exchange,13.00077,80.25630
 6687,Sunguvarchatram,12.92599,79.88026
-5912,Bsnl Telephone Exchange,13.00075,80.25648
+5912,Bsnl Telephone Exchange,13.00121,80.25668
 6692,Tambaram West Bus Stand,12.92805,80.11933
 6691,Sai Baba Kovil,12.92756,80.25127
 6694,Thirumangalam,12.92916,79.88822
@@ -2523,7 +2664,7 @@ stop_id,stop_name,stop_lat,stop_lon
 10886,Palanjur,13.08029,80.21447
 5915,Bazullah Road,13.04718,80.23421
 6710,Vellaikal,12.93138,80.18161
-6711,Vellaikal,12.93161,80.18150
+6711,Vellaikal,12.93164,80.18158
 6713,Mambakkam Sipcot,12.93311,79.90679
 6714,Sithalapakkam Erikarai,12.93322,80.13804
 6715,Thirumalai Nagar,12.93326,80.16350
@@ -2543,7 +2684,7 @@ stop_id,stop_name,stop_lat,stop_lon
 10888,Sathuma Nagar,13.07575,80.21339
 6723,Pallikaranai,12.93412,80.20379
 6725,Vadakkupattu,12.93512,80.18228
-6724,Vadakkupattu,12.93510,80.18224
+6724,Vadakkupattu,12.93512,80.18233
 6726,Ptc Quarters,12.93571,80.23442
 6727,Loyola School,12.93574,80.14748
 8065,Avadi Road Junction,13.29853,80.04842
@@ -2608,7 +2749,6 @@ stop_id,stop_name,stop_lat,stop_lon
 8091,Kakkavakkam,13.31123,79.99749
 8092,Merattur,13.31127,80.27594
 8093,Merattur,13.31129,80.27590
-10893,Gundumedu,13.07486,80.22050
 8089,Thandalam,13.31067,80.00466
 8094,Kakkavakkam,13.31139,79.99728
 8095,Ariyapakkam,13.31166,80.03329
@@ -2664,7 +2804,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8016,Athipedu,13.27454,80.15106
 9090,Adduthotti Bridge,13.01849,80.21893
 8136,Vembakkam,13.32668,80.19959
-5932,War Memorial,13.07423,80.28620
+5932,War Memorial,13.07277,80.28558
 8140,Thommaram Bedu,13.32913,79.92149
 8141,Thommaram Bedu,13.32919,79.92155
 8143,Old Arani,13.33052,80.08272
@@ -2689,7 +2829,6 @@ stop_id,stop_name,stop_lat,stop_lon
 8160,Thiru Vellivoyal Ration Shop,13.33570,80.28571
 8161,Thiru Vellivoyal Ration Shop,13.33571,80.28562
 8162,Ponneri Bus Stand,13.33588,80.19384
-8163,Chennang Karanai,13.33676,79.98399
 8157,Agaram,13.33474,80.11196
 7896,New Erumai Vetti Palayam 1 Stop,13.23502,80.11881
 7897,New Erumai Vetti Palayam 1 Stop,13.23506,80.11885
@@ -2824,7 +2963,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8265,Pethi Kuppam Gate,13.43541,80.11937
 10918,Anna Nagar West Terminus,13.09383,80.19814
 8266,Pudhucehrimedu,13.43847,80.25167
-8267,Pudhucehrimedu,13.43852,80.25167
+8267,Pudhucehrimedu,13.43930,80.25052
 8268,Nomalur,13.44025,80.00256
 8269,Nomalur,13.44040,80.00268
 2532,Mandaveli Railway Station,13.02711,80.25992
@@ -2850,7 +2989,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8286,Sunnambu Kulam,13.48490,80.14573
 8287,Poongulam Colony,13.48494,80.17991
 8288,Poongulam Colony,13.48495,80.17983
-6432,Perumbakkam Scb,12.88006,80.20999
+6432,Perumbakkam Scb,12.88687,80.20988
 6431,Perumbakkam Scb,12.87997,80.21009
 5560,M.G.R Salai Nungambakkam Or Palm Grove,13.05319,80.24806
 10922,Guindy Industrial Estate Terminius,13.00930,80.21078
@@ -2914,10 +3053,10 @@ stop_id,stop_name,stop_lat,stop_lon
 8324,Varadharajapuram Kishkinda,12.93938,80.08305
 8326,Kovilambakkam,12.93952,80.18259
 8327,Hasthinapuram Mosque,12.93954,80.15383
-8328,Kovilambakkam,12.93964,80.18248
+8328,Kovilambakkam,12.93973,80.18255
 8329,Narayanapuram,12.93968,80.20558
 8335,Hasthinapuram,12.94051,80.15057
-8330,Narayanapuram,12.94006,80.20553
+8330,Narayanapuram,12.94009,80.20560
 8332,Anjugam Nagar,12.94020,80.08515
 8333,Anjugam Nagar,12.94026,80.08514
 8334,Hasthinapuram,12.94028,80.15043
@@ -2951,7 +3090,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8350,Sanatorium,12.94264,80.13302
 10936,Madhavaram Village Bus Terminus,13.15236,80.22824
 8343,Kumaran Kundram,12.94181,80.14304
-7514,Sasthiri Nagar Manali,13.16537,80.25351
+7514,MGR NAGAR,13.16537,80.25351
 7515,Rajaji Street,13.16593,80.28942
 7516,Rajaji Street,13.16594,80.28942
 8351,Nehru Nagar,12.94259,80.14058
@@ -3007,12 +3146,12 @@ stop_id,stop_name,stop_lat,stop_lon
 8395,Puliyamaram Sunnambu Kolathur,12.94866,80.19920
 8396,Ettiamman Kovil,12.94866,80.06472
 8397,Sunnambu Kolathur,12.94868,80.19522
+8403,Eachangadu Junction,12.94929,80.18470
 8399,Ettiamman Kovil,12.94875,80.06475
 8400,Sri Nagar,12.94876,80.20327
 8401,Ramji Nagar,12.94886,80.04716
 8402,Vadamangalam Road Junction,12.94885,79.92653
-8403,Eachangadu Junction,12.94900,80.18535
-8405,Eachangadu Junction,12.94902,80.18520
+8405,Eachangadu Junction,12.94940,80.18533
 8407,Nagathamman Temple,12.94907,80.23984
 8408,Durga Nagar,12.94910,80.12536
 8409,Nokia,12.94915,79.93863
@@ -3154,7 +3293,7 @@ stop_id,stop_name,stop_lat,stop_lon
 8532,Sakthi Nagar,12.96443,80.17677
 8531,Sakthi Nagar,12.96437,80.17681
 8533,Amarambedu Chatram,12.96446,80.01337
-8535,Ponniamman Kovil Road Junction,12.96459,80.19608
+8535,Ponniamman Kovil Road Junction,12.96465,80.19601
 8536,Ponniamman Kovil Road Junction,12.96480,80.19647
 8537,Ponniamman Kovil Road Junction,12.96486,80.19681
 5796,Adyar Canal Bank Road,13.01524,80.24859
@@ -3206,11 +3345,11 @@ stop_id,stop_name,stop_lat,stop_lon
 8582,Sidco Kunrathur,12.96908,80.09517
 8583,Nallur Check Post,12.96920,80.03241
 8577,Pallavaram Bus Stand,12.96698,80.14872
-8578,Pallavaram,12.96891,80.15000
+8578,Pallavaram,12.96894,80.14995
 8586,Nallur Check Post,12.96932,80.03244
 8588,Kottivakkam,12.96940,80.25774
 8589,Kattrambakkam,12.96944,80.01831
-5346,Saidapet Depot,13.01457,80.22520
+5346,Saidapet Depot,13.01399,80.22636
 8584,Thirumudivakkam Sidco,12.96929,80.09035
 8590,Moovarasampettai,12.96950,80.18626
 8591,Moovarasampettai,12.96954,80.18620
@@ -3279,12 +3418,12 @@ stop_id,stop_name,stop_lat,stop_lon
 8656,Tangarathinam Sweet Stall,12.97610,80.14510
 8657,Beeman Thanhal,12.97617,79.95883
 10981,Aminjikarai,13.07421,80.22680
-8652,Velachery,12.97603,80.22105
+8652,Velachery,12.97619,80.22122
 8659,Apollo Pharmacy,12.97619,80.14505
 8661,Amman Kovil,12.97620,80.18328
 8663,Beeman Thanhal,12.97649,79.95898
 8664,Ullagaram Oil Mill,12.97654,80.19324
-8660,Velachery,12.97617,80.22124
+8660,Velachery,12.97548,80.22090
 10982,Amca Mosque Stop,13.03955,80.21460
 8665,Balaji Nagar Junction,12.97662,80.20382
 8666,Thiruvalluvar Nagar Rto,12.97667,80.25920
@@ -3324,7 +3463,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7533,Kalyani Mahal,13.16814,80.23802
 7534,Manali Church,13.16818,80.25825
 8701,Mageshwari Nagar,12.97945,80.21894
-8702,Mageshwari Nagar,12.97958,80.21847
+8702,Mageshwari Nagar,12.97969,80.21854
 8703,Vetrivel Theatre,12.97975,80.18283
 8700,Govt High School Katrambakkam,12.97941,80.01612
 8698,Govt High School Katrambakkam,12.97930,80.01607
@@ -3483,8 +3622,6 @@ stop_id,stop_name,stop_lat,stop_lon
 8843,Guru Nanak College,12.99052,80.22030
 8848,Tms Tailoring School,12.99079,80.10866
 8845,Police Booth Cowl Bazaar,12.99053,80.14972
-10254,Kanni Amman Kovil,13.05455,80.16122
-10255,Kanni Amman Kovil,13.05456,80.16126
 10256,Sudalai Madaswamy Kovil,13.05495,80.17355
 8846,Cowl Bazar,12.99061,80.14962
 8849,Tms Tailoring School,12.99083,80.10860
@@ -3843,7 +3980,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7150,Moolakadai,13.12867,80.24220
 7156,Sevvapet School,13.12912,79.97188
 7157,Moolakadai,13.12918,80.24141
-7158,Sevvapet School,13.12922,79.97190
+7158,Sevvapet School,13.12918,79.97192
 7160,Vaishnavi Nagar,13.12961,80.12507
 7161,Uzhavar Nagar,13.12965,80.05776
 7162,Uzhavar Nagar,13.12970,80.05780
@@ -4133,7 +4270,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7482,Pothur,13.16112,80.15521
 7483,Chennai Petroleum Corporation Limited,13.16118,80.26925
 7480,Theradi,13.16065,80.30246
-7479,Theradi,13.16065,80.30258
+7479,Theradi,13.16059,80.30266
 7484,Chennai Petroleum Corporation Limited,13.16142,80.26892
 7486,Kollumedu,13.16194,80.11298
 7487,Thiruvotriyur Temple,13.16195,80.30287
@@ -4186,8 +4323,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7691,Vishnuvakkam,13.19102,79.96762
 7692,Ariyalur Bus Stop,13.19113,80.25192
 7693,Ernavoor Gate,13.19117,80.31070
-7694,Pandeshwaram,13.19157,80.06698
-7695,Pandeshwaram,13.19165,80.06672
+7694,Pandeshwaram,13.19154,80.06624
 7696,Kamarajapuram,13.19170,80.25729
 7685,Vathattur Kandigai,13.18961,80.00315
 7686,Vathattur Kandigai,13.18961,80.00327
@@ -4207,7 +4343,6 @@ stop_id,stop_name,stop_lat,stop_lon
 7710,Icici Bank Ennore,13.19251,80.31355
 7711,Kadapakkam,13.19254,80.26288
 7718,Vilangadupakkam,13.19321,80.22052
-7719,Red Hills Bus Stand Out Way,13.19328,80.18396
 7720,Vilangadupakkam,13.19345,80.22067
 7716,Redhills Bus Terminus,13.19289,80.18374
 7717,Red Hills Bus Stand In Way,13.19299,80.18417
@@ -4218,6 +4353,7 @@ stop_id,stop_name,stop_lat,stop_lon
 7724,Komakkambedu,13.19426,80.02961
 7725,Kalai Medu,13.19466,80.21040
 7726,Kalai Medu,13.19469,80.21055
+7719,Redhills Bus Stand,13.19366,80.18375
 8876,Sigamani Nagar,12.99329,80.09537
 8877,Sigamani Nagar,12.99336,80.09540
 8878,Indira Gandhi Nagar,12.99351,80.21010
@@ -4288,7 +4424,6 @@ stop_id,stop_name,stop_lat,stop_lon
 8966,St Thomas Mount Head Post Office,13.00186,80.19710
 8971,Thandalam,13.00299,80.12018
 8968,Thandalam,13.00273,80.12029
-8975,A Nagar,13.00334,80.12025
 8976,Olcott Memorial Higher Secondary School,13.00345,80.26869
 8977,Vhs Hospital,13.00359,80.24733
 8978,Irungattukottai Sipcot,13.00384,79.99370
@@ -4754,7 +4889,7 @@ stop_id,stop_name,stop_lat,stop_lon
 9581,Vengaya Mandi,13.07005,80.18155
 9582,Ayanambakkam Tea Stall,13.07039,80.15256
 9583,Ayanambakkam Tea Stall,13.07040,80.15250
-9572,Metrological Department Sterling Road,13.06767,80.24640
+9572,Metrological Department Sterling Road,13.06764,80.24644
 9573,Thiruverkadu Mgr Nagar,13.06773,80.12954
 9584,Veeraraghavapuram,13.07051,80.11275
 9586,Nerkundram Signal,13.07090,80.18216
@@ -4781,7 +4916,7 @@ stop_id,stop_name,stop_lat,stop_lon
 9609,Commissioner Office,13.07370,80.26172
 9610,Guruvappa Street,13.07374,80.26685
 9611,Chinthathripet Railway Station,13.07384,80.27355
-9614,Peeter School,13.07430,80.25304
+9614,Peeter School,13.07429,80.25312
 9615,Mettukulam,13.07433,80.19249
 9616,Athikulam,13.07458,79.90970
 9618,Aminjikarai Market,13.07467,80.23061
@@ -4953,7 +5088,7 @@ stop_id,stop_name,stop_lat,stop_lon
 9832,Ayalcheri Government School,13.09380,80.08084
 10569,Kizhanoor,13.19823,79.96282
 10571,Annai Sivakami Nagar Or Barma Nagar,13.19905,80.31585
-10572,E.T.P.S,13.20009,80.31303
+10572,E.T.P.S,13.20009,80.31310
 10573,E.T.P.S,13.20043,80.31334
 10568,Kizhanoor,13.19811,79.96289
 9834,Saravana Theatre,13.09384,80.25085
@@ -4979,7 +5114,7 @@ stop_id,stop_name,stop_lat,stop_lon
 9866,Vanniyar St,13.09653,80.18455
 9868,Aragadam,13.09669,80.26335
 9867,Vanniyar St,13.09660,80.18451
-9864,Jj Nagar Thandurai,13.09631,80.05779
+9864,Jj Nagar Thandurai,13.09635,80.05772
 9870,Aragadam,13.09681,80.26329
 9859,Sivan Kovil,13.09606,80.18787
 9873,Tb Hospital Ayanavaram,13.09710,80.24434
@@ -4988,7 +5123,7 @@ stop_id,stop_name,stop_lat,stop_lon
 9876,Otteri,13.09718,80.25137
 9877,Podi Kadai,13.09723,80.24807
 9878,Ayanavaram Signal,13.09730,80.24234
-9879,Podi Kadai,13.09736,80.24785
+9879,Podi Kadai,13.09724,80.24737
 9880,Gandhi Nagar,13.09738,80.21683
 9881,Scf Colony Ambattur,13.09741,80.14682
 9883,Pattalam,13.09746,80.25797
@@ -5217,10 +5352,8 @@ stop_id,stop_name,stop_lat,stop_lon
 10169,Sakthi Vinayagar Alayam Or Akash Nagar,13.00972,80.12950
 10161,Guindy Padavettamman Kovil,12.99957,80.21442
 10179,Virugambakkam Kulam,13.01103,80.13767
-10181,Gerugampakkam Murugan Kovil,13.01110,80.13576
 10185,Ekkattuthangal Or Ambal Nagar,13.01731,80.20545
 10187,Moulivakkam L&T,13.01912,80.14265
-10188,Asaramam - Near Ramapuram,13.01918,80.17826
 10184,Periyapanicheri,13.01268,80.13168
 10183,Periyapanicheri,13.01239,80.13194
 10190,Ekkattuthangal Or Ambal Nagar,13.01874,80.20623
@@ -5251,7 +5384,6 @@ stop_id,stop_name,stop_lat,stop_lon
 10223,S.I.E.T Gst,13.03784,80.24652
 10225,Duraiswamy Subway Or Pothys,13.04071,80.23098
 10226,Pondy Bazaar,13.04078,80.23778
-10227,Andal Nagar,13.04160,80.16079
 10228,Andal Nagar,13.04161,80.16076
 10224,Iyyappanthangal Bus Depot,13.03797,80.13535
 10233,Chembarambakkam Kovil,13.04349,80.06291
@@ -5310,16 +5442,16 @@ stop_id,stop_name,stop_lat,stop_lon
 10298,Egmore Railway Station - North,13.07951,80.26285
 10307,J.J.Nagar West,13.08296,80.17054
 10308,Motcham Aysha Hospital Or Motcham Theatre,13.08484,80.25024
-10309,Thirumangalam Or Sunguvarchattram,13.08527,80.19940
 10310,Aachi Masala Foods,13.08529,80.13743
 10311,M.G.R Salai,13.08535,80.16979
 10299,J.J.Nagar East Bus Terminus,13.08005,80.18064
 10314,M.G.R Salai,13.08552,80.16994
 10316,Payaigada Evening Bazar Road,13.08564,80.27978
 10320,Nehru Stadium Or Taluka Office,13.08699,80.26995
-10306,C.P.W.D Quarters,13.08225,80.19873
+10309,Thirumangalam,13.08527,80.19940
 10313,Vayalanallur Kovil,13.08549,80.06914
 10315,Vayalanallur Kovil,13.08560,80.06907
+10306,VR MALL,13.08225,80.19873
 10322,Water Tank Kilpauk New Avadi Road,13.08877,80.23063
 10323,Water Tank Kilpauk New Avadi Road,13.08901,80.23059
 10325,Bhuvaneshwari Theatre Or Vasanthi Theatre,13.09059,80.25862
@@ -5506,12 +5638,12 @@ stop_id,stop_name,stop_lat,stop_lon
 10558,Vadakarai Rice Mill Or Vadakarai Bypass,13.18662,80.19266
 10557,Vadakarai Rice Mill Or Vadakarai Bypass,13.18652,80.19279
 10556,Murugan Kovil Eranavoor,13.18631,80.30755
-10559,Murugan Kovil Eranavoor,13.18669,80.30772
 10574,Red Hills Eb Or Azhinjivakkam Road Junction,13.20162,80.19485
 10575,Red Hills Eb Or Azhinjivakkam Road Junction,13.20166,80.19474
 10576,E.P.T.S Quarters Or Kathivakkam,13.20330,80.31912
 10577,E.P.T.S Quarters Or Kathivakkam,13.20343,80.31915
 10578,Chinna Kuppam Or Ashok Leyland Back Gate,13.20636,80.32137
+10559,MULLAI NAGAR ENNORE,13.18612,80.30343
 10579,Chinna Kuppam Or Ashok Leyland Back Gate,13.20665,80.32155
 10580,Manali New Town Old Bus Terminus,13.20750,80.27334
 10581,Manali New Town Or Milk Booth,13.20794,80.27089
@@ -5532,7 +5664,7 @@ stop_id,stop_name,stop_lat,stop_lon
 10598,Sholavaram High School Or Bdo Office,13.24280,80.15962
 10601,N.C.T.P Staff Quarters,13.25371,80.28237
 10602,N.C.T.P Staff Quarters,13.25382,80.28232
-10603,Venkatesa Perumal Kovil Street,13.25385,80.21504
+10603,Venkatesa Perumal Kovil Street,13.25387,80.21517
 10604,Venkatesa Perumal Kovil Street,13.25386,80.21514
 10600,H.P.C.L Terminal Ennore Main Gate,13.24906,80.31342
 10599,H.P.C.L Terminal Ennore Main Gate,13.24877,80.31355
@@ -5555,8 +5687,6 @@ stop_id,stop_name,stop_lat,stop_lon
 10622,Durainallur Or Chinnambedu,13.32057,80.13288
 10624,Anjathamman Temple Or Anjatham Magudi,13.32413,80.06394
 10625,Anjathamman Temple Or Anjatham Magudi,13.32421,80.06393
-10626,Ponneri Bus Depot,13.32918,80.18751
-10627,Ponneri Bus Depot,13.32944,80.18744
 10628,Ponneri Old Bus Stand Or Ponneri Market,13.33521,80.19010
 10629,Ponneri Old Bus Stand Or Ponneri Market,13.33547,80.19040
 10630,Mahindra Industrial Park,13.34169,80.16138
@@ -5564,6 +5694,7 @@ stop_id,stop_name,stop_lat,stop_lon
 10632,Thiru Vellivoyal Madha Kovil,13.34232,80.28433
 10633,Thiru Vellivoyal Madha Kovil,13.34266,80.28429
 10634,R.M.K College,13.35518,80.14152
+10626,Ponneri Bus Terminus,13.32918,80.18751
 10635,R.M.K College,13.35565,80.14096
 10637,T J S Engineering College Or Kavarapett,13.36407,80.13969
 10638,Thathamanji,13.37830,80.27973
