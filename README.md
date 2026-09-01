@@ -15,6 +15,7 @@ Open [GTFS (General Transit Feed Specification)](https://developers.google.com/t
 | **MTC Buses** | `data/mtc/` | 728 routes, 2000+ stops |
 | **CMRL Metro** | `data/cmrl/` | 44 stations, Blue + Green Lines |
 | **Unified** | `data/unified/` | MTC + CMRL combined |
+| **Chennai One** | [`data/chennai-one/`](data/chennai-one/) | Second collection: MTC + CMRL + **suburban rail**, with road- and track-matched shapes |
 
 ### Quick download
 
@@ -23,6 +24,9 @@ Open [GTFS (General Transit Feed Specification)](https://developers.google.com/t
 | MTC Buses | [`data/mtc-gtfs.zip`](data/mtc-gtfs.zip) |
 | CMRL Metro | [`data/cmrl-gtfs.zip`](data/cmrl-gtfs.zip) |
 | Unified | [`data/chennai-unified-gtfs.zip`](data/chennai-unified-gtfs.zip) |
+| Chennai One — MTC | [`data/chennai-one-mtc-gtfs.zip`](data/chennai-one-mtc-gtfs.zip) |
+| Chennai One — CMRL | [`data/chennai-one-cmrl-gtfs.zip`](data/chennai-one-cmrl-gtfs.zip) |
+| Chennai One — Suburban rail | [`data/chennai-one-suburban-gtfs.zip`](data/chennai-one-suburban-gtfs.zip) |
 
 ---
 
@@ -32,13 +36,15 @@ Open [GTFS (General Transit Feed Specification)](https://developers.google.com/t
 |--------|--------|------------|
 | MTC Buses | MTC mobile app | Collected by UngalSoththu |
 | CMRL Metro | CMRL website (timetable + fare PDF) | Scraped by UngalSoththu |
+| MTC + CMRL + Suburban (`data/chennai-one/`) | Chennai One app (CUMTA multimodal) | Collected by Reclaim Chennai; shapes matched to OSM road and rail geometry |
 
 ### Limitations
 
-- **MTC shapes**: Straight-line per route. Actual road paths require OSM road matching.
-- **CMRL schedules**: Published as frequency bands (headway in minutes), not exact departure times. GTFS built using `frequencies.txt`.
-- **CMRL shapes**: Straight-line station-to-station. Actual track geometry unavailable.
+- **MTC shapes**: Straight-line per route. Actual road paths require OSM road matching. *(Road-matched shapes available in [`data/chennai-one/mtc/shapes.txt`](data/chennai-one/mtc/shapes.txt).)*
+- **CMRL schedules**: Published as frequency bands (headway in minutes), not exact departure times. GTFS built using `frequencies.txt`. *(Exact per-station times in [`data/chennai-one/cmrl/`](data/chennai-one/cmrl/).)*
+- **CMRL shapes**: Straight-line station-to-station. Actual track geometry unavailable. *(Track-matched shapes in [`data/chennai-one/cmrl/shapes.txt`](data/chennai-one/cmrl/shapes.txt).)*
 - **MTC data**: Unofficial — collected via app inspection.
+- **Two collections, not merged**: `data/chennai-one/` is an independent collection with its own route and stop ids. The two cannot be joined row-for-row — see [its README](data/chennai-one/README.md).
 
 ---
 
@@ -128,7 +134,7 @@ Transit agencies submit feeds via [Transit Partner Portal](https://transit.googl
 | **Pune** | PMPML | 🟡 Limited | Partial | Unofficial efforts |
 | **Kochi** | Kochi Metro | 🟡 Limited | Partial | Unofficial |
 | **Chennai** | MTC + CMRL | 🟡 This repo | Unofficial | Collected here |
-| **All cities** | Indian Railways (Suburban) | ❌ None | — | Not published anywhere |
+| **All cities** | Indian Railways (Suburban) | 🟡 Chennai only, this repo | Unofficial | [`data/chennai-one/suburban/`](data/chennai-one/suburban/) |
 
 ### Key insight
 
@@ -143,13 +149,17 @@ Hyderabad and Bengaluru publish **official GTFS**. Chennai's civic tech communit
 | MTC Buses | 728 routes | ⚠️ Straight-line | ✅ Timetable | Collected via MTC app |
 | CMRL Blue Line | 26 stations | ⚠️ Straight-line | ✅ Headway-based | Frequency-only data |
 | CMRL Green Line | 18 stations | ⚠️ Straight-line | ✅ Headway-based | Frequency-only data |
+| Chennai One — MTC | 1,026 services | ✅ Road-matched | ✅ Timetable | 50,497 trips/day, board type per trip |
+| Chennai One — CMRL | 51 stations | ✅ Track-matched | ✅ Exact times | 1,114 trips/day |
+| Chennai One — Suburban | 599 routes | ✅ Track-matched | ✅ Exact times | 612 trips/day, MRTS + main line |
 
 ### Known gaps
 
-1. **No suburban rail** — Chennai's Southern Railway suburban system (MRTS + main line) has zero GTFS data. This is the biggest gap.
-2. **No exact CMRL departure times** — CMRL publishes only headways, not precise schedules.
-3. **Straight-line shapes** — Actual road/track geometry not modeled.
+1. ~~**No suburban rail**~~ — now covered by [`data/chennai-one/suburban/`](data/chennai-one/suburban/): 599 routes, 612 trips/day across MRTS and the main line.
+2. ~~**No exact CMRL departure times**~~ — [`data/chennai-one/cmrl/`](data/chennai-one/cmrl/) carries per-station arrival and departure times for 1,114 trips.
+3. ~~**Straight-line shapes**~~ — road- and track-matched geometry in `data/chennai-one/`; the primary feeds are still straight-line.
 4. **No real-time** — GTFS is static (schedule only). GTFS-RT requires operator cooperation.
+5. **Two unmerged collections** — the primary feeds and `data/chennai-one/` describe the same network with different ids. Reconciling them into one set is open work.
 
 ---
 
@@ -181,6 +191,7 @@ Open an issue with:
 ## Related projects
 
 - [Ithu Ungal Soththu](https://ungalsoththu.zo.space) — Chennai MTC accountability project
+- [Reclaim Chennai maps](https://mtc.reclaimchennai.city) — the `data/chennai-one/` feeds rendered as a route map
 - [MTC Watchdog Grievance Scout](/?t=automations) — Automated MTC complaint monitoring
 - [TransitLand](https://transit.land) — Global GTFS registry (ChennaiGTFS feeds already indexed)
 - [OpenTripPlanner](https://www.opentripplanner.org/) — Open-source multimodal router
@@ -196,7 +207,7 @@ All data in this repo is published under [ODbL (Open Database License)](https://
 - Use: commercial and non-commercial purposes
 
 **You must:**
-- Attribute: credit "UngalSoththu / Ithu Ungal Soththu"
+- Attribute: credit "UngalSoththu / Ithu Ungal Soththu" (and "Reclaim Chennai" for `data/chennai-one/`)
 - Keep derivatives open: if you remix or build on this data, publish under ODbL
 
 ---
