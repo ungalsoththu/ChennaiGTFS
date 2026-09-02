@@ -150,7 +150,7 @@ Hyderabad and Bengaluru publish **official GTFS**. Chennai's civic tech communit
 | CMRL Blue Line | 26 stations | ⚠️ Straight-line | ✅ Headway-based | Frequency-only data |
 | CMRL Green Line | 18 stations | ⚠️ Straight-line | ✅ Headway-based | Frequency-only data |
 | Chennai One — MTC | 1,026 services | ✅ Road-matched | ✅ Timetable | 50,497 trips/day, board type per trip |
-| Chennai One — CMRL | 51 stations | ✅ Track-matched | ✅ Exact times | 1,114 trips/day |
+| Chennai One — CMRL | 41 stations | ✅ Track-matched | ✅ Exact times | 822 trips/day |
 | Chennai One — Suburban | 599 routes | ✅ Track-matched | ✅ Exact times | 612 trips/day, MRTS + main line |
 
 ### Known gaps
