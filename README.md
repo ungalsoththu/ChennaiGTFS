@@ -1,208 +1,142 @@
-# ChennaiGTFS — Open Transit Data for Chennai
+# ChennaiGTFS
 
-![GTFS](https://img.shields.io/badge/GTFS-v2-blue) ![Transit Systems](https://img.shields.io/badge/Systems-2-green) ![License: ODbL](https://img.shields.io/badge/License-ODbL--PDDL-red)
+**Chennai's transit network as open, machine-readable GTFS** — MTC buses, CMRL Metro, and Southern Railway suburban — maintained by [UngalSoththu](https://github.com/ungalsoththu) (உங்கள் சொத்து).
 
-Open [GTFS (General Transit Feed Specification)](https://developers.google.com/transit/gtfs) feeds for Chennai's public transit systems — collected and maintained by **UngalSoththu** as part of the [Ithu Ungal Soththu](https://ungalsoththu.zo.space) accountability project.
+![Version](https://img.shields.io/badge/version-0.2.0-blue) ![License](https://img.shields.io/badge/license-ODbL--PDDL-green) ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-> **Goal**: Make Chennai's transit data as open and accessible as Bengaluru, Hyderabad, and Delhi.
+## Downloads
 
----
+| Feed | File | Contents |
+|------|------|----------|
+| **Chennai Unified** | [chennai-unified-gtfs.zip](data/chennai-unified-gtfs.zip) | MTC + CMRL + SRR, ID-prefixed, 1 agency-safe merge (v0.2.0) |
+| MTC buses | [mtc-gtfs.zip](data/mtc-gtfs.zip) | 4,611 routes, 5.6k stops, real timetables |
+| CMRL Metro | [cmrl-gtfs.zip](data/cmrl-gtfs.zip) | 28 routes, real timetable, shapes, zone fares (see caveat) |
+| Suburban rail | [srr-gtfs.zip](data/srr-gtfs.zip) | 763 services, 708 stations, pathways, Beach–Tambaram + Avadi–Arakkonam |
 
-## What's in this repo
+## Feed contents (v0.2.0)
 
-| Feed | Location | Contents |
-|------|----------|----------|
-| **MTC Buses** | `data/mtc/` | 728 routes, 2000+ stops |
-| **CMRL Metro** | `data/cmrl/` | 44 stations, Blue + Green Lines |
-| **Unified** | `data/unified/` | MTC + CMRL combined |
+| System | Routes | Stops/stations | Trips | Stop times | Notes |
+|--------|--------|----------------|-------|------------|-------|
+| MTC buses | 4,611 | 5,580 | 47,047 | 1,360,443 | Timetables from MTC app scrape; straight-line shapes |
+| CMRL Metro | 28 | 254 (40 stations + entrance/platform nodes) | 625 | 12,503 | Real departure times, 4.2k shape points, zone fares, transfers |
+| SRR suburban | 763 | 708 | 763 | 16,135 | First-ever public suburban GTFS for Chennai; 2,076 station pathways |
+| **Unified** | **5,402** | **6,542** | **48,435** | **1.39M** | 3 agencies, 12 services, 4 calendar exceptions |
 
-### Quick download
-
-| Feed | ZIP file |
-|------|----------|
-| MTC Buses | [`data/mtc-gtfs.zip`](data/mtc-gtfs.zip) |
-| CMRL Metro | [`data/cmrl-gtfs.zip`](data/cmrl-gtfs.zip) |
-| Unified | [`data/chennai-unified-gtfs.zip`](data/chennai-unified-gtfs.zip) |
-
----
+IDs are prefixed per system in the unified feed: `MTC-`, `CMRL-`, `SRR-`.
 
 ## Data sources
 
-| System | Source | Collection |
-|--------|--------|------------|
-| MTC Buses | MTC mobile app | Collected by UngalSoththu |
-| CMRL Metro | CMRL website (timetable + fare PDF) | Scraped by UngalSoththu |
+| System | Source | Collected |
+|--------|--------|-----------|
+| MTC | MTC official app (route/timetable scrape) | 2026-04 (weekly updates until 2026-04-27) |
+| CMRL | [CUMTA Transit Data portal](https://test.cumta.org) (`CMRL gtfs.zip`) | 2026-10-04 |
+| SRR | [CUMTA Transit Data portal](https://test.cumta.org) (`Southern Railways.zip`) | 2026-10-04 |
 
-### Limitations
+**On CUMTA's portal:** CUMTA quietly publishes GTFS through a test subdomain with an encrypted API and no announcement — we mirrored the feeds here for preservation and access. The portal carries no explicit license; source files remain © their agencies (CMRL / Southern Railway). This repo's compilation is published under ODbL/PDDL with attribution.
 
-- **MTC shapes**: Straight-line per route. Actual road paths require OSM road matching.
-- **CMRL schedules**: Published as frequency bands (headway in minutes), not exact departure times. GTFS built using `frequencies.txt`.
-- **CMRL shapes**: Straight-line station-to-station. Actual track geometry unavailable.
-- **MTC data**: Unofficial — collected via app inspection.
+### Caveats
 
----
+- **CMRL calendar is stale** — CUMTA's CMRL feed calendar ends 2021-12-31 and its fare chart is dated 22.02.2021. Treat as a historical/structural dataset (geometry, stations, zones, pathways are still valid), not a live schedule.
+- **MTC times are real, CUMTA's are not** — CUMTA's `static_mtc_gtfs_data.zip` (30 MB, 4,030 routes / 7,128 stops) stamps 4,721 trips with a placeholder `00:00:15` departure; we keep our app-scraped MTC feed as the schedule source of record. [Their zip](https://test.cumta.org/static_mtc_gtfs_data.zip) is worth grabbing for the larger stop catalogue.
+- **SRR is one trip per service** — Southern Railway's feed models each of 763 suburban services as a single daily trip pattern (calendar-driven), not per-train timetables.
 
-## How to consume GTFS feeds
+## What's inside
 
-### Apps and platforms that use GTFS
+```
+data/
+├── chennai-unified-gtfs.zip   ← all three systems merged
+├── mtc-gtfs.zip               ← MTC only
+├── cmrl-gtfs.zip              ← CMRL only (CUMTA-derived)
+├── srr-gtfs.zip               ← suburban rail only (CUMTA-derived)
+├── mtc/ cmrl/ srr/ unified/   ← same feeds, unpacked
+└── *.txt                      ← unified feed, loose files
+scripts/
+└── harmonize_v02.py           ← reproducible merge (v0.1 → v0.2)
+```
 
-| App / Platform | Platform | Notes |
-|----------------|----------|-------|
-| [Google Maps](https://maps.google.com) | All | Search transit, get schedules |
-| [OneBusAway](https://onebusaway.org) | All | Real-time arrival predictions |
-| [Transit](https://transitapp.com) | iOS/Android | Live departures |
-| [CityMapper](https://citymapper.com/chennai) | All | Multimodal routing |
-| [Namma Yatri](https://nammayatri.in) | Bengaluru | India's own MaaS platform |
-| [Tummoc](https://tummoc.com) | All | Multi-city ticketing + routing |
-| [OpenTripPlanner](https://www.opentripplanner.org) | Self-host | Build your own router |
-| [gtfs-rt-validator` | CLI | Validate GTFS quality |
+### Unified feed structure
 
-### Developers: Use GTFS in your code
+- `agency.txt` — 3 agencies: MTC (id 69), CMRL, SR
+- `calendar.txt` + `calendar_dates.txt` — 12 merged services, prefixed
+- `routes.txt`, `trips.txt`, `stop_times.txt` — all schedules, prefixed IDs
+- `shapes.txt` — CMRL track geometry
+- `transfers.txt` — CMRL inter-station transfers
+- `pathways.txt` — SRR station pathways (entrances ↔ platforms, 2,076 rows)
+- `fare_attributes.txt` + `fare_rules.txt` — CMRL zone-based fares
+
+## Consumers: use GTFS in your code
 
 ```python
-# Python: Parse GTFS with gtfs-kit
+# Python: parse GTFS with gtfs-kit
 from gtfs_kit import feed
-f = feed.Feed.from_path("chennai-unified-gtfs.zip")
-f.routes  # Route list
-f.stop_times  # All stop times
-f.compute_stats()  # Network statistics
+f = feed.read_feed("data/chennai-unified-gtfs.zip", dist_units="km")
+f.compute_trips_stats()
+```
 
-# R: Analyze with tidytransit
+```r
+# R: analyze with tidytransit
 library(tidytransit)
-gtfs <- read_gtfs("chennai-unified-gtfs.zip")
-head(gtfs$routes)
+gtfs <- read_gtfs("https://github.com/ungalsoththu/ChennaiGTFS/raw/main/data/chennai-unified-gtfs.zip")
 ```
 
-### Visualization and routing
+### Routing / trip planning
 
-```bash
-# Build a trip planner with OpenTripPlanner
-git clone https://github.com/opentripplanner/otp-setup
-./otp-build-and-run.sh --download --url https://github.com/ungalsoththu/ChennaiGTFS/raw/main/data/chennai-unified-gtfs.zip
-```
+- [OpenTripPlanner](https://www.opentripplanner.org/) — feed the unified zip in as `router-config` GTFS input
+- [gtfs-rt-validator](https://github.com/MobilityData/gtfs-validator) — validate any feed in this repo
 
-### Submit to Google Maps
+### Feed registries
 
-Transit agencies submit feeds via [Transit Partner Portal](https://transit.google.com/settings). Unofficial feeds can be submitted via [Google Maps Public Transit Feedback](https://support.google.com/maps/answer/2835194).
-
-### Register in transit data registries
-
-- [TransitLand](https://transit.land/feeds): Search and register feeds
-- [Mobility Database](https://database.mobilitydata.org/): Official GTFS registry
+- [Mobility Database](https://database.mobilitydata.org/) — registered as `mdb-3360` (Chennai Transport Corporation)
+- [TransitLand](https://transit.land/feeds) — indexed
 
 ---
 
 ## Why GTFS matters for Chennai
 
-**Chennai has 2 major transit systems but no official open data.**
-
-### The problem
-
-- MTC runs 3.5 million passengers/day across 700+ routes
-- CMRL runs 100+ stations across 2 lines
-- Neither publishes open schedule data
-- No unified, machine-readable view of Chennai's transit network
-
-### What GTFS enables
+**Chennai has 3 major transit systems, and until October 2026 none published open GTFS.**
 
 | Use case | Without GTFS | With GTFS |
 |----------|--------------|-----------|
 | Trip planner | Manual search | Automated routing |
-| Accessibility apps | Proprietary data | Open standard |
+| Accessibility (pathways) | ❌ | ✅ SRR pathways included |
+| Intermodal (bus ↔ metro ↔ suburban) | Guess | Compute via transfers |
 | Research / journalism | Scrape or survey | Clean dataset |
-| Intermodal connections | Guess | Compute |
-| Feed to Google Maps | ❌ | ✅ |
-| MaaS apps (Namma Yatri, Tummoc) | ❌ | ✅ |
 
----
+### What v0.2.0 changes
 
-## India GTFS landscape
+1. **Suburban rail gap closed** — the biggest known gap ("no suburban rail") is filled with CUMTA's SRR feed, covering Beach–Tambaram, Avadi–Arakkonam corridors and MRTS.
+2. **CMRL upgraded** from frequency-band estimates to CUMTA's real timetable with track geometry and zone fares.
+3. **Unified feed properly merged** — all IDs prefixed, 3 agencies, referential-validated.
 
-| City | System | GTFS Status | Official? | Feed Source |
-|------|--------|-------------|----------|-------------|
-| **Hyderabad** | Hyderabad Metro (L&T) | ✅ Available | Yes | [HMRL official](https://hmrl.telangana.gov.in) |
-| **Bengaluru** | BMTC + BMRCL | ✅ Available | Yes | [IUDX Mobility Platform](https://iudx.org.in) |
-| **Delhi** | DMRC + DIMTS | ✅ Available | Yes | [Open Transit Delhi](https://otd.delhi.gov.in) |
-| **Kolkata** | East-West Metro | ✅ Available | Yes | Rail Metro official |
-| **Mumbai** | MMRDA Metro + BEST | ❌ No feed | — | — |
-| **Pune** | PMPML | 🟡 Limited | Partial | Unofficial efforts |
-| **Kochi** | Kochi Metro | 🟡 Limited | Partial | Unofficial |
-| **Chennai** | MTC + CMRL | 🟡 This repo | Unofficial | Collected here |
-| **All cities** | Indian Railways (Suburban) | ❌ None | — | Not published anywhere |
+## Remaining gaps
 
-### Key insight
+1. **MTC shapes** — still straight-line; CUMTA's MTC zip has a larger stop catalogue but placeholder times.
+2. **CMRL live schedule** — source calendar expired 2021; needs CMRL to publish current timetables.
+3. **GTFS-Realtime** — none of the three agencies publish vehicle positions or trip updates.
+4. **MTC fare data** — no fare_attributes for buses yet.
 
-Hyderabad and Bengaluru publish **official GTFS**. Chennai's civic tech community is filling the gap with this repo. The Hyderabad HMRL GTFS published Nov 2024 shows what's possible when metro authorities engage with open data standards.
+## Contributing
 
----
+Found a wrong stop, missing route, or stale schedule? [Open an issue](https://github.com/ungalsoththu/ChennaiGTFS/issues) with route number / station name / expected vs actual + source.
 
-## Project status
-
-| System | Routes / Stations | Shapes | Schedules | Notes |
-|--------|-------------------|--------|-----------|-------|
-| MTC Buses | 728 routes | ⚠️ Straight-line | ✅ Timetable | Collected via MTC app |
-| CMRL Blue Line | 26 stations | ⚠️ Straight-line | ✅ Headway-based | Frequency-only data |
-| CMRL Green Line | 18 stations | ⚠️ Straight-line | ✅ Headway-based | Frequency-only data |
-
-### Known gaps
-
-1. **No suburban rail** — Chennai's Southern Railway suburban system (MRTS + main line) has zero GTFS data. This is the biggest gap.
-2. **No exact CMRL departure times** — CMRL publishes only headways, not precise schedules.
-3. **Straight-line shapes** — Actual road/track geometry not modeled.
-4. **No real-time** — GTFS is static (schedule only). GTFS-RT requires operator cooperation.
-
----
-
-## How to contribute
-
-Found an error? Open an issue or PR.
-
-### Improve data quality
+To rebuild the unified feed after editing per-system data:
 
 ```bash
-# Clone the repo
-git clone https://github.com/ungalsoththu/ChennaiGTFS.git
-cd ChennaiGTFS
-
-# Edit station coordinates, route names, or schedules
-# Test your GTFS
-python3 -c "from gtfs_kit import feed; f = feed.Feed.from_path('data/cmrl-gtfs.zip'); print(f.compute_stats())"
+python3 scripts/harmonize_v02.py
 ```
 
-### Report a data issue
+## Related
 
-Open an issue with:
-- Route number or station name
-- Expected vs actual data
-- Source that shows correct information
-
----
-
-## Related projects
-
-- [Ithu Ungal Soththu](https://ungalsoththu.zo.space) — Chennai MTC accountability project
-- [MTC Watchdog Grievance Scout](/?t=automations) — Automated MTC complaint monitoring
-- [TransitLand](https://transit.land) — Global GTFS registry (ChennaiGTFS feeds already indexed)
-- [OpenTripPlanner](https://www.opentripplanner.org/) — Open-source multimodal router
+- [Ithu Ungal Soththu](https://ungalsoththu.zo.space) — Chennai transit accountability
+- [CUMTA Transit Data portal](https://test.cumta.org) — the (quiet) official source we mirror
+- [Mobility Database catalog](https://github.com/MobilityData/mobility-database-catalogs) — global GTFS registry
 
 ---
 
 ## License
 
-All data in this repo is published under [ODbL (Open Database License)](https://opendatacommons.org/licenses/odbl/).
+Data compiled in this repo: [ODbL](https://opendatacommons.org/licenses/odbl/) / [PDDL](https://opendatacommons.org/licenses/pddl/) — attribute "UngalSoththu / ChennaiGTFS", keep derivatives open.
 
-**You are free to:**
-- Share: copy and redistribute the material
-- Use: commercial and non-commercial purposes
+Mirrored source files (CMRL, SRR): © their respective agencies (CMRL, Southern Railway), retrieved via CUMTA's public Transit Data portal; mirrored here for preservation, research, and open access.
 
-**You must:**
-- Attribute: credit "UngalSoththu / Ithu Ungal Soththu"
-- Keep derivatives open: if you remix or build on this data, publish under ODbL
-
----
-
-<p align="center">
-  <a href="https://ungalsoththu.zo.space">
-    <img src="https://img.shields.io/badge/Powered%20by-Zo%20Computer-7B3FE4?style=for-the-badge&logo=zoom&logoColor=white" alt="Powered by Zo Computer" />
-  </a>
-</p>
+Powered by [Zo](https://zo.computer).

@@ -1,3 +1,4 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang
-69,Metropolitan Transport Corporation,https://mtcbus.tn.gov.in/,Asia/Kolkata,ta
-CMRL,Chennai Metro Rail Limited,https://chennaimetrorail.org/,Asia/Kolkata,ta
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang,agency_fare_url,agency_email
+69,MTC,https://mtcbus.tn.gov.in,Asia/Kolkata,9445030516,en,,
+CMRL,Chennai Metro Rail Limited,http://chennaimetrorail.org/,Asia/Kolkata,1860-425-1515,en,https://chennaimetrorail.org/wp-content/uploads/2021/02/Fare-Chart-22.2.2021.pdf,chennaimetrorail@cmrl.in
+SR,Southern Railway,https://sr.indianrailways.gov.in,Asia/Kolkata,,,,

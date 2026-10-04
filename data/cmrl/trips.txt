@@ -1,97 +1,626 @@
-route_id,service_id,trip_id,direction_id,shape_id
-CMRL_1,weekday,CMRL_1_weekday_d0_05,0,CMRL_1_0
-CMRL_1,weekday,CMRL_1_weekday_d0_08,0,CMRL_1_0
-CMRL_1,weekday,CMRL_1_weekday_d0_11,0,CMRL_1_0
-CMRL_1,weekday,CMRL_1_weekday_d0_17,0,CMRL_1_0
-CMRL_1,weekday,CMRL_1_weekday_d0_20,0,CMRL_1_0
-CMRL_1,weekday,CMRL_1_weekday_d0_22,0,CMRL_1_0
-CMRL_1,weekday,CMRL_1_weekday_d1_05,1,CMRL_1_1
-CMRL_1,weekday,CMRL_1_weekday_d1_08,1,CMRL_1_1
-CMRL_1,weekday,CMRL_1_weekday_d1_11,1,CMRL_1_1
-CMRL_1,weekday,CMRL_1_weekday_d1_17,1,CMRL_1_1
-CMRL_1,weekday,CMRL_1_weekday_d1_20,1,CMRL_1_1
-CMRL_1,weekday,CMRL_1_weekday_d1_22,1,CMRL_1_1
-CMRL_1,saturday,CMRL_1_saturday_d0_05,0,CMRL_1_0
-CMRL_1,saturday,CMRL_1_saturday_d0_08,0,CMRL_1_0
-CMRL_1,saturday,CMRL_1_saturday_d0_11,0,CMRL_1_0
-CMRL_1,saturday,CMRL_1_saturday_d0_17,0,CMRL_1_0
-CMRL_1,saturday,CMRL_1_saturday_d0_20,0,CMRL_1_0
-CMRL_1,saturday,CMRL_1_saturday_d0_22,0,CMRL_1_0
-CMRL_1,saturday,CMRL_1_saturday_d1_05,1,CMRL_1_1
-CMRL_1,saturday,CMRL_1_saturday_d1_08,1,CMRL_1_1
-CMRL_1,saturday,CMRL_1_saturday_d1_11,1,CMRL_1_1
-CMRL_1,saturday,CMRL_1_saturday_d1_17,1,CMRL_1_1
-CMRL_1,saturday,CMRL_1_saturday_d1_20,1,CMRL_1_1
-CMRL_1,saturday,CMRL_1_saturday_d1_22,1,CMRL_1_1
-CMRL_1,sunday,CMRL_1_sunday_d0_05,0,CMRL_1_0
-CMRL_1,sunday,CMRL_1_sunday_d0_12,0,CMRL_1_0
-CMRL_1,sunday,CMRL_1_sunday_d0_20,0,CMRL_1_0
-CMRL_1,sunday,CMRL_1_sunday_d0_22,0,CMRL_1_0
-CMRL_1,sunday,CMRL_1_sunday_d1_05,1,CMRL_1_1
-CMRL_1,sunday,CMRL_1_sunday_d1_12,1,CMRL_1_1
-CMRL_1,sunday,CMRL_1_sunday_d1_20,1,CMRL_1_1
-CMRL_1,sunday,CMRL_1_sunday_d1_22,1,CMRL_1_1
-CMRL_2,weekday,CMRL_2_weekday_d0_05,0,CMRL_2_0
-CMRL_2,weekday,CMRL_2_weekday_d0_08,0,CMRL_2_0
-CMRL_2,weekday,CMRL_2_weekday_d0_11,0,CMRL_2_0
-CMRL_2,weekday,CMRL_2_weekday_d0_17,0,CMRL_2_0
-CMRL_2,weekday,CMRL_2_weekday_d0_20,0,CMRL_2_0
-CMRL_2,weekday,CMRL_2_weekday_d0_22,0,CMRL_2_0
-CMRL_2,weekday,CMRL_2_weekday_d1_05,1,CMRL_2_1
-CMRL_2,weekday,CMRL_2_weekday_d1_08,1,CMRL_2_1
-CMRL_2,weekday,CMRL_2_weekday_d1_11,1,CMRL_2_1
-CMRL_2,weekday,CMRL_2_weekday_d1_17,1,CMRL_2_1
-CMRL_2,weekday,CMRL_2_weekday_d1_20,1,CMRL_2_1
-CMRL_2,weekday,CMRL_2_weekday_d1_22,1,CMRL_2_1
-CMRL_2,saturday,CMRL_2_saturday_d0_05,0,CMRL_2_0
-CMRL_2,saturday,CMRL_2_saturday_d0_08,0,CMRL_2_0
-CMRL_2,saturday,CMRL_2_saturday_d0_11,0,CMRL_2_0
-CMRL_2,saturday,CMRL_2_saturday_d0_17,0,CMRL_2_0
-CMRL_2,saturday,CMRL_2_saturday_d0_20,0,CMRL_2_0
-CMRL_2,saturday,CMRL_2_saturday_d0_22,0,CMRL_2_0
-CMRL_2,saturday,CMRL_2_saturday_d1_05,1,CMRL_2_1
-CMRL_2,saturday,CMRL_2_saturday_d1_08,1,CMRL_2_1
-CMRL_2,saturday,CMRL_2_saturday_d1_11,1,CMRL_2_1
-CMRL_2,saturday,CMRL_2_saturday_d1_17,1,CMRL_2_1
-CMRL_2,saturday,CMRL_2_saturday_d1_20,1,CMRL_2_1
-CMRL_2,saturday,CMRL_2_saturday_d1_22,1,CMRL_2_1
-CMRL_2,sunday,CMRL_2_sunday_d0_05,0,CMRL_2_0
-CMRL_2,sunday,CMRL_2_sunday_d0_12,0,CMRL_2_0
-CMRL_2,sunday,CMRL_2_sunday_d0_20,0,CMRL_2_0
-CMRL_2,sunday,CMRL_2_sunday_d0_22,0,CMRL_2_0
-CMRL_2,sunday,CMRL_2_sunday_d1_05,1,CMRL_2_1
-CMRL_2,sunday,CMRL_2_sunday_d1_12,1,CMRL_2_1
-CMRL_2,sunday,CMRL_2_sunday_d1_20,1,CMRL_2_1
-CMRL_2,sunday,CMRL_2_sunday_d1_22,1,CMRL_2_1
-CMRL_3,weekday,CMRL_3_weekday_d0_05,0,
-CMRL_3,weekday,CMRL_3_weekday_d0_08,0,
-CMRL_3,weekday,CMRL_3_weekday_d0_11,0,
-CMRL_3,weekday,CMRL_3_weekday_d0_17,0,
-CMRL_3,weekday,CMRL_3_weekday_d0_20,0,
-CMRL_3,weekday,CMRL_3_weekday_d0_22,0,
-CMRL_3,weekday,CMRL_3_weekday_d1_05,1,
-CMRL_3,weekday,CMRL_3_weekday_d1_08,1,
-CMRL_3,weekday,CMRL_3_weekday_d1_11,1,
-CMRL_3,weekday,CMRL_3_weekday_d1_17,1,
-CMRL_3,weekday,CMRL_3_weekday_d1_20,1,
-CMRL_3,weekday,CMRL_3_weekday_d1_22,1,
-CMRL_3,saturday,CMRL_3_saturday_d0_05,0,
-CMRL_3,saturday,CMRL_3_saturday_d0_08,0,
-CMRL_3,saturday,CMRL_3_saturday_d0_11,0,
-CMRL_3,saturday,CMRL_3_saturday_d0_17,0,
-CMRL_3,saturday,CMRL_3_saturday_d0_20,0,
-CMRL_3,saturday,CMRL_3_saturday_d0_22,0,
-CMRL_3,saturday,CMRL_3_saturday_d1_05,1,
-CMRL_3,saturday,CMRL_3_saturday_d1_08,1,
-CMRL_3,saturday,CMRL_3_saturday_d1_11,1,
-CMRL_3,saturday,CMRL_3_saturday_d1_17,1,
-CMRL_3,saturday,CMRL_3_saturday_d1_20,1,
-CMRL_3,saturday,CMRL_3_saturday_d1_22,1,
-CMRL_3,sunday,CMRL_3_sunday_d0_05,0,
-CMRL_3,sunday,CMRL_3_sunday_d0_12,0,
-CMRL_3,sunday,CMRL_3_sunday_d0_20,0,
-CMRL_3,sunday,CMRL_3_sunday_d0_22,0,
-CMRL_3,sunday,CMRL_3_sunday_d1_05,1,
-CMRL_3,sunday,CMRL_3_sunday_d1_12,1,
-CMRL_3,sunday,CMRL_3_sunday_d1_20,1,
-CMRL_3,sunday,CMRL_3_sunday_d1_22,1,
+route_id,service_id,trip_id,trip_headsign,shape_id
+141142,WD,WD1410101,Airport,sh19
+109117,WD,WD1090102,Wimco Nagar Metro,sh18
+141142,WD,WD1410103,Airport,sh19
+109117,WD,WD1090104,Wimco Nagar Metro,sh18
+141142,WD,WD1410105,Airport,sh19
+109117,WD,WD1090106,Wimco Nagar Metro,sh18
+141142,WD,WD1410107,Airport,sh19
+109117,WD,WD1090108,Wimco Nagar Metro,sh18
+141142,WD,WD1410109,Airport,sh19
+109117,WD,WD1090110,Wimco Nagar Metro,sh18
+141142,WD,WD1410111,Airport,sh19
+109117,WD,WD1090112,Wimco Nagar Metro,sh18
+141142,WD,WD1410113,Airport,sh19
+109117,WD,WD1090114,Wimco Nagar Metro,sh18
+141142,WD,WD1410115,Airport,sh19
+109117,WD,WD1090116,Wimco Nagar Metro,sh18
+141142,WD,WD1410117,Airport,sh19
+23214,WD,WD0230201,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2201,WD,WD0020202,Airport,sh13
+23117,WD,WD0230203,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020204,Airport,sh13
+23117,WD,WD0230205,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020206,Airport,sh13
+23117,WD,WD0230207,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020208,Airport,sh13
+23117,WD,WD0230209,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020210,Airport,sh13
+23117,WD,WD0230211,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020212,Airport,sh13
+23117,WD,WD0230213,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020214,Airport,sh13
+23117,WD,WD0230215,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020216,Airport,sh13
+23117,WD,WD0230217,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020218,Airport,sh13
+23117,WD,WD0230219,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020220,Airport,sh13
+102146,WD,WD1020301,Wimco Nagar Metro,sh18
+141142,WD,WD1410302,Airport,sh19
+109117,WD,WD1090303,Wimco Nagar Metro,sh18
+141142,WD,WD1410304,Airport,sh19
+109117,WD,WD1090305,Wimco Nagar Metro,sh18
+141142,WD,WD1410306,Airport,sh19
+109117,WD,WD1090307,Wimco Nagar Metro,sh18
+141142,WD,WD1410308,Airport,sh19
+109117,WD,WD1090309,Wimco Nagar Metro,sh18
+141142,WD,WD1410310,Airport,sh19
+109117,WD,WD1090311,Wimco Nagar Metro,sh18
+141142,WD,WD1410312,Airport,sh19
+109117,WD,WD1090313,Wimco Nagar Metro,sh18
+141142,WD,WD1410314,Airport,sh19
+109117,WD,WD1090315,Wimco Nagar Metro,sh18
+141142,WD,WD1410316,Airport,sh19
+109117,WD,WD1090317,Wimco Nagar Metro,sh18
+141142,WD,WD1410318,Airport,sh19
+1108,WD,WD0010401,Airport,sh19
+109117,WD,WD1090402,Wimco Nagar Metro,sh18
+141142,WD,WD1410403,Airport,sh19
+109117,WD,WD1090404,Wimco Nagar Metro,sh18
+141142,WD,WD1410405,Airport,sh19
+109117,WD,WD1090406,Wimco Nagar Metro,sh18
+141142,WD,WD1410407,Airport,sh19
+109117,WD,WD1090408,Wimco Nagar Metro,sh18
+141142,WD,WD1410409,Airport,sh19
+109117,WD,WD1090410,Wimco Nagar Metro,sh18
+141142,WD,WD1410411,Airport,sh19
+109117,WD,WD1090412,Wimco Nagar Metro,sh18
+141142,WD,WD1410413,Airport,sh19
+109117,WD,WD1090414,Wimco Nagar Metro,sh18
+141142,WD,WD1410415,Airport,sh19
+109117,WD,WD1090416,Wimco Nagar Metro,sh18
+141142,WD,WD1410417,Airport,sh19
+29117,WD,WD0290418,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+2214,WD,WD0020501,Airport,sh13
+23117,WD,WD0230502,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020503,Airport,sh13
+23117,WD,WD0230504,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020505,Airport,sh13
+23117,WD,WD0230506,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0020507,Airport,sh13
+23117,WD,WD0230508,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+1104,WD,WD0010601,Airport,sh19
+109117,WD,WD1090602,Wimco Nagar Metro,sh18
+141142,WD,WD1410603,Airport,sh19
+109117,WD,WD1090604,Wimco Nagar Metro,sh18
+141142,WD,WD1410605,Airport,sh19
+109117,WD,WD1090606,Wimco Nagar Metro,sh18
+141142,WD,WD1410607,Airport,sh19
+109117,WD,WD1090608,Wimco Nagar Metro,sh18
+141142,WD,WD1410609,Airport,sh19
+109117,WD,WD1090610,Wimco Nagar Metro,sh18
+141142,WD,WD1410611,Airport,sh19
+109117,WD,WD1090612,Wimco Nagar Metro,sh18
+141142,WD,WD1410613,Airport,sh19
+109117,WD,WD1090614,Wimco Nagar Metro,sh18
+141142,WD,WD1410615,Airport,sh19
+109117,WD,WD1090616,Wimco Nagar Metro,sh18
+141142,WD,WD1410617,Airport,sh19
+17210,WD,WD0170701,St.Thomas Mount,sh7
+24217,WD,WD0240702,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170703,St.Thomas Mount,sh7
+24217,WD,WD0240704,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170705,St.Thomas Mount,sh7
+24217,WD,WD0240706,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170707,St.Thomas Mount,sh7
+24217,WD,WD0240708,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170709,St.Thomas Mount,sh7
+24217,WD,WD0240710,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170711,St.Thomas Mount,sh7
+24217,WD,WD0240712,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170713,St.Thomas Mount,sh7
+24217,WD,WD0240714,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170715,St.Thomas Mount,sh7
+24217,WD,WD0240716,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170717,St.Thomas Mount,sh7
+24217,WD,WD0240718,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170719,St.Thomas Mount,sh7
+24217,WD,WD0240720,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170721,St.Thomas Mount,sh7
+24217,WD,WD0240722,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170723,St.Thomas Mount,sh7
+24217,WD,WD0240724,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170725,St.Thomas Mount,sh7
+109114,WD,WD1090801,Wimco Nagar Metro,sh18
+141142,WD,WD1410802,Airport,sh19
+109117,WD,WD1090803,Wimco Nagar Metro,sh18
+141142,WD,WD1410804,Airport,sh19
+109117,WD,WD1090805,Wimco Nagar Metro,sh18
+141142,WD,WD1410806,Airport,sh19
+109117,WD,WD1090807,Wimco Nagar Metro,sh18
+141142,WD,WD1410808,Airport,sh19
+109117,WD,WD1090809,Wimco Nagar Metro,sh18
+141142,WD,WD1410810,Airport,sh19
+109117,WD,WD1090811,Wimco Nagar Metro,sh18
+141142,WD,WD1410812,Airport,sh19
+109117,WD,WD1090813,Wimco Nagar Metro,sh18
+141142,WD,WD1410814,Airport,sh19
+109117,WD,WD1090815,Wimco Nagar Metro,sh18
+141142,WD,WD1410816,Airport,sh19
+109117,WD,WD1090817,Wimco Nagar Metro,sh18
+141142,WD,WD1410818,Airport,sh19
+24217,WD,WD0240901,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170902,St.Thomas Mount,sh7
+24217,WD,WD0240903,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170904,St.Thomas Mount,sh7
+24217,WD,WD0240905,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170906,St.Thomas Mount,sh7
+24217,WD,WD0240907,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170908,St.Thomas Mount,sh7
+24217,WD,WD0240909,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170910,St.Thomas Mount,sh7
+24217,WD,WD0240911,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170912,St.Thomas Mount,sh7
+24217,WD,WD0240913,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170914,St.Thomas Mount,sh7
+24217,WD,WD0240915,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170916,St.Thomas Mount,sh7
+24217,WD,WD0240917,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170918,St.Thomas Mount,sh7
+24217,WD,WD0240919,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170920,St.Thomas Mount,sh7
+24217,WD,WD0240921,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170922,St.Thomas Mount,sh7
+24217,WD,WD0240923,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0170924,St.Thomas Mount,sh7
+17201,WD,WD0171001,St.Thomas Mount,sh7
+24217,WD,WD0241002,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171003,St.Thomas Mount,sh7
+24217,WD,WD0241004,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171005,St.Thomas Mount,sh7
+24217,WD,WD0241006,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171007,St.Thomas Mount,sh7
+24217,WD,WD0241008,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171009,St.Thomas Mount,sh7
+24217,WD,WD0241010,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171011,St.Thomas Mount,sh7
+24217,WD,WD0241012,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171013,St.Thomas Mount,sh7
+24217,WD,WD0241014,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171015,St.Thomas Mount,sh7
+24217,WD,WD0241016,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171017,St.Thomas Mount,sh7
+24217,WD,WD0241018,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171019,St.Thomas Mount,sh7
+24217,WD,WD0241020,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171021,St.Thomas Mount,sh7
+24217,WD,WD0241022,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171023,St.Thomas Mount,sh7
+24217,WD,WD0241024,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2206,WD,WD0021101,Airport,sh13
+23117,WD,WD0231102,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021103,Airport,sh13
+23117,WD,WD0231104,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021105,Airport,sh13
+23117,WD,WD0231106,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021107,Airport,sh13
+23117,WD,WD0231108,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+102101,WD,WD1021201,Wimco Nagar Metro,sh18
+141142,WD,WD1411202,Airport,sh19
+109117,WD,WD1091203,Wimco Nagar Metro,sh18
+141142,WD,WD1411204,Airport,sh19
+109117,WD,WD1091205,Wimco Nagar Metro,sh18
+141142,WD,WD1411206,Airport,sh19
+109117,WD,WD1091207,Wimco Nagar Metro,sh18
+141142,WD,WD1411208,Airport,sh19
+109117,WD,WD1091209,Wimco Nagar Metro,sh18
+141142,WD,WD1411210,Airport,sh19
+109117,WD,WD1091211,Wimco Nagar Metro,sh18
+141142,WD,WD1411212,Airport,sh19
+109117,WD,WD1091213,Wimco Nagar Metro,sh18
+141142,WD,WD1411214,Airport,sh19
+109117,WD,WD1091215,Wimco Nagar Metro,sh18
+141142,WD,WD1411216,Airport,sh19
+109117,WD,WD1091217,Wimco Nagar Metro,sh18
+141142,WD,WD1411218,Airport,sh19
+24209,WD,WD0241301,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171302,St.Thomas Mount,sh7
+24217,WD,WD0241303,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171304,St.Thomas Mount,sh7
+24217,WD,WD0241305,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171306,St.Thomas Mount,sh7
+24217,WD,WD0241307,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171308,St.Thomas Mount,sh7
+24217,WD,WD0241309,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171310,St.Thomas Mount,sh7
+24217,WD,WD0241311,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171312,St.Thomas Mount,sh7
+24217,WD,WD0241313,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171314,St.Thomas Mount,sh7
+24217,WD,WD0241315,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171316,St.Thomas Mount,sh7
+24217,WD,WD0241317,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171318,St.Thomas Mount,sh7
+24217,WD,WD0241319,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171320,St.Thomas Mount,sh7
+24217,WD,WD0241321,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171322,St.Thomas Mount,sh7
+24217,WD,WD0241323,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0171324,St.Thomas Mount,sh7
+24217,WD,WD0241325,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+109117,WD,WD1091401,Wimco Nagar Metro,sh18
+141142,WD,WD1411402,Airport,sh19
+109117,WD,WD1091403,Wimco Nagar Metro,sh18
+141142,WD,WD1411404,Airport,sh19
+109117,WD,WD1091405,Wimco Nagar Metro,sh18
+141142,WD,WD1411406,Airport,sh19
+109117,WD,WD1091407,Wimco Nagar Metro,sh18
+141142,WD,WD1411408,Airport,sh19
+109117,WD,WD1091409,Wimco Nagar Metro,sh18
+141142,WD,WD1411410,Airport,sh19
+109117,WD,WD1091411,Wimco Nagar Metro,sh18
+141142,WD,WD1411412,Airport,sh19
+109117,WD,WD1091413,Wimco Nagar Metro,sh18
+141142,WD,WD1411414,Airport,sh19
+109117,WD,WD1091415,Wimco Nagar Metro,sh18
+141142,WD,WD1411416,Airport,sh19
+29117,WD,WD0291417,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+23203,WD,WD0231501,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2201,WD,WD0021502,Airport,sh13
+23117,WD,WD0231503,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021504,Airport,sh13
+23117,WD,WD0231505,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021506,Airport,sh13
+23117,WD,WD0231507,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021508,Airport,sh13
+23117,WD,WD0231509,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021510,Airport,sh13
+23117,WD,WD0231511,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021512,Airport,sh13
+23117,WD,WD0231513,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021514,Airport,sh13
+23117,WD,WD0231515,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021516,Airport,sh13
+23117,WD,WD0231517,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021518,Airport,sh13
+23117,WD,WD0231519,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0021520,Airport,sh13
+29117,WD,WD0291521,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+1101,WD,WD0011601,Airport,sh19
+109117,WD,WD1091602,Wimco Nagar Metro,sh18
+141142,WD,WD1411603,Airport,sh19
+109117,WD,WD1091604,Wimco Nagar Metro,sh18
+141142,WD,WD1411605,Airport,sh19
+109117,WD,WD1091606,Wimco Nagar Metro,sh18
+141142,WD,WD1411607,Airport,sh19
+109117,WD,WD1091608,Wimco Nagar Metro,sh18
+141142,WD,WD1411609,Airport,sh19
+109117,WD,WD1091610,Wimco Nagar Metro,sh18
+141142,WD,WD1411611,Airport,sh19
+109117,WD,WD1091612,Wimco Nagar Metro,sh18
+141142,WD,WD1411613,Airport,sh19
+109117,WD,WD1091614,Wimco Nagar Metro,sh18
+141142,WD,WD1411615,Airport,sh19
+109117,WD,WD1091616,Wimco Nagar Metro,sh18
+141142,WD,WD1411617,Airport,sh19
+1114,WD,WD0011701,Airport,sh19
+109117,WD,WD1091702,Wimco Nagar Metro,sh18
+141142,WD,WD1411703,Airport,sh19
+109117,WD,WD1091704,Wimco Nagar Metro,sh18
+141142,WD,WD1411705,Airport,sh19
+109117,WD,WD1091706,Wimco Nagar Metro,sh18
+141142,WD,WD1411707,Airport,sh19
+109117,WD,WD1091708,Wimco Nagar Metro,sh18
+141142,WD,WD1411709,Airport,sh19
+109117,WD,WD1091710,Wimco Nagar Metro,sh18
+141142,WD,WD1411711,Airport,sh19
+109117,WD,WD1091712,Wimco Nagar Metro,sh18
+141142,WD,WD1411713,Airport,sh19
+109117,WD,WD1091714,Wimco Nagar Metro,sh18
+141142,WD,WD1411715,Airport,sh19
+109117,WD,WD1091716,Wimco Nagar Metro,sh18
+141142,WD,WD1411717,Airport,sh19
+109108,WD,WD1091801,Wimco Nagar Metro,sh18
+141142,WD,WD1411802,Airport,sh19
+109117,WD,WD1091803,Wimco Nagar Metro,sh18
+141142,WD,WD1411804,Airport,sh19
+109117,WD,WD1091805,Wimco Nagar Metro,sh18
+141142,WD,WD1411806,Airport,sh19
+109117,WD,WD1091807,Wimco Nagar Metro,sh18
+141142,WD,WD1411808,Airport,sh19
+109117,WD,WD1091809,Wimco Nagar Metro,sh18
+141142,WD,WD1411810,Airport,sh19
+109117,WD,WD1091811,Wimco Nagar Metro,sh18
+141142,WD,WD1411812,Airport,sh19
+109117,WD,WD1091813,Wimco Nagar Metro,sh18
+141142,WD,WD1411814,Airport,sh19
+109117,WD,WD1091815,Wimco Nagar Metro,sh18
+141142,WD,WD1411816,Airport,sh19
+109117,WD,WD1091817,Wimco Nagar Metro,sh18
+141142,WD,WD1411818,Airport,sh19
+109160,WD,WD1091901,Wimco Nagar Metro,sh18
+141142,WD,WD1411902,Airport,sh19
+109117,WD,WD1091903,Wimco Nagar Metro,sh18
+141142,WD,WD1411904,Airport,sh19
+109117,WD,WD1091905,Wimco Nagar Metro,sh18
+141142,WD,WD1411906,Airport,sh19
+109117,WD,WD1091907,Wimco Nagar Metro,sh18
+141142,WD,WD1411908,Airport,sh19
+109117,WD,WD1091909,Wimco Nagar Metro,sh18
+141142,WD,WD1411910,Airport,sh19
+109117,WD,WD1091911,Wimco Nagar Metro,sh18
+141142,WD,WD1411912,Airport,sh19
+109117,WD,WD1091913,Wimco Nagar Metro,sh18
+141142,WD,WD1411914,Airport,sh19
+109117,WD,WD1091915,Wimco Nagar Metro,sh18
+141142,WD,WD1411916,Airport,sh19
+109117,WD,WD1091917,Wimco Nagar Metro,sh18
+141142,WD,WD1411918,Airport,sh19
+23117,WD,WD0232001,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022002,Airport,sh13
+23117,WD,WD0232003,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022004,Airport,sh13
+23117,WD,WD0232005,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022006,Airport,sh13
+23117,WD,WD0232007,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022008,Airport,sh13
+23117,WD,WD0232009,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022010,Airport,sh13
+23117,WD,WD0232011,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022012,Airport,sh13
+23117,WD,WD0232013,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022014,Airport,sh13
+23117,WD,WD0232015,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022016,Airport,sh13
+23117,WD,WD0232017,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022018,Airport,sh13
+23117,WD,WD0232019,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022020,Airport,sh13
+1211,WD,WD0012101,Airport,sh13
+109117,WD,WD1092102,Wimco Nagar Metro,sh18
+141142,WD,WD1412103,Airport,sh19
+109117,WD,WD1092104,Wimco Nagar Metro,sh18
+141142,WD,WD1412105,Airport,sh19
+109117,WD,WD1092106,Wimco Nagar Metro,sh18
+1211,WD,WD0012201,Airport,sh13
+109117,WD,WD1092202,Wimco Nagar Metro,sh18
+141142,WD,WD1412203,Airport,sh19
+109117,WD,WD1092204,Wimco Nagar Metro,sh18
+141142,WD,WD1412205,Airport,sh19
+109117,WD,WD1092206,Wimco Nagar Metro,sh18
+1211,WD,WD0012301,Airport,sh13
+109117,WD,WD1092302,Wimco Nagar Metro,sh18
+141142,WD,WD1412303,Airport,sh19
+109117,WD,WD1092304,Wimco Nagar Metro,sh18
+141142,WD,WD1412305,Airport,sh19
+29117,WD,WD0292306,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+1211,WD,WD0012401,Airport,sh13
+109117,WD,WD1092402,Wimco Nagar Metro,sh18
+141142,WD,WD1412403,Airport,sh19
+109117,WD,WD1092404,Wimco Nagar Metro,sh18
+141142,WD,WD1412405,Airport,sh19
+1211,WD,WD0012501,Airport,sh13
+109117,WD,WD1092502,Wimco Nagar Metro,sh18
+141142,WD,WD1412503,Airport,sh19
+109117,WD,WD1092504,Wimco Nagar Metro,sh18
+141142,WD,WD1412505,Airport,sh19
+29117,WD,WD0292506,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+23258,WD,WD0232601,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2201,WD,WD0022602,Airport,sh13
+23117,WD,WD0232603,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022604,Airport,sh13
+23117,WD,WD0232605,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022606,Airport,sh13
+1211,WD,WD0012701,Airport,sh13
+109117,WD,WD1092702,Wimco Nagar Metro,sh18
+141142,WD,WD1412703,Airport,sh19
+109117,WD,WD1092704,Wimco Nagar Metro,sh18
+141142,WD,WD1412705,Airport,sh19
+29117,WD,WD0292706,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+2201,WD,WD0022801,Airport,sh13
+23117,WD,WD0232802,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022803,Airport,sh13
+23117,WD,WD0232804,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0022805,Airport,sh13
+29117,WD,WD0292806,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+24209,WD,WD0242901,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0172902,St.Thomas Mount,sh7
+24217,WD,WD0242903,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0172904,St.Thomas Mount,sh7
+24217,WD,WD0242905,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0172906,St.Thomas Mount,sh7
+1211,WD,WD0013001,Airport,sh13
+109117,WD,WD1093002,Wimco Nagar Metro,sh18
+141142,WD,WD1413003,Airport,sh19
+109117,WD,WD1093004,Wimco Nagar Metro,sh18
+141142,WD,WD1413005,Airport,sh19
+29117,WD,WD0293006,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+23258,WD,WD0233101,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2201,WD,WD0023102,Airport,sh13
+23117,WD,WD0233103,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023104,Airport,sh13
+23117,WD,WD0233105,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023106,Airport,sh13
+23117,WD,WD0233107,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023108,Airport,sh13
+23117,WD,WD0233109,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023110,Airport,sh13
+23117,WD,WD0233111,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023112,Airport,sh13
+23117,WD,WD0233113,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023114,Airport,sh13
+23117,WD,WD0233115,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023116,Airport,sh13
+23117,WD,WD0233117,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023118,Airport,sh13
+1211,WD,WD0013201,Airport,sh13
+109117,WD,WD1093202,Wimco Nagar Metro,sh18
+141142,WD,WD1413203,Airport,sh19
+109117,WD,WD1093204,Wimco Nagar Metro,sh18
+141142,WD,WD1413205,Airport,sh19
+17211,WD,WD0173301,St.Thomas Mount,sh7
+24217,WD,WD0243302,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0173303,St.Thomas Mount,sh7
+24217,WD,WD0243304,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0173305,St.Thomas Mount,sh7
+24217,WD,WD0243306,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+24209,WD,WD0243401,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0173402,St.Thomas Mount,sh7
+24217,WD,WD0243403,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0173404,St.Thomas Mount,sh7
+24217,WD,WD0243405,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+18201,WD,WD0183406,St.Thomas Mount,sh7
+1211,WD,WD0013501,Airport,sh13
+109117,WD,WD1093502,Wimco Nagar Metro,sh18
+141142,WD,WD1413503,Airport,sh19
+109117,WD,WD1093504,Wimco Nagar Metro,sh18
+141142,WD,WD1413505,Airport,sh19
+23258,WD,WD0233601,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2201,WD,WD0023602,Airport,sh13
+23117,WD,WD0233603,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023604,Airport,sh13
+23117,WD,WD0233605,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023606,Airport,sh13
+23117,WD,WD0233607,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023608,Airport,sh13
+23117,WD,WD0233609,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023610,Airport,sh13
+23117,WD,WD0233611,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023612,Airport,sh13
+23117,WD,WD0233613,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023614,Airport,sh13
+23117,WD,WD0233615,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0023616,Airport,sh13
+23117,WD,WD0233617,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+1211,WD,WD0013701,Airport,sh13
+109117,WD,WD1093702,Wimco Nagar Metro,sh18
+141142,WD,WD1413703,Airport,sh19
+109117,WD,WD1093704,Wimco Nagar Metro,sh18
+141142,WD,WD1413705,Airport,sh19
+24209,WD,WD0243801,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0173802,St.Thomas Mount,sh7
+24217,WD,WD0243803,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0173804,St.Thomas Mount,sh7
+24217,WD,WD0243805,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+1211,WD,WD0013901,Airport,sh13
+109117,WD,WD1093902,Wimco Nagar Metro,sh18
+141142,WD,WD1413903,Airport,sh19
+109117,WD,WD1093904,Wimco Nagar Metro,sh18
+23258,WD,WD0234001,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2201,WD,WD0024002,Airport,sh13
+23117,WD,WD0234003,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0024004,Airport,sh13
+23117,WD,WD0234005,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0024006,Airport,sh13
+23117,WD,WD0234007,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+109117,WD,WD1094101,Wimco Nagar Metro,sh18
+141142,WD,WD1414102,Airport,sh19
+109117,WD,WD1094103,Wimco Nagar Metro,sh18
+141142,WD,WD1414104,Airport,sh19
+109117,WD,WD1094105,Wimco Nagar Metro,sh18
+141142,WD,WD1414106,Airport,sh19
+24209,WD,WD0244201,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0174202,St.Thomas Mount,sh7
+24217,WD,WD0244203,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0174204,St.Thomas Mount,sh7
+24217,WD,WD0244205,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0174206,St.Thomas Mount,sh7
+24217,WD,WD0244207,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0174208,St.Thomas Mount,sh7
+29217,WD,WD0294209,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh20
+1211,WD,WD0014301,Airport,sh13
+109117,WD,WD1094302,Wimco Nagar Metro,sh18
+141142,WD,WD1414303,Airport,sh19
+109117,WD,WD1094304,Wimco Nagar Metro,sh18
+141142,WD,WD1414305,Airport,sh19
+109117,WD,WD1094306,Wimco Nagar Metro,sh18
+141142,WD,WD1414307,Airport,sh19
+109117,WD,WD1094401,Wimco Nagar Metro,sh18
+141142,WD,WD1414402,Airport,sh19
+109117,WD,WD1094403,Wimco Nagar Metro,sh18
+141142,WD,WD1414404,Airport,sh19
+109117,WD,WD1094405,Wimco Nagar Metro,sh18
+141142,WD,WD1414406,Airport,sh19
+23258,WD,WD0234501,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2201,WD,WD0024502,Airport,sh13
+23117,WD,WD0234503,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0024504,Airport,sh13
+23117,WD,WD0234505,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0024506,Airport,sh13
+23117,WD,WD0234507,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+1211,WD,WD0014601,Airport,sh13
+109117,WD,WD1094602,Wimco Nagar Metro,sh18
+141142,WD,WD1414603,Airport,sh19
+109117,WD,WD1094604,Wimco Nagar Metro,sh18
+141142,WD,WD1414605,Airport,sh19
+109117,WD,WD1094606,Wimco Nagar Metro,sh18
+141142,WD,WD1414607,Airport,sh19
+109117,WD,WD1094701,Wimco Nagar Metro,sh18
+141142,WD,WD1414702,Airport,sh19
+109117,WD,WD1094703,Wimco Nagar Metro,sh18
+141142,WD,WD1414704,Airport,sh19
+109117,WD,WD1094705,Wimco Nagar Metro,sh18
+141142,WD,WD1414706,Airport,sh19
+24209,WD,WD0244801,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0174802,St.Thomas Mount,sh7
+24217,WD,WD0244803,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0174804,St.Thomas Mount,sh7
+24217,WD,WD0244805,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0174806,St.Thomas Mount,sh7
+24217,WD,WD0244807,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+1211,WD,WD0014901,Airport,sh13
+109117,WD,WD1094902,Wimco Nagar Metro,sh18
+141142,WD,WD1414903,Airport,sh19
+109117,WD,WD1094904,Wimco Nagar Metro,sh18
+141142,WD,WD1414905,Airport,sh19
+109117,WD,WD1094906,Wimco Nagar Metro,sh18
+102103,WD,WD1025001,Wimco Nagar Metro,sh18
+141142,WD,WD1415002,Airport,sh19
+109117,WD,WD1095003,Wimco Nagar Metro,sh18
+141142,WD,WD1415004,Airport,sh19
+109117,WD,WD1095005,Wimco Nagar Metro,sh18
+141142,WD,WD1415006,Airport,sh19
+109117,WD,WD1095007,Wimco Nagar Metro,sh18
+141142,WD,WD1415101,Airport,sh19
+109117,WD,WD1095102,Wimco Nagar Metro,sh18
+141142,WD,WD1415103,Airport,sh19
+109117,WD,WD1095104,Wimco Nagar Metro,sh18
+141142,WD,WD1415105,Airport,sh19
+109117,WD,WD1095106,Wimco Nagar Metro,sh18
+23258,WD,WD0235201,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+2201,WD,WD0025202,Airport,sh13
+23117,WD,WD0235203,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0025204,Airport,sh13
+23117,WD,WD0235205,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0025206,Airport,sh13
+29117,WD,WD0295207,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh17
+1211,WD,WD0015301,Airport,sh13
+109117,WD,WD1095302,Wimco Nagar Metro,sh18
+141142,WD,WD1415303,Airport,sh19
+109117,WD,WD1095304,Wimco Nagar Metro,sh18
+141142,WD,WD1415305,Airport,sh19
+109117,WD,WD1095306,Wimco Nagar Metro,sh18
+141142,WD,WD1415401,Airport,sh19
+109117,WD,WD1095402,Wimco Nagar Metro,sh18
+141142,WD,WD1415403,Airport,sh19
+109117,WD,WD1095404,Wimco Nagar Metro,sh18
+141142,WD,WD1415405,Airport,sh19
+109117,WD,WD1095406,Wimco Nagar Metro,sh18
+24209,WD,WD0245501,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0175502,St.Thomas Mount,sh7
+24217,WD,WD0245503,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0175504,St.Thomas Mount,sh7
+24217,WD,WD0245505,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0175506,St.Thomas Mount,sh7
+24217,WD,WD0245507,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+23117,WD,WD0235601,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0025602,Airport,sh13
+23117,WD,WD0235603,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0025604,Airport,sh13
+23117,WD,WD0235605,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+2201,WD,WD0025606,Airport,sh13
+23117,WD,WD0235607,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh14
+24217,WD,WD0245701,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0175702,St.Thomas Mount,sh7
+24217,WD,WD0245703,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0175704,St.Thomas Mount,sh7
+24217,WD,WD0245705,Puratchi Thalaivar Dr.M.G.Ramachandran Central,sh8
+17201,WD,WD0175706,St.Thomas Mount,sh7
+29217,WD,WD0295707,Puratchi Thalaivi Dr.J.Jayalalithaa CMBT,sh20
+1211,WD,WD0015801,Airport,sh13
+109117,WD,WD1095802,Wimco Nagar Metro,sh18
+141142,WD,WD1415803,Airport,sh19
+109117,WD,WD1095804,Wimco Nagar Metro,sh18
+141142,WD,WD1415805,Airport,sh19
+109117,WD,WD1095806,Wimco Nagar Metro,sh18

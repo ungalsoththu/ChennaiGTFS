@@ -1,0 +1,5 @@
+date,service_id,exception_type
+20251001,SRR-service_0000001,1
+20251001,SRR-service_1111110,2
+20251002,SRR-service_0000001,1
+20251002,SRR-service_1111110,2

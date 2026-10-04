@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang
-CMRL,Chennai Metro Rail Limited,https://chennaimetrorail.org,Asia/Kolkata,en
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+CMRL,Chennai Metro Rail Limited,http://chennaimetrorail.org/,Asia/Kolkata,en,1860-425-1515,https://chennaimetrorail.org/wp-content/uploads/2021/02/Fare-Chart-22.2.2021.pdf,chennaimetrorail@cmrl.in

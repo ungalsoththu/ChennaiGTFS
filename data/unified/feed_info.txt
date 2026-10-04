@@ -1,2 +1,2 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Ithu Ungal Soththu,https://ithuungalsoththu.vercel.app/,ta,20250301,20251231,2025.03.25
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Ithu Ungal Soththu,https://github.com/ungalsoththu/ChennaiGTFS,en,,,0.2.0,ithuungalsoththu.tn@gmail.com,https://github.com/ungalsoththu/ChennaiGTFS

@@ -1,4 +1,29 @@
-route_id,agency_id,route_short_name,route_long_name,route_type
-CMRL_1,CMRL,Blue Line,Blue Line — Wimco Nagar Depot ↔ Airport,1
-CMRL_2,CMRL,Green Line,Green Line — MGR Central ↔ St. Thomas Mount,1
-CMRL_3,CMRL,Inter-Corridor,Inter-Corridor — MGR Central ↔ Airport,1
+route_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+141142,SWN-SAP, Wimco Nagar Metro - Airport,,1,000092,FFFFFF
+109117,SAP-SWN,Airport - Wimco Nagar Metro,,1,000092,FFFFFF
+23214,SMM-SCC,St.Thomas Mount - Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro,,1,00A700,000000
+2201,SCC-SAP,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - Airport,,1,,000000
+23117,SAP-SCC,Airport - Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro,,1,,000000
+102146,SAP-SWN,Airport - Wimco Nagar Metro,,1,000092,FFFFFF
+1108,SWN-SAP, Wimco Nagar Metro - Airport,,1,000092,FFFFFF
+29117,SAP-SCM,Airport - Puratchi Thalaivi Dr.J.Jayalalithaa CMBT Metro ,,1,,000000
+2214,SCC-SAP,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - Airport,,1,,000000
+1104,SWN-SAP, Wimco Nagar Metro - Airport,,1,000092,FFFFFF
+17210,SCC-SMM,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - St.Thomas Mount,,1,00A700,000000
+24217,SMM-SCC,St.Thomas Mount - Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro,,1,00A700,000000
+17201,SCC-SMM,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - St.Thomas Mount,,1,00A700,000000
+109114,SAP-SWN,Airport - Wimco Nagar Metro,,1,000092,FFFFFF
+2206,SCC-SAP,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - Airport,,1,,000000
+102101,SAP-SWN,Airport - Wimco Nagar Metro,,1,000092,FFFFFF
+24209,SMM-SCC,St.Thomas Mount - Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro,,1,00A700,000000
+23203,SMM-SCC,St.Thomas Mount - Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro,,1,00A700,000000
+1101,SWN-SAP, Wimco Nagar Metro - Airport,,1,000092,FFFFFF
+1114,SWN-SAP, Wimco Nagar Metro - Airport,,1,000092,FFFFFF
+109108,SAP-SWN,Airport - Wimco Nagar Metro,,1,000092,FFFFFF
+109160,SAP-SWN,Airport - Wimco Nagar Metro,,1,000092,FFFFFF
+1211,SCC-SAP,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - Airport,,1,,000000
+23258,SMM-SCC,St.Thomas Mount - Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro,,1,00A700,000000
+17211,SCC-SMM,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - St.Thomas Mount,,1,00A700,000000
+18201,SCC-SMM,Puratchi Thalaivar Dr.M.G.Ramachandran Central Metro - St.Thomas Mount,,1,00A700,000000
+29217,SMM-SCM,St.Thomas Mount - Puratchi Thalaivi Dr.J.Jayalalithaa CMBT Metro,,1,00A700,000000
+102103,SAP-SWN,Airport - Wimco Nagar Metro,,1,000092,FFFFFF

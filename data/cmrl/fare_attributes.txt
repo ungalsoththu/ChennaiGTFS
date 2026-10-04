@@ -1,0 +1,8 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+F0,0,INR,1,,7200
+F1,10,INR,1,,7200
+F2,20,INR,1,,7200
+F3,30,INR,1,,7200
+F4,40,INR,1,,7200
+F5,50,INR,1,,7200
+F6,60,INR,1,,7200

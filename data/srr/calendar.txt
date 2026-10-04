@@ -1,0 +1,6 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+service_1111111,1,1,1,1,1,1,1,20250806,21700820
+service_1111110,1,1,1,1,1,1,0,20250908,21700820
+service_0000001,0,0,0,0,0,0,1,20250908,21700820
+service_1111101,1,1,1,1,1,0,1,20250908,21700820
+service_0000010,0,0,0,0,0,1,0,20250908,21700820
